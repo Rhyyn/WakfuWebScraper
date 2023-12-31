@@ -1,0 +1,94 @@
+{
+    "title": {
+        "fr": "Boufmarteau",
+        "en": "Gobbhammer"
+    },
+    "description": {
+        "fr": "Ce marteau ne se contente pas de cogner, il mord ! Si vous y croyez, c'est que vous êtes complètement frappé...",
+        "en": "This hammer doesn't just like to smash things, it likes to bite them, too. And, if you believe that, you must need your head looking at..."
+    },
+    "id": 2027,
+    "level": 7,
+    "baseParams": {
+        "itemTypeId": 114,
+        "itemSetId": 0,
+        "rarity": 1
+    },
+    "useParams": {
+        "useCostAp": 5,
+        "useCostMp": 0,
+        "useCostWp": 0,
+        "useRangeMin": 5,
+        "useRangeMax": 5
+    },
+    "gfxId": 1142027,
+    "equipEffects": [
+        {
+            "effect": {
+                "definition": {
+                    "id": 184059
+                },
+                "stats": {
+                    "display": {
+                        "fr": "1 Contrôle",
+                        "en": "1 Control"
+                    },
+                    "property": 184,
+                    "value": 1
+                }
+            }
+        },
+        {
+            "effect": {
+                "definition": {
+                    "id": 184062
+                },
+                "stats": {
+                    "display": {
+                        "fr": "14 Maîtrise Élémentaire",
+                        "en": "14 Elemental Mastery"
+                    },
+                    "property": 120,
+                    "value": 14
+                }
+            }
+        },
+        {
+            "effect": {
+                "definition": {
+                    "id": 184060
+                },
+                "stats": {
+                    "display": {
+                        "fr": "8 PV",
+                        "en": "8 HP"
+                    },
+                    "property": 20,
+                    "value": 8
+                }
+            }
+        },
+        {
+            "effect": {
+                "definition": {
+                    "id": 184061
+                },
+                "stats": {
+                    "display": {
+                        "fr": "2 % Coup critique",
+                        "en": "2 % Critical Hit"
+                    },
+                    "property": 150,
+                    "value": 2
+                }
+            }
+        }
+    ],
+    "droprates": {
+        "Bouftou": "4%",
+        "Boufton Noir": "4%",
+        "Chef de Guerre Bouftou": "4%",
+        "Boufton Blanc": "4%",
+        "Boufette": "4%"
+    }
+}

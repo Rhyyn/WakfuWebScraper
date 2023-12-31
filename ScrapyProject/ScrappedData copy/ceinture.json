@@ -1,0 +1,4830 @@
+[
+  {
+    "item": {
+      "name": "Sangle de Boisaille",
+      "id": "4226"
+    },
+    "rarity": "1",
+    "droprates": {
+      "Chacha Angora": "4%",
+      "Chacha": "4%",
+      "Chacha Blanc": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/4226"
+  },
+  {
+    "item": {
+      "name": "String du Mulou",
+      "id": "5971"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mulou": "0.8%",
+      "Muloune": "0.8%",
+      "Milimulou": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/5971"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Sangroku",
+      "id": "5993"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Abraknyde Dominant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/5993"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Pandawan",
+      "id": "7576"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Victim le Frappé": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/7576"
+  },
+  {
+    "item": {
+      "name": "Corbature",
+      "id": "8259"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Corbac": "0.8%",
+      "Corbic": "0.8%",
+      "Corbac Chef": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/8259"
+  },
+  {
+    "item": {
+      "name": "Ceintrool",
+      "id": "8379"
+    },
+    "rarity": "2",
+    "droprates": {
+      "El Pochito": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/8379"
+  },
+  {
+    "item": {
+      "name": "Ceinture de l'Aventurier",
+      "id": "9498"
+    },
+    "rarity": "1",
+    "droprates": {
+      "Abraknyde": "4%",
+      "Abragland": "4%",
+      "Arakne Brodeuse": "4%",
+      "Arakne": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9498"
+  },
+  {
+    "item": {
+      "name": "Ceinture Tofu Royal",
+      "id": "9501"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Tofu Royal": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9501"
+  },
+  {
+    "item": {
+      "name": "Cordon du Piou Royal",
+      "id": "9552"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Piou Royal": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9552"
+  },
+  {
+    "item": {
+      "name": "Ceinture Mulante",
+      "id": "10096"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mulou": "0.8%",
+      "Muloune": "0.8%",
+      "Milimulou": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10096"
+  },
+  {
+    "item": {
+      "name": "Ceinture Fulgurante",
+      "id": "10272"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Morfor": "0.7992%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10272"
+  },
+  {
+    "item": {
+      "name": "Ronceinture",
+      "id": "11017"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Pissdane l'Insipide": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11017"
+  },
+  {
+    "item": {
+      "name": "Serre-Taille Wapin de Pwak",
+      "id": "11382"
+    },
+    "rarity": "1",
+    "droprates": {
+      "Mama Wapin": "5%",
+      "Ti Wapin": "5%",
+      "Wapin": "5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11382"
+  },
+  {
+    "item": {
+      "name": "Ceinture Multe",
+      "id": "12382"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Milkar le Meulou": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12382"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Clergé",
+      "id": "12605"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Alf Iguem": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12605"
+  },
+  {
+    "item": {
+      "name": "Pend Dule",
+      "id": "12622"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Nonne": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12622"
+  },
+  {
+    "item": {
+      "name": "Rature Bourrue",
+      "id": "12636"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Ratchitik": "0.8%",
+      "Rat'Os": "0.8%",
+      "Ratgnagna": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12636"
+  },
+  {
+    "item": {
+      "name": "Ceintrepat",
+      "id": "12818"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chauffe-Souris Dodue": "0.1%",
+      "Goule": "0.1%",
+      "Gouloutony": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12818"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Corbeau Blanc",
+      "id": "14143"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Corbeau Noir": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14143"
+  },
+  {
+    "item": {
+      "name": "Ceinture chuchotée",
+      "id": "14415"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chuchoteurs Fantassins": "0.8%",
+      "Chuchoteurs Arbalétriers": "0.8%",
+      "Chuchoteur Porte-Etendard": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14415"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Rempart",
+      "id": "14433"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Craqueleur Chuchoté": "0.8%",
+      "Craqueboule Chuchoté": "0.8%",
+      "Grand Craqueleur Chuchoté": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14433"
+  },
+  {
+    "item": {
+      "name": "Ceinture susurrée",
+      "id": "14473"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maître Chuchoku": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14473"
+  },
+  {
+    "item": {
+      "name": "Ceintedy",
+      "id": "14712"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bouftou Dominant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14712"
+  },
+  {
+    "item": {
+      "name": "CeinSouali",
+      "id": "14734"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ratagasd le Marron": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14734"
+  },
+  {
+    "item": {
+      "name": "Ceinture Larvesque Vaseuse",
+      "id": "14976"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Larve Bleue": "0.8%",
+      "Larve Orange": "0.8%",
+      "Larve Verte": "0.8%",
+      "Larve Blanche": "0.8%",
+      "Larve Violette": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14976"
+  },
+  {
+    "item": {
+      "name": "La Phosphorescente",
+      "id": "15206"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Arakne Poilue": "0.8%",
+      "Arakne Majeure": "0.8%",
+      "Arakne Mineure": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15206"
+  },
+  {
+    "item": {
+      "name": "La Ratte qui rit",
+      "id": "15407"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ratafia le Titubant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15407"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Bouftou Enragé",
+      "id": "15580"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Boufalobil le Chevaucheur": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15580"
+  },
+  {
+    "item": {
+      "name": "Ceinture Polaire",
+      "id": "15963"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Crakmite": "0.8%",
+      "Crakeurn Polaire": "0.8%",
+      "Craktite": "0.8%",
+      "Crarte d’Or": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15963"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Yech'Ti'Wawa",
+      "id": "16019"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Yech'Ti'Wawa": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16019"
+  },
+  {
+    "item": {
+      "name": "Ceinture Nécroforgée",
+      "id": "16047"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kya, Missiz Frizz": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16047"
+  },
+  {
+    "item": {
+      "name": "La Ceintur‘os",
+      "id": "16050"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Brute du Nord": "0.8%",
+      "Garde du Nord": "0.8%",
+      "Archer du Nord": "0.8%",
+      "Traqueur du Nord": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16050"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Sylargh",
+      "id": "16056"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Sylargh": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16056"
+  },
+  {
+    "item": {
+      "name": "La Grande Courroie",
+      "id": "16061"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mékabra": "0.8%",
+      "Mékarbac": "0.8%",
+      "Mékanistro": "0.8%",
+      "Mékazerker": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16061"
+  },
+  {
+    "item": {
+      "name": "Moulure Délavée",
+      "id": "16802"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bilbymoule Nacrée": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16802"
+  },
+  {
+    "item": {
+      "name": "Bouée de Secours",
+      "id": "16820"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bilbyboy Framboise": "0.1%",
+      "Bilbygirl Menthe": "0.1%",
+      "Bilbyboy Fraise": "0.1%",
+      "Bilbygirl Citron": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16820"
+  },
+  {
+    "item": {
+      "name": "Short Gonflé",
+      "id": "16831"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bilby Queen": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16831"
+  },
+  {
+    "item": {
+      "name": "Ceinturoir",
+      "id": "16893"
+    },
+    "rarity": "2",
+    "droprates": {
+      "El Pochito": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16893"
+  },
+  {
+    "item": {
+      "name": "Ficelle d’El Pochito",
+      "id": "16901"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Pochito": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16901"
+  },
+  {
+    "item": {
+      "name": "Le Tutu",
+      "id": "16975"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Dragon-Cochon": "1.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16975"
+  },
+  {
+    "item": {
+      "name": "Obi du Lenald",
+      "id": "17231"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Lenald Juniol": "0.72%",
+      "Lenald": "0.72%",
+      "Vieux Lenald": "0.72%",
+      "Glonald": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17231"
+  },
+  {
+    "item": {
+      "name": "Slip du Black Wabbit",
+      "id": "17253"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Black Ti Wabbit": "0.09%",
+      "Black Wabbit": "0.09%",
+      "Black Wo Wabbit": "0.09%",
+      "Black Gwand Pa Wabbit": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17253"
+  },
+  {
+    "item": {
+      "name": "Petite Ceintuwe",
+      "id": "17313"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Tiwallieuw Wabbit": "0.64%",
+      "Chevaliew Wabbit": "0.64%",
+      "Gawde Wabbit": "0.64%",
+      "Wobot": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17313"
+  },
+  {
+    "item": {
+      "name": "Slip de secouws Woboté",
+      "id": "17321"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Wobot en Chef": "1.6%",
+      "Wa Wabbit": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17321"
+  },
+  {
+    "item": {
+      "name": "Sewwe-taille du Wa Wabbit",
+      "id": "17329"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Wa Wabbit": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17329"
+  },
+  {
+    "item": {
+      "name": "Ceintuwe Génétiquement Modifiée",
+      "id": "17355"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gwand Wabbit GM": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17355"
+  },
+  {
+    "item": {
+      "name": "Puissante Ceinture Fulgurante",
+      "id": "17546"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Lin Shi, Empeleul Lenald": "0.1%",
+      "Emiw Black Wabbit": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17546"
+  },
+  {
+    "item": {
+      "name": "Ceinture Sauvage",
+      "id": "17759"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chef de Guerre Sauvage": "0.1%",
+      "Bouftou Sauvage": "0.1%",
+      "Boufette Chamane": "0.1%",
+      "Boufton sauvage": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17759"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Throll",
+      "id": "17813"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Throll": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17813"
+  },
+  {
+    "item": {
+      "name": "Ceinture Plantaire Bwork",
+      "id": "17816"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mineur Bwork": "0.8%",
+      "Bomber Bwork": "0.8%",
+      "Guerrier Bwork": "0.8%",
+      "Cybwork": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17816"
+  },
+  {
+    "item": {
+      "name": "Lien d'Ocushus",
+      "id": "18094"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Spectrex le Tourmenteur": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18094"
+  },
+  {
+    "item": {
+      "name": "Ceinture Tourmentée",
+      "id": "18095"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Spectrex le Tourmenteur": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18095"
+  },
+  {
+    "item": {
+      "name": "Tour de Piktus",
+      "id": "18155"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Piktus": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18155"
+  },
+  {
+    "item": {
+      "name": "Perle de Télob",
+      "id": "18167"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Telob le Champmane": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18167"
+  },
+  {
+    "item": {
+      "name": "Ceinture Noire de Spore",
+      "id": "18182"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Haploïde Sporulateur": "0.09%",
+      "Amionite Bicéphaloïde": "0.09%",
+      "Coulemellanche Sauteur": "0.09%",
+      "Cêpolourpode Ecrasant": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18182"
+  },
+  {
+    "item": {
+      "name": "L'ombre serrée",
+      "id": "18546"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Venâme le Mangelombre": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18546"
+  },
+  {
+    "item": {
+      "name": "Ceinture d'Enutrosor",
+      "id": "18547"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chevalancier": "0.08%",
+      "Enutroffre-Fort": "0.08%",
+      "Kamarachnide": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18547"
+  },
+  {
+    "item": {
+      "name": "Ceintérêts",
+      "id": "18549"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Jamall'Auneth le Porte-clés": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18549"
+  },
+  {
+    "item": {
+      "name": "La Zwombbiture",
+      "id": "18640"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Wabbit Tados": "0.08%",
+      "Ti Wabbit Tados": "0.08%",
+      "Gwand Pa Zwombbit Bandé": "0.08%",
+      "Wo Zwombbit": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18640"
+  },
+  {
+    "item": {
+      "name": "Chode Foullule Lenald",
+      "id": "18641"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Le Lenald Glis": "0.6492%",
+      "Lenald Juniol": "0.0648%",
+      "Lenald": "0.0648%",
+      "Vieux Lenald": "0.0648%",
+      "Glonald": "0.0648%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18641"
+  },
+  {
+    "item": {
+      "name": "L'Orture",
+      "id": "18699"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Kamarad la Partageuse": "0.516%",
+      "Chevalancier": "0.0516%",
+      "Enutroffre-Fort": "0.0516%",
+      "Kamarachnide": "0.0516%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18699"
+  },
+  {
+    "item": {
+      "name": "Mémoire",
+      "id": "19054"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Vertox l'Intemporel": "0.7%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19054"
+  },
+  {
+    "item": {
+      "name": "Ceinturon Classique",
+      "id": "19126"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Poz": "0.07%",
+      "Lairdavan": "0.07%",
+      "Syclick": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19126"
+  },
+  {
+    "item": {
+      "name": "Ceintoujours à jour",
+      "id": "19139"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Raipiode l'Infréquençable": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19139"
+  },
+  {
+    "item": {
+      "name": "Pagne du Grand Orrok",
+      "id": "19343"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grand Orrok": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19343"
+  },
+  {
+    "item": {
+      "name": "Kroature",
+      "id": "19355"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kroamagnon": "0.1%",
+      "Krocky": "0.1%",
+      "Korbelle": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19355"
+  },
+  {
+    "item": {
+      "name": "Korboture",
+      "id": "19360"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Korbot K-800": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19360"
+  },
+  {
+    "item": {
+      "name": "Corbure",
+      "id": "19378"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Orrokimarou le Rampant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19378"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Serre d'Acier",
+      "id": "19415"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Serre d'Acier": "0.54%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19415"
+  },
+  {
+    "item": {
+      "name": "Ceinturon Chon",
+      "id": "19700"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Kanniboul Lymi": "0.034%",
+      "Kanniboul Ette": "0.034%",
+      "Kanniboul Voodoo": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19700"
+  },
+  {
+    "item": {
+      "name": "Ceinture tropicale",
+      "id": "19705"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Psykoko": "0.034%",
+      "Kokolérik": "0.034%",
+      "Kokolosse": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19705"
+  },
+  {
+    "item": {
+      "name": "Cordon Jon",
+      "id": "19714"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Phéromane": "0.034%",
+      "Dionatrape": "0.034%",
+      "Tropiliane": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19714"
+  },
+  {
+    "item": {
+      "name": "Ceinture des Vents",
+      "id": "19746"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Kannistère": "0.1%",
+      "Koko le Nutt": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19746"
+  },
+  {
+    "item": {
+      "name": "Bennet Nutte",
+      "id": "19864"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Koko le Nutt": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19864"
+  },
+  {
+    "item": {
+      "name": "Cordelière Dézand",
+      "id": "19879"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Kannistère": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19879"
+  },
+  {
+    "item": {
+      "name": "Boucle Gende",
+      "id": "20161"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Grozépine": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20161"
+  },
+  {
+    "item": {
+      "name": "Ceinturon du Bordunil",
+      "id": "20207"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Chasseur Dunîl": "0.034%",
+      "Eventreur Dunîl": "0.034%",
+      "Shaman Dunîl": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20207"
+  },
+  {
+    "item": {
+      "name": "Ceinture Dunîl",
+      "id": "20216"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Roi Dunîl": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20216"
+  },
+  {
+    "item": {
+      "name": "Ceinturon de Foul Moon",
+      "id": "20251"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Foul Moon": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20251"
+  },
+  {
+    "item": {
+      "name": "Incarnature",
+      "id": "20381"
+    },
+    "rarity": "0",
+    "droprates": {
+      "Âme Altérée": "5%",
+      "Bouftou Stasifié": "5%",
+      "Tofu Corrompu": "5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20381"
+  },
+  {
+    "item": {
+      "name": "Bouée canard",
+      "id": "20398"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mimi Pâti": "1%",
+      "Pâti Bulleur": "1%",
+      "Pâti Impériâl": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20398"
+  },
+  {
+    "item": {
+      "name": "Ceinturon de la Grande Prêtresse",
+      "id": "20556"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grande Prêtresse Sydonia": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20556"
+  },
+  {
+    "item": {
+      "name": "Raisinture",
+      "id": "20557"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mamie Lésime": "0.08%",
+      "Papy Crate": "0.08%",
+      "Serprieuse": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20557"
+  },
+  {
+    "item": {
+      "name": "Pagne Feuille de Vigne",
+      "id": "20558"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mamie Lésime": "0.08%",
+      "Papy Crate": "0.08%",
+      "Serprieuse": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20558"
+  },
+  {
+    "item": {
+      "name": "Ceinture Prismatique",
+      "id": "20719"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Nogord l'Ezarélé": "0.75%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20719"
+  },
+  {
+    "item": {
+      "name": "Ceinture à Poches",
+      "id": "20934"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Oeuf Antique": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20934"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Futur",
+      "id": "20952"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Dragoeuf Bis'Oeufale": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20952"
+  },
+  {
+    "item": {
+      "name": "Ceinture Smare",
+      "id": "20985"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Smarmot": "0.8%",
+      "Gros Smare": "0.8%",
+      "Smare Couatique": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20985"
+  },
+  {
+    "item": {
+      "name": "Crustasangle",
+      "id": "21137"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kralaboss": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21137"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Kraken",
+      "id": "21149"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kraken": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21149"
+  },
+  {
+    "item": {
+      "name": "Ceinture Sanglante",
+      "id": "21161"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Royal Skouale": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21161"
+  },
+  {
+    "item": {
+      "name": "Ceinture Sanguinolente",
+      "id": "21174"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Requinoa": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21174"
+  },
+  {
+    "item": {
+      "name": "Sangles Sanglantes",
+      "id": "21207"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Kali": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21207"
+  },
+  {
+    "item": {
+      "name": "Sangle de la Reine Slek",
+      "id": "21238"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Reine Slek": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21238"
+  },
+  {
+    "item": {
+      "name": "Ceinture Rageuse",
+      "id": "21265"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kali": "1.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21265"
+  },
+  {
+    "item": {
+      "name": "Porte-Jarretelles",
+      "id": "21331"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Magislek": "0.8%",
+      "Long Brick": "0.8%",
+      "Crasslek": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21331"
+  },
+  {
+    "item": {
+      "name": "Porte-Jarretelles",
+      "id": "21336"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Magislek": "0.1%",
+      "Long Brick": "0.1%",
+      "Crasslek": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21336"
+  },
+  {
+    "item": {
+      "name": "Ceinture Smare",
+      "id": "21481"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Smarmot": "0.1%",
+      "Gros Smare": "0.1%",
+      "Smare Couatique": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21481"
+  },
+  {
+    "item": {
+      "name": "Ceinture Smare",
+      "id": "21498"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Smarmot": "0.05%",
+      "Gros Smare": "0.05%",
+      "Smare Couatique": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21498"
+  },
+  {
+    "item": {
+      "name": "Ceinture Luth",
+      "id": "21535"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Fripon": "7.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21535"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Gris XIII",
+      "id": "21546"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gris XIII": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21546"
+  },
+  {
+    "item": {
+      "name": "Ceinture Phorrine",
+      "id": "21552"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Phorreur Domestique": "0.72%",
+      "Phorreur Entraîné": "0.72%",
+      "Bébé Phorreur": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21552"
+  },
+  {
+    "item": {
+      "name": "Ceinture Phorrine",
+      "id": "21557"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Phorreur Domestique": "0.09%",
+      "Phorreur Entraîné": "0.09%",
+      "Bébé Phorreur": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21557"
+  },
+  {
+    "item": {
+      "name": "Ceinture Luth",
+      "id": "21563"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fripon": "0.9%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21563"
+  },
+  {
+    "item": {
+      "name": "Ceinture Phorrine",
+      "id": "21575"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Phorreur Domestique": "0.046%",
+      "Phorreur Entraîné": "0.046%",
+      "Bébé Phorreur": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21575"
+  },
+  {
+    "item": {
+      "name": "Ceinture Luth",
+      "id": "21583"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fripon": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21583"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Trappeur",
+      "id": "21725"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Blérwitch le Furax": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21725"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Trappeur",
+      "id": "21763"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Blérwitch le Furax": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21763"
+  },
+  {
+    "item": {
+      "name": "Corde Vocale",
+      "id": "21791"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Schistophrène": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21791"
+  },
+  {
+    "item": {
+      "name": "Froc Chaud",
+      "id": "21797"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Cendragon": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21797"
+  },
+  {
+    "item": {
+      "name": "Ceinture à Poches",
+      "id": "21834"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Oeuf Antique": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21834"
+  },
+  {
+    "item": {
+      "name": "Ceinture à Poches",
+      "id": "21852"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Oeuf Antique": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21852"
+  },
+  {
+    "item": {
+      "name": "Sohturon",
+      "id": "21931"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Sor'Hon, Seigneur de la Flamme": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21931"
+  },
+  {
+    "item": {
+      "name": "Sohturon",
+      "id": "21932"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sor'Hon, Seigneur de la Flamme": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21932"
+  },
+  {
+    "item": {
+      "name": "Sohturon",
+      "id": "21933"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sor'Hon, Seigneur de la Flamme": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21933"
+  },
+  {
+    "item": {
+      "name": "Cordelière Ebor",
+      "id": "21934"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sor'Hon, Seigneur de la Flamme": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21934"
+  },
+  {
+    "item": {
+      "name": "Cordelière Ebor",
+      "id": "21935"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sor'Hon, Seigneur de la Flamme": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21935"
+  },
+  {
+    "item": {
+      "name": "Ceinture Biyon",
+      "id": "21986"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Schistérique": "0.4%",
+      "Ammaniaque": "0.4%",
+      "Sulfurie": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21986"
+  },
+  {
+    "item": {
+      "name": "Ceinture Biyon",
+      "id": "21987"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Schistérique": "0.05%",
+      "Ammaniaque": "0.05%",
+      "Sulfurie": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21987"
+  },
+  {
+    "item": {
+      "name": "Ceinture Biyon",
+      "id": "21988"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Schistérique": "0.03%",
+      "Ammaniaque": "0.03%",
+      "Sulfurie": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21988"
+  },
+  {
+    "item": {
+      "name": "Froc Chaud",
+      "id": "22003"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cendragon": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22003"
+  },
+  {
+    "item": {
+      "name": "Froc Chaud",
+      "id": "22004"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Cendragon": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22004"
+  },
+  {
+    "item": {
+      "name": "Ceinture tropicale",
+      "id": "22170"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Psykoko": "0.06%",
+      "Kokolérik": "0.06%",
+      "Kokolosse": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22170"
+  },
+  {
+    "item": {
+      "name": "Ceinture tropicale",
+      "id": "22171"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Psykoko": "0.48%",
+      "Kokolérik": "0.48%",
+      "Kokolosse": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22171"
+  },
+  {
+    "item": {
+      "name": "Bennet Nutte",
+      "id": "22192"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Koko le Nutt": "0.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22192"
+  },
+  {
+    "item": {
+      "name": "Bennet Nutte",
+      "id": "22193"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Koko le Nutt": "4.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22193"
+  },
+  {
+    "item": {
+      "name": "Ceinturon Chon",
+      "id": "22218"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kanniboul Lymi": "0.06%",
+      "Kanniboul Ette": "0.06%",
+      "Kanniboul Voodoo": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22218"
+  },
+  {
+    "item": {
+      "name": "Ceinturon Chon",
+      "id": "22219"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Kanniboul Lymi": "0.48%",
+      "Kanniboul Ette": "0.48%",
+      "Kanniboul Voodoo": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22219"
+  },
+  {
+    "item": {
+      "name": "Cordelière Dézand",
+      "id": "22239"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kannistère": "1.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22239"
+  },
+  {
+    "item": {
+      "name": "Ceinturon du Bordunil",
+      "id": "22254"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chasseur Dunîl": "0.06%",
+      "Eventreur Dunîl": "0.06%",
+      "Shaman Dunîl": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22254"
+  },
+  {
+    "item": {
+      "name": "Ceinturon du Bordunil",
+      "id": "22255"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chasseur Dunîl": "0.48%",
+      "Eventreur Dunîl": "0.48%",
+      "Shaman Dunîl": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22255"
+  },
+  {
+    "item": {
+      "name": "Ceinture Dunîl",
+      "id": "22270"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Roi Dunîl": "0.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22270"
+  },
+  {
+    "item": {
+      "name": "Ceinture Dunîl",
+      "id": "22271"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Roi Dunîl": "4.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22271"
+  },
+  {
+    "item": {
+      "name": "Cordon Jon",
+      "id": "22302"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Phéromane": "0.06%",
+      "Dionatrape": "0.06%",
+      "Tropiliane": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22302"
+  },
+  {
+    "item": {
+      "name": "Cordon Jon",
+      "id": "22303"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Phéromane": "0.48%",
+      "Dionatrape": "0.48%",
+      "Tropiliane": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22303"
+  },
+  {
+    "item": {
+      "name": "Boucle Gende",
+      "id": "22310"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grozépine": "0.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22310"
+  },
+  {
+    "item": {
+      "name": "Boucle Gende",
+      "id": "22311"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Grozépine": "4.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22311"
+  },
+  {
+    "item": {
+      "name": "Mémoire",
+      "id": "22387"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Vertox l'Intemporel": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22387"
+  },
+  {
+    "item": {
+      "name": "Mémoire",
+      "id": "22388"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Vertox l'Intemporel": "5.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22388"
+  },
+  {
+    "item": {
+      "name": "Ceinturon Classique",
+      "id": "22396"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Poz": "0.038%",
+      "Lairdavan": "0.038%",
+      "Syclick": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22396"
+  },
+  {
+    "item": {
+      "name": "Ceinturon Classique",
+      "id": "22397"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Poz": "0.56%",
+      "Lairdavan": "0.56%",
+      "Syclick": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22397"
+  },
+  {
+    "item": {
+      "name": "Ceintoujours à jour",
+      "id": "22420"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Raipiode l'Infréquençable": "0.7%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22420"
+  },
+  {
+    "item": {
+      "name": "Ceinturon de Foul Moon",
+      "id": "22443"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Foul Moon": "2.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22443"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Serre d'Acier",
+      "id": "22467"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Serre d'Acier": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22467"
+  },
+  {
+    "item": {
+      "name": "L'ombre serrée",
+      "id": "22617"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Venâme le Mangelombre": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22617"
+  },
+  {
+    "item": {
+      "name": "L'Amortisseuse",
+      "id": "22628"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sir Urh le Renfermé": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22628"
+  },
+  {
+    "item": {
+      "name": "Ceinture d'Enutrosor",
+      "id": "22631"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Chevalancier": "0.042%",
+      "Enutroffre-Fort": "0.042%",
+      "Kamarachnide": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22631"
+  },
+  {
+    "item": {
+      "name": "Ceinture d'Enutrosor",
+      "id": "22632"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chevalancier": "0.64%",
+      "Enutroffre-Fort": "0.64%",
+      "Kamarachnide": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22632"
+  },
+  {
+    "item": {
+      "name": "Ceintérêts",
+      "id": "22659"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Jamall'Auneth le Porte-clés": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22659"
+  },
+  {
+    "item": {
+      "name": "Raisinture",
+      "id": "22677"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mamie Lésime": "0.042%",
+      "Papy Crate": "0.042%",
+      "Serprieuse": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22677"
+  },
+  {
+    "item": {
+      "name": "Raisinture",
+      "id": "22678"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mamie Lésime": "0.64%",
+      "Papy Crate": "0.64%",
+      "Serprieuse": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22678"
+  },
+  {
+    "item": {
+      "name": "Pagne Feuille de Vigne",
+      "id": "22680"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mamie Lésime": "0.042%",
+      "Papy Crate": "0.042%",
+      "Serprieuse": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22680"
+  },
+  {
+    "item": {
+      "name": "Pagne Feuille de Vigne",
+      "id": "22681"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mamie Lésime": "0.64%",
+      "Papy Crate": "0.64%",
+      "Serprieuse": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22681"
+  },
+  {
+    "item": {
+      "name": "Ceinturon de la Grande Prêtresse",
+      "id": "22688"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Grande Prêtresse Sydonia": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22688"
+  },
+  {
+    "item": {
+      "name": "Ceinturon de la Grande Prêtresse",
+      "id": "22689"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Grande Prêtresse Sydonia": "6.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22689"
+  },
+  {
+    "item": {
+      "name": "La Zwombbiture",
+      "id": "22715"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Wabbit Tados": "0.042%",
+      "Ti Wabbit Tados": "0.042%",
+      "Gwand Pa Zwombbit Bandé": "0.042%",
+      "Wo Zwombbit": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22715"
+  },
+  {
+    "item": {
+      "name": "La Zwombbiture",
+      "id": "22716"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Wabbit Tados": "0.64%",
+      "Ti Wabbit Tados": "0.64%",
+      "Gwand Pa Zwombbit Bandé": "0.64%",
+      "Wo Zwombbit": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22716"
+  },
+  {
+    "item": {
+      "name": "Ceintuwe Génétiquement Modifiée",
+      "id": "22725"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Gwand Wabbit GM": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22725"
+  },
+  {
+    "item": {
+      "name": "Petite Ceintuwe",
+      "id": "22755"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Tiwallieuw Wabbit": "0.042%",
+      "Chevaliew Wabbit": "0.042%",
+      "Gawde Wabbit": "0.042%",
+      "Wobot": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22755"
+  },
+  {
+    "item": {
+      "name": "Petite Ceintuwe",
+      "id": "22756"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Tiwallieuw Wabbit": "0.08%",
+      "Chevaliew Wabbit": "0.08%",
+      "Gawde Wabbit": "0.08%",
+      "Wobot": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22756"
+  },
+  {
+    "item": {
+      "name": "Slip de secouws Woboté",
+      "id": "22761"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Wobot en Chef": "0.042%",
+      "Wa Wabbit": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22761"
+  },
+  {
+    "item": {
+      "name": "Sewwe-taille du Wa Wabbit",
+      "id": "22768"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Wa Wabbit": "6.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22768"
+  },
+  {
+    "item": {
+      "name": "Sewwe-taille du Wa Wabbit",
+      "id": "22769"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Wa Wabbit": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22769"
+  },
+  {
+    "item": {
+      "name": "Ceinture Noire de Spore",
+      "id": "22818"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Haploïde Sporulateur": "0.046%",
+      "Amionite Bicéphaloïde": "0.046%",
+      "Coulemellanche Sauteur": "0.046%",
+      "Cêpolourpode Ecrasant": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22818"
+  },
+  {
+    "item": {
+      "name": "Ceinture Noire de Spore",
+      "id": "22819"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Haploïde Sporulateur": "0.72%",
+      "Amionite Bicéphaloïde": "0.72%",
+      "Coulemellanche Sauteur": "0.72%",
+      "Cêpolourpode Ecrasant": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22819"
+  },
+  {
+    "item": {
+      "name": "Perle de Télob",
+      "id": "22831"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Telob le Champmane": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22831"
+  },
+  {
+    "item": {
+      "name": "Obi du Lenald",
+      "id": "22883"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Lenald Juniol": "0.09%",
+      "Lenald": "0.09%",
+      "Vieux Lenald": "0.09%",
+      "Glonald": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22883"
+  },
+  {
+    "item": {
+      "name": "Obi du Lenald",
+      "id": "22884"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Lenald Juniol": "0.046%",
+      "Lenald": "0.046%",
+      "Vieux Lenald": "0.046%",
+      "Glonald": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22884"
+  },
+  {
+    "item": {
+      "name": "Slip du Black Wabbit",
+      "id": "22928"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Black Ti Wabbit": "0.046%",
+      "Black Wabbit": "0.046%",
+      "Black Wo Wabbit": "0.046%",
+      "Black Gwand Pa Wabbit": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22928"
+  },
+  {
+    "item": {
+      "name": "Slip du Black Wabbit",
+      "id": "22929"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Black Ti Wabbit": "0.72%",
+      "Black Wabbit": "0.72%",
+      "Black Wo Wabbit": "0.72%",
+      "Black Gwand Pa Wabbit": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22929"
+  },
+  {
+    "item": {
+      "name": "Ceinture susurrée",
+      "id": "22989"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Maître Chuchoku": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22989"
+  },
+  {
+    "item": {
+      "name": "Ceinture Polaire",
+      "id": "22997"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Crakmite": "0.05%",
+      "Crakeurn Polaire": "0.05%",
+      "Craktite": "0.05%",
+      "Crarte d’Or": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22997"
+  },
+  {
+    "item": {
+      "name": "Ceinture Polaire",
+      "id": "22998"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Crakmite": "0.1%",
+      "Crakeurn Polaire": "0.1%",
+      "Craktite": "0.1%",
+      "Crarte d’Or": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22998"
+  },
+  {
+    "item": {
+      "name": "La Ceintur‘os",
+      "id": "23054"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Brute du Nord": "0.05%",
+      "Garde du Nord": "0.05%",
+      "Archer du Nord": "0.05%",
+      "Traqueur du Nord": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23054"
+  },
+  {
+    "item": {
+      "name": "La Ceintur‘os",
+      "id": "23055"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Brute du Nord": "0.1%",
+      "Garde du Nord": "0.1%",
+      "Archer du Nord": "0.1%",
+      "Traqueur du Nord": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23055"
+  },
+  {
+    "item": {
+      "name": "Ceinture Nécroforgée",
+      "id": "23063"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Kya, Missiz Frizz": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23063"
+  },
+  {
+    "item": {
+      "name": "La Grande Courroie",
+      "id": "23094"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mékabra": "0.05%",
+      "Mékarbac": "0.05%",
+      "Mékanistro": "0.05%",
+      "Mékazerker": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23094"
+  },
+  {
+    "item": {
+      "name": "La Grande Courroie",
+      "id": "23095"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mékabra": "0.1%",
+      "Mékarbac": "0.1%",
+      "Mékanistro": "0.1%",
+      "Mékazerker": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23095"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Sylargh",
+      "id": "23096"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sylargh": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23096"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Sylargh",
+      "id": "23097"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sylargh": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23097"
+  },
+  {
+    "item": {
+      "name": "Tour de Piktus",
+      "id": "23136"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Piktus": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23136"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Corbeau Blanc",
+      "id": "23175"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Corbeau Noir": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23175"
+  },
+  {
+    "item": {
+      "name": "Ceinture Tourmentée",
+      "id": "23222"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Spectrex le Tourmenteur": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23222"
+  },
+  {
+    "item": {
+      "name": "Lien d'Ocushus",
+      "id": "23224"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Spectrex le Tourmenteur": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23224"
+  },
+  {
+    "item": {
+      "name": "Ceinture chuchotée",
+      "id": "23238"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chuchoteurs Fantassins": "0.1%",
+      "Chuchoteurs Arbalétriers": "0.1%",
+      "Chuchoteur Porte-Etendard": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23238"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Rempart",
+      "id": "23246"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Craqueleur Chuchoté": "0.1%",
+      "Craqueboule Chuchoté": "0.1%",
+      "Grand Craqueleur Chuchoté": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23246"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Yech'Ti'Wawa",
+      "id": "23279"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Yech'Ti'Wawa": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23279"
+  },
+  {
+    "item": {
+      "name": "Pantalon du Chasseur du Froid",
+      "id": "23284"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Corberg la Naufrageuse": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23284"
+  },
+  {
+    "item": {
+      "name": "Slip de Bain du Chasseur",
+      "id": "23287"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Prince Gelu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23287"
+  },
+  {
+    "item": {
+      "name": "Bouée de Secours",
+      "id": "23299"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bilbyboy Framboise": "0.8%",
+      "Bilbygirl Menthe": "0.8%",
+      "Bilbyboy Fraise": "0.8%",
+      "Bilbygirl Citron": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23299"
+  },
+  {
+    "item": {
+      "name": "Short Gonflé",
+      "id": "23303"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bilby Queen": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23303"
+  },
+  {
+    "item": {
+      "name": "Ceintrepat",
+      "id": "23361"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chauffe-Souris Dodue": "0.8%",
+      "Goule": "0.8%",
+      "Gouloutony": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23361"
+  },
+  {
+    "item": {
+      "name": "Ceintrool",
+      "id": "23394"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Pochito": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23394"
+  },
+  {
+    "item": {
+      "name": "Ceinturoir",
+      "id": "23399"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Pochito": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23399"
+  },
+  {
+    "item": {
+      "name": "Moulure Délavée",
+      "id": "23424"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bilbymoule Nacrée": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23424"
+  },
+  {
+    "item": {
+      "name": "Corbature",
+      "id": "23483"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Corbac": "0.1%",
+      "Corbic": "0.1%",
+      "Corbac Chef": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23483"
+  },
+  {
+    "item": {
+      "name": "Kroature",
+      "id": "23509"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Kroamagnon": "0.8%",
+      "Krocky": "0.8%",
+      "Korbelle": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23509"
+  },
+  {
+    "item": {
+      "name": "Pagne du Grand Orrok",
+      "id": "23512"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Grand Orrok": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23512"
+  },
+  {
+    "item": {
+      "name": "Rature Bourrue",
+      "id": "23524"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ratchitik": "0.1%",
+      "Rat'Os": "0.1%",
+      "Ratgnagna": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23524"
+  },
+  {
+    "item": {
+      "name": "Ceinture Mulante",
+      "id": "23541"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mulou": "0.1%",
+      "Muloune": "0.1%",
+      "Milimulou": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23541"
+  },
+  {
+    "item": {
+      "name": "String du Mulou",
+      "id": "23550"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mulou": "0.1%",
+      "Muloune": "0.1%",
+      "Milimulou": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23550"
+  },
+  {
+    "item": {
+      "name": "La Phosphorescente",
+      "id": "23561"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Arakne Poilue": "0.1%",
+      "Arakne Majeure": "0.1%",
+      "Arakne Mineure": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23561"
+  },
+  {
+    "item": {
+      "name": "Ceinture Plantaire Bwork",
+      "id": "23628"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mineur Bwork": "0.1%",
+      "Bomber Bwork": "0.1%",
+      "Guerrier Bwork": "0.1%",
+      "Cybwork": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23628"
+  },
+  {
+    "item": {
+      "name": "Ceinture Sauvage",
+      "id": "23645"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chef de Guerre Sauvage": "0.8%",
+      "Bouftou Sauvage": "0.8%",
+      "Boufette Chamane": "0.8%",
+      "Boufton sauvage": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23645"
+  },
+  {
+    "item": {
+      "name": "Ceinture Buque",
+      "id": "23691"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Pissenlit Diabolique": "0.8%",
+      "Rose Démoniaque": "0.8%",
+      "Pissenlion": "0.8%",
+      "Tournesol Eclatant": "0.8%",
+      "Glouton Epineux": "0.8%",
+      "Rose Ténébreuse": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23691"
+  },
+  {
+    "item": {
+      "name": "Ceinture Buque",
+      "id": "23692"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pissenlit Diabolique": "0.1%",
+      "Rose Démoniaque": "0.1%",
+      "Pissenlion": "0.1%",
+      "Tournesol Eclatant": "0.1%",
+      "Glouton Epineux": "0.1%",
+      "Rose Ténébreuse": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23692"
+  },
+  {
+    "item": {
+      "name": "Ronceinture",
+      "id": "23708"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pissdane l'Insipide": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23708"
+  },
+  {
+    "item": {
+      "name": "Ceinture Multe",
+      "id": "23847"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Milkar le Meulou": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23847"
+  },
+  {
+    "item": {
+      "name": "Ceinture Oubliée",
+      "id": "23989"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23989"
+  },
+  {
+    "item": {
+      "name": "Ceinture Oubliée",
+      "id": "23990"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23990"
+  },
+  {
+    "item": {
+      "name": "Le Cobra",
+      "id": "24306"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie la Déterrée": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24306"
+  },
+  {
+    "item": {
+      "name": "Ceinture Kâ-Iba",
+      "id": "24310"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Agonie la Déterrée": "1.5984%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24310"
+  },
+  {
+    "item": {
+      "name": "Ceinture Ismo",
+      "id": "24320"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Agonie la Déterrée": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24320"
+  },
+  {
+    "item": {
+      "name": "Tour de la Terre",
+      "id": "24717"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie Coeur-Cristal": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24717"
+  },
+  {
+    "item": {
+      "name": "Ceinture d'Agate",
+      "id": "24736"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie Coeur-Cristal": "1.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24736"
+  },
+  {
+    "item": {
+      "name": "Tour de la Terre",
+      "id": "24821"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie Coeur-Cristal": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24821"
+  },
+  {
+    "item": {
+      "name": "Ceinture Moogrr Royale",
+      "id": "25160"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Moogrr Royale": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25160"
+  },
+  {
+    "item": {
+      "name": "La Cwabture",
+      "id": "25246"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cwalbinos le Blafard": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25246"
+  },
+  {
+    "item": {
+      "name": "Ceinture Teule",
+      "id": "25248"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cwabe Dominant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25248"
+  },
+  {
+    "item": {
+      "name": "Ceinturatroce",
+      "id": "25267"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Cwalbator": "0.8%",
+      "Père Cwabtor": "0.8%",
+      "Salbatroce": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25267"
+  },
+  {
+    "item": {
+      "name": "Ceinturatroce",
+      "id": "25268"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cwalbator": "0.1%",
+      "Père Cwabtor": "0.1%",
+      "Salbatroce": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25268"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Cwabe Royal",
+      "id": "25274"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cwabe Royal": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25274"
+  },
+  {
+    "item": {
+      "name": "Ceinture feuillue",
+      "id": "25305"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Grokoko": "0.8%",
+      "Kokoko": "0.8%",
+      "Tikoko": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25305"
+  },
+  {
+    "item": {
+      "name": "Ceinture feuillue",
+      "id": "25306"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grokoko": "0.1%",
+      "Kokoko": "0.1%",
+      "Tikoko": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25306"
+  },
+  {
+    "item": {
+      "name": "Ceinture Koko",
+      "id": "25315"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grokokolantha": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25315"
+  },
+  {
+    "item": {
+      "name": "Ceinture d’immunité",
+      "id": "25319"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grokokolantha": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25319"
+  },
+  {
+    "item": {
+      "name": "Booture",
+      "id": "25342"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Gros Boo": "0.8%",
+      "Moskito": "0.8%",
+      "Sangsuce Tsu Tsu": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25342"
+  },
+  {
+    "item": {
+      "name": "Booture",
+      "id": "25343"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gros Boo": "0.1%",
+      "Moskito": "0.1%",
+      "Sangsuce Tsu Tsu": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25343"
+  },
+  {
+    "item": {
+      "name": "Trutru",
+      "id": "25389"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Truche": "0.8%",
+      "Truchon": "0.8%",
+      "Truchemuche": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25389"
+  },
+  {
+    "item": {
+      "name": "Trutru",
+      "id": "25390"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Truche": "0.1%",
+      "Truchon": "0.1%",
+      "Truchemuche": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25390"
+  },
+  {
+    "item": {
+      "name": "Ceinture Prespic",
+      "id": "25435"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Marcassinet": "0.8%",
+      "Glaie": "0.8%",
+      "Gligli Agressif": "0.8%",
+      "Prespic": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25435"
+  },
+  {
+    "item": {
+      "name": "Ceinture Prespic",
+      "id": "25436"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Marcassinet": "0.1%",
+      "Glaie": "0.1%",
+      "Gligli Agressif": "0.1%",
+      "Prespic": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25436"
+  },
+  {
+    "item": {
+      "name": "Ceintros Royale",
+      "id": "25483"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chaferfu, roi Chafer": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25483"
+  },
+  {
+    "item": {
+      "name": "Scarature",
+      "id": "25513"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Scaraboss": "0.8%",
+      "Scarafon": "0.8%",
+      "Scaramel": "0.8%",
+      "Scarabruni": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25513"
+  },
+  {
+    "item": {
+      "name": "Scarature",
+      "id": "25514"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Scaraboss": "0.1%",
+      "Scarafon": "0.1%",
+      "Scaramel": "0.1%",
+      "Scarabruni": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25514"
+  },
+  {
+    "item": {
+      "name": "Scarature Dorée",
+      "id": "25529"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Scarador": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25529"
+  },
+  {
+    "item": {
+      "name": "Ceinture Riktus",
+      "id": "25543"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Maluss": "0.8%",
+      "Malopo": "0.8%",
+      "Malobouc": "0.8%",
+      "Malocac": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25543"
+  },
+  {
+    "item": {
+      "name": "Ceinture Riktus",
+      "id": "25544"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maluss": "0.1%",
+      "Malopo": "0.1%",
+      "Malobouc": "0.1%",
+      "Malocac": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25544"
+  },
+  {
+    "item": {
+      "name": "Ceinturoflake Royale",
+      "id": "25639"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Flaque Royale": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25639"
+  },
+  {
+    "item": {
+      "name": "Ceinturoflake Royale",
+      "id": "25640"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Flaque Royale": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25640"
+  },
+  {
+    "item": {
+      "name": "Abrature",
+      "id": "25754"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Abraknyde Ancestral": "0.72%",
+      "Tronknyde Sombre": "0.72%",
+      "Abraknyde Sombre": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25754"
+  },
+  {
+    "item": {
+      "name": "Abrature",
+      "id": "25755"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Abraknyde Ancestral": "0.09%",
+      "Tronknyde Sombre": "0.09%",
+      "Abraknyde Sombre": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25755"
+  },
+  {
+    "item": {
+      "name": "Abrature",
+      "id": "25756"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Abraknyde Ancestral": "0.046%",
+      "Tronknyde Sombre": "0.046%",
+      "Abraknyde Sombre": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25756"
+  },
+  {
+    "item": {
+      "name": "Patapourtour",
+      "id": "25823"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Patapikot": "0.56%",
+      "Patator": "0.56%",
+      "Patapattes": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25823"
+  },
+  {
+    "item": {
+      "name": "Patapourtour",
+      "id": "25824"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Patapikot": "0.07%",
+      "Patator": "0.07%",
+      "Patapattes": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25824"
+  },
+  {
+    "item": {
+      "name": "Patapourtour",
+      "id": "25825"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Patapikot": "0.038%",
+      "Patator": "0.038%",
+      "Patapattes": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25825"
+  },
+  {
+    "item": {
+      "name": "Stalagpourtour",
+      "id": "25852"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mamapoutre": "1.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25852"
+  },
+  {
+    "item": {
+      "name": "Stalagpourtour",
+      "id": "25853"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mamapoutre": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25853"
+  },
+  {
+    "item": {
+      "name": "La Corde d'Aihon",
+      "id": "25889"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Blop Trompettiste": "0.64%",
+      "Blop Dylan": "0.64%",
+      "Blop Tambourrin": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25889"
+  },
+  {
+    "item": {
+      "name": "La Corde d'Aihon",
+      "id": "25890"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Blop Trompettiste": "0.08%",
+      "Blop Dylan": "0.08%",
+      "Blop Tambourrin": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25890"
+  },
+  {
+    "item": {
+      "name": "La Corde d'Aihon",
+      "id": "25891"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Blop Trompettiste": "0.042%",
+      "Blop Dylan": "0.042%",
+      "Blop Tambourrin": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25891"
+  },
+  {
+    "item": {
+      "name": "Ceintambour",
+      "id": "25913"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Blopgang Amadeus Blopzart": "1.356%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25913"
+  },
+  {
+    "item": {
+      "name": "Ceintambour",
+      "id": "25914"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Blopgang Amadeus Blopzart": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25914"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Roublard Smisse",
+      "id": "25962"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Blar le Roux": "0.56%",
+      "Roublard Tiste": "0.56%",
+      "Roublard Alard Amasse": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25962"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Roublard Smisse",
+      "id": "25963"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Blar le Roux": "0.07%",
+      "Roublard Tiste": "0.07%",
+      "Roublard Alard Amasse": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25963"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Roublard Smisse",
+      "id": "25964"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Blar le Roux": "0.038%",
+      "Roublard Tiste": "0.038%",
+      "Roublard Alard Amasse": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25964"
+  },
+  {
+    "item": {
+      "name": "Ceinture Mate-moi",
+      "id": "25977"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Remington Smisse": "1.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25977"
+  },
+  {
+    "item": {
+      "name": "Ceinture Mate-moi",
+      "id": "25978"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Remington Smisse": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25978"
+  },
+  {
+    "item": {
+      "name": "Sangle Handeur",
+      "id": "26045"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Le Riktus Masqué": "1.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26045"
+  },
+  {
+    "item": {
+      "name": "Sangle Handeur",
+      "id": "26046"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Le Riktus Masqué": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26046"
+  },
+  {
+    "item": {
+      "name": "Ceinture des Ombres",
+      "id": "26288"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Ombrage": "0.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26288"
+  },
+  {
+    "item": {
+      "name": "Ceinturon Brrrr",
+      "id": "26296"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ombrage": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26296"
+  },
+  {
+    "item": {
+      "name": "Ceinturon Brrrr",
+      "id": "26317"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ombrage": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26317"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Dieu Ecaflip",
+      "id": "26486"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Gelée Réglisse": "0.7992%",
+      "Gelée Framboise": "0.0792%",
+      "Gelée Menthe": "0.0792%",
+      "Gelée Fraise": "0.0792%",
+      "Gelée Citron": "0.0792%",
+      "Bilbyboy Framboise": "0.0792%",
+      "Bilbygirl Menthe": "0.0792%",
+      "Bilbyboy Fraise": "0.0792%",
+      "Bilbygirl Citron": "0.0792%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26486"
+  },
+  {
+    "item": {
+      "name": "Ceinture Rasboulaire du Rasboul",
+      "id": "26508"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Gligli Royal": "0.1%",
+      "Hongrue, Haute Truche": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26508"
+  },
+  {
+    "item": {
+      "name": "Ceinture Froide",
+      "id": "26512"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Glaglaviot le Raclé": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26512"
+  },
+  {
+    "item": {
+      "name": "Ceinture Glagla",
+      "id": "26523"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Glaglawi": "0.8%",
+      "Glagla": "0.8%",
+      "Glagla Froidacier": "0.8%",
+      "Glagla Cornegivre": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26523"
+  },
+  {
+    "item": {
+      "name": "Ceinture Glagla",
+      "id": "26524"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Glaglawi": "0.1%",
+      "Glagla": "0.1%",
+      "Glagla Froidacier": "0.1%",
+      "Glagla Cornegivre": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26524"
+  },
+  {
+    "item": {
+      "name": "Ceinture Baine",
+      "id": "26632"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Assassin Encapuchonné": "0.56%",
+      "Mage Encapuchonné": "0.56%",
+      "Protecteur Encapuchonné": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26632"
+  },
+  {
+    "item": {
+      "name": "Ceinture Baine",
+      "id": "26633"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Assassin Encapuchonné": "0.07%",
+      "Mage Encapuchonné": "0.07%",
+      "Protecteur Encapuchonné": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26633"
+  },
+  {
+    "item": {
+      "name": "Ceinture Baine",
+      "id": "26634"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Assassin Encapuchonné": "0.038%",
+      "Mage Encapuchonné": "0.038%",
+      "Protecteur Encapuchonné": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26634"
+  },
+  {
+    "item": {
+      "name": "Sangle mort",
+      "id": "26828"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Pandikaze": "0.48%",
+      "Pandit": "0.48%",
+      "Pandou": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26828"
+  },
+  {
+    "item": {
+      "name": "Sangle mort",
+      "id": "26829"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pandikaze": "0.06%",
+      "Pandit": "0.06%",
+      "Pandou": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26829"
+  },
+  {
+    "item": {
+      "name": "Sangle mort",
+      "id": "26830"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Pandikaze": "0.034%",
+      "Pandit": "0.034%",
+      "Pandou": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26830"
+  },
+  {
+    "item": {
+      "name": "Ceinture Fléopard",
+      "id": "26906"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Fléroce": "0.4%",
+      "Flémard": "0.4%",
+      "Flétide": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26906"
+  },
+  {
+    "item": {
+      "name": "Ceinture Fléopard",
+      "id": "26907"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fléroce": "0.05%",
+      "Flémard": "0.05%",
+      "Flétide": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26907"
+  },
+  {
+    "item": {
+      "name": "Ceinture Fléopard",
+      "id": "26908"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fléroce": "0.03%",
+      "Flémard": "0.03%",
+      "Flétide": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26908"
+  },
+  {
+    "item": {
+      "name": "Ceinture Fléogre",
+      "id": "26925"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Fléogre": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26925"
+  },
+  {
+    "item": {
+      "name": "Ceinture Fléogre",
+      "id": "26926"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fléogre": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26926"
+  },
+  {
+    "item": {
+      "name": "Ceinture Fléogre",
+      "id": "26927"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fléogre": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26927"
+  },
+  {
+    "item": {
+      "name": "Sangle Abre",
+      "id": "26975"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Fantôme Pandit": "0.4%",
+      "Fantôme Pandule": "0.4%",
+      "Fantôme Tanuki-Chan": "0.4%",
+      "Fantôme Yokaï": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26975"
+  },
+  {
+    "item": {
+      "name": "Sangle Abre",
+      "id": "26976"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fantôme Pandit": "0.05%",
+      "Fantôme Pandule": "0.05%",
+      "Fantôme Tanuki-Chan": "0.05%",
+      "Fantôme Yokaï": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26976"
+  },
+  {
+    "item": {
+      "name": "Sangle Abre",
+      "id": "26977"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fantôme Pandit": "0.03%",
+      "Fantôme Pandule": "0.03%",
+      "Fantôme Tanuki-Chan": "0.03%",
+      "Fantôme Yokaï": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26977"
+  },
+  {
+    "item": {
+      "name": "Le Quart Tell",
+      "id": "26999"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fantôme Tanukouï-San": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26999"
+  },
+  {
+    "item": {
+      "name": "Le Quart Tell",
+      "id": "27000"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fantôme Tanukouï-San": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27000"
+  },
+  {
+    "item": {
+      "name": "Ceinture Chafeuse",
+      "id": "27026"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Bulbrute": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27026"
+  },
+  {
+    "item": {
+      "name": "Ceinture Assoiffée",
+      "id": "27289"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Yokaï Firefoux": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27289"
+  },
+  {
+    "item": {
+      "name": "Ceinture Hibourg",
+      "id": "27396"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Minibourg": "0.05%",
+      "Mage Hibourg": "0.05%",
+      "Gentibourg": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27396"
+  },
+  {
+    "item": {
+      "name": "Ceinture Hibourg",
+      "id": "27397"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Minibourg": "0.03%",
+      "Mage Hibourg": "0.03%",
+      "Gentibourg": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27397"
+  },
+  {
+    "item": {
+      "name": "Hiboucle",
+      "id": "27409"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Granduk Hibourg": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27409"
+  },
+  {
+    "item": {
+      "name": "Hiboucle",
+      "id": "27410"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Granduk Hibourg": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27410"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Comte Harebourg",
+      "id": "27441"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Comte Harebourg": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27441"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Comte Harebourg",
+      "id": "27442"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Comte Harebourg": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27442"
+  },
+  {
+    "item": {
+      "name": "Ceinture DigiArv",
+      "id": "27447"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gerbouille Dominante": "1.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27447"
+  },
+  {
+    "item": {
+      "name": "Ceinture Gerbouille",
+      "id": "27452"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bébé Gerbouille": "0.48%",
+      "Gerbouille": "0.48%",
+      "Pépé Gerbouille": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27452"
+  },
+  {
+    "item": {
+      "name": "Ceinture Gerbouille",
+      "id": "27453"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bébé Gerbouille": "0.06%",
+      "Gerbouille": "0.06%",
+      "Pépé Gerbouille": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27453"
+  },
+  {
+    "item": {
+      "name": "Ceinture Gerbouille",
+      "id": "27454"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Bébé Gerbouille": "0.034%",
+      "Gerbouille": "0.034%",
+      "Pépé Gerbouille": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27454"
+  },
+  {
+    "item": {
+      "name": "Ceinture de la Maman Gerbouille",
+      "id": "27492"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maman Gerbouille": "1.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27492"
+  },
+  {
+    "item": {
+      "name": "Ceinture de la Maman Gerbouille",
+      "id": "27493"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Maman Gerbouille": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27493"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Comte Frigost",
+      "id": "27556"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Comte Harebourg": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27556"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Comte Frigost",
+      "id": "27566"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Comte Harebourg": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27566"
+  },
+  {
+    "item": {
+      "name": "Ceintorréfaction",
+      "id": "27586"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cagnardeur Dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27586"
+  },
+  {
+    "item": {
+      "name": "Ceinture bouillonnante",
+      "id": "27609"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Castorbital": "0.4%",
+      "Tatourbillon": "0.4%",
+      "Carabajoie": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27609"
+  },
+  {
+    "item": {
+      "name": "Ceinture bouillonnante",
+      "id": "27610"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Castorbital": "0.05%",
+      "Tatourbillon": "0.05%",
+      "Carabajoie": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27610"
+  },
+  {
+    "item": {
+      "name": "Ceinture bouillonnante",
+      "id": "27611"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Castorbital": "0.03%",
+      "Tatourbillon": "0.03%",
+      "Carabajoie": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27611"
+  },
+  {
+    "item": {
+      "name": "Ceinture tentaculaire",
+      "id": "27644"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Crustargneux Dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27644"
+  },
+  {
+    "item": {
+      "name": "Ceinture trempée",
+      "id": "27667"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Cwabotteur": "0.4%",
+      "Pincision": "0.4%",
+      "Pinsulaire": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27667"
+  },
+  {
+    "item": {
+      "name": "Ceinture trempée",
+      "id": "27668"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cwabotteur": "0.05%",
+      "Pincision": "0.05%",
+      "Pinsulaire": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27668"
+  },
+  {
+    "item": {
+      "name": "Ceinture trempée",
+      "id": "27669"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Cwabotteur": "0.03%",
+      "Pincision": "0.03%",
+      "Pinsulaire": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27669"
+  },
+  {
+    "item": {
+      "name": "Ceinture Scie Béri",
+      "id": "27704"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Tigris": "0.4%",
+      "Loupin": "0.4%",
+      "Renard Valo": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27704"
+  },
+  {
+    "item": {
+      "name": "Ceinture Scie Béri",
+      "id": "27705"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Tigris": "0.05%",
+      "Loupin": "0.05%",
+      "Renard Valo": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27705"
+  },
+  {
+    "item": {
+      "name": "Ceinture Scie Béri",
+      "id": "27706"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Tigris": "0.03%",
+      "Loupin": "0.03%",
+      "Renard Valo": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27706"
+  },
+  {
+    "item": {
+      "name": "Ceinture J'enserre-ique",
+      "id": "27758"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Vandaliéné dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27758"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Fhaneboille",
+      "id": "27812"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Cagnardeur Dominant": "0.3996%",
+      "Castorbital": "0.0396%",
+      "Tatourbillon": "0.0396%",
+      "Carabajoie": "0.0396%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27812"
+  },
+  {
+    "item": {
+      "name": "Lithiase",
+      "id": "28058"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28058"
+  },
+  {
+    "item": {
+      "name": "Lithiase",
+      "id": "28059"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28059"
+  },
+  {
+    "item": {
+      "name": "Ceinturon de jambe",
+      "id": "28080"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28080"
+  },
+  {
+    "item": {
+      "name": "Ceinturon de jambe",
+      "id": "28081"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28081"
+  },
+  {
+    "item": {
+      "name": "Véritable Ceinture de Puissance",
+      "id": "28090"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28090"
+  },
+  {
+    "item": {
+      "name": "Ceinture Carapatte",
+      "id": "28141"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Dragonorrhée": "0.4%",
+      "Caméléhombre": "0.4%",
+      "Torturbulent": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28141"
+  },
+  {
+    "item": {
+      "name": "Ceinture Carapatte",
+      "id": "28142"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Dragonorrhée": "0.05%",
+      "Caméléhombre": "0.05%",
+      "Torturbulent": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28142"
+  },
+  {
+    "item": {
+      "name": "Ceinture Carapatte",
+      "id": "28143"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Dragonorrhée": "0.03%",
+      "Caméléhombre": "0.03%",
+      "Torturbulent": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28143"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Tortumulte",
+      "id": "28171"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Tortumulte": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28171"
+  },
+  {
+    "item": {
+      "name": "Ceinture du Tortumulte",
+      "id": "28172"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Tortumulte": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28172"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Scoubidours",
+      "id": "28198"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Scoubidours le Morfalours": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28198"
+  },
+  {
+    "item": {
+      "name": "Ceinture Plantigarde",
+      "id": "28204"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Oursonge": "0.4%",
+      "Boursouflé": "0.4%",
+      "Koung Fours": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28204"
+  },
+  {
+    "item": {
+      "name": "Ceinture Plantigarde",
+      "id": "28205"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Oursonge": "0.05%",
+      "Boursouflé": "0.05%",
+      "Koung Fours": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28205"
+  },
+  {
+    "item": {
+      "name": "Ceinture Plantigarde",
+      "id": "28206"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Oursonge": "0.03%",
+      "Boursouflé": "0.03%",
+      "Koung Fours": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28206"
+  },
+  {
+    "item": {
+      "name": "L'arête",
+      "id": "28263"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mansot Dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28263"
+  },
+  {
+    "item": {
+      "name": "Ceinture Mansot",
+      "id": "28267"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Manchômage": "0.4%",
+      "Manchopine": "0.4%",
+      "Manchot Kola": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28267"
+  },
+  {
+    "item": {
+      "name": "Ceinture Mansot",
+      "id": "28268"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Manchômage": "0.05%",
+      "Manchopine": "0.05%",
+      "Manchot Kola": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28268"
+  },
+  {
+    "item": {
+      "name": "Ceinture Mansot",
+      "id": "28269"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Manchômage": "0.03%",
+      "Manchopine": "0.03%",
+      "Manchot Kola": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28269"
+  },
+  {
+    "item": {
+      "name": "Kalipso",
+      "id": "28328"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Sumorse": "0.3996%",
+      "Lacrymorse le Larmoyant": "0.3996%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28328"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Phytomorphe",
+      "id": "29059"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Méristhaine": "0.4%",
+      "Champidiable": "0.4%",
+      "Virescent": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29059"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Phytomorphe",
+      "id": "29060"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Méristhaine": "0.05%",
+      "Champidiable": "0.05%",
+      "Virescent": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29060"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Phytomorphe",
+      "id": "29061"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Méristhaine": "0.03%",
+      "Champidiable": "0.03%",
+      "Virescent": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29061"
+  },
+  {
+    "item": {
+      "name": "Serre Vice",
+      "id": "29093"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Vaal'Enthia, Reine-démone": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29093"
+  },
+  {
+    "item": {
+      "name": "Serre Vice",
+      "id": "29094"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Vaal'Enthia, Reine-démone": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29094"
+  },
+  {
+    "item": {
+      "name": "Sangle Aérienne",
+      "id": "29117"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Vidéant Dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29117"
+  },
+  {
+    "item": {
+      "name": "Boucle Dentée",
+      "id": "29121"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Echinoidéant": "0.4%",
+      "Inanite": "0.4%",
+      "Chrysavide": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29121"
+  },
+  {
+    "item": {
+      "name": "Boucle Dentée",
+      "id": "29122"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Echinoidéant": "0.05%",
+      "Inanite": "0.05%",
+      "Chrysavide": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29122"
+  },
+  {
+    "item": {
+      "name": "Boucle Dentée",
+      "id": "29123"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Echinoidéant": "0.03%",
+      "Inanite": "0.03%",
+      "Chrysavide": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29123"
+  },
+  {
+    "item": {
+      "name": "Ceinture Renforcée",
+      "id": "29153"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ar'Nan, Augure du néant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29153"
+  },
+  {
+    "item": {
+      "name": "Ceinture Renforcée",
+      "id": "29154"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ar'Nan, Augure du néant": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29154"
+  },
+  {
+    "item": {
+      "name": "Buste d'Archibald",
+      "id": "29175"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Archibald l'Effroyable": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29175"
+  },
+  {
+    "item": {
+      "name": "Ceinture Effroyable",
+      "id": "29201"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sangsure": "0.05%",
+      "Rapace dépeceur": "0.05%",
+      "Condamnateur": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29201"
+  },
+  {
+    "item": {
+      "name": "Ceinture Effroyable",
+      "id": "29202"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sangsure": "0.03%",
+      "Rapace dépeceur": "0.03%",
+      "Condamnateur": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29202"
+  },
+  {
+    "item": {
+      "name": "Croch'Ture",
+      "id": "29215"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cratéros, Bourreau de la fin": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29215"
+  },
+  {
+    "item": {
+      "name": "Croch'Ture",
+      "id": "29216"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Cratéros, Bourreau de la fin": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29216"
+  },
+  {
+    "item": {
+      "name": "Nageoires égarées",
+      "id": "29239"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Égaré Dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29239"
+  },
+  {
+    "item": {
+      "name": "Bas-Ventre d'Ésrevni",
+      "id": "29245"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Réman'hante": "0.4%",
+      "Ésrevni": "0.4%",
+      "CeEvroaint": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29245"
+  },
+  {
+    "item": {
+      "name": "Bas-Ventre d'Ésrevni",
+      "id": "29246"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Réman'hante": "0.05%",
+      "Ésrevni": "0.05%",
+      "CeEvroaint": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29246"
+  },
+  {
+    "item": {
+      "name": "Bas-Ventre d'Ésrevni",
+      "id": "29247"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Réman'hante": "0.03%",
+      "Ésrevni": "0.03%",
+      "CeEvroaint": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29247"
+  },
+  {
+    "item": {
+      "name": "La Ceinture Adezyeux",
+      "id": "29267"
+    },
+    "rarity": "2",
+    "droprates": {
+      "!@#dh`~": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29267"
+  },
+  {
+    "item": {
+      "name": "La Ceinture Adezyeux",
+      "id": "29268"
+    },
+    "rarity": "3",
+    "droprates": {
+      "!@#dh`~": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29268"
+  },
+  {
+    "item": {
+      "name": "La Ceinture Adezyeux",
+      "id": "29269"
+    },
+    "rarity": "4",
+    "droprates": {
+      "!@#dh`~": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29269"
+  },
+  {
+    "item": {
+      "name": "Salopette de Gloutonnie",
+      "id": "29301"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Glutonny": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29301"
+  },
+  {
+    "item": {
+      "name": "Boucle Infernale",
+      "id": "29307"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Glouto": "0.4%",
+      "Druidre": "0.4%",
+      "Maître des ténèbres": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29307"
+  },
+  {
+    "item": {
+      "name": "Boucle Infernale",
+      "id": "29308"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Glouto": "0.05%",
+      "Druidre": "0.05%",
+      "Maître des ténèbres": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29308"
+  },
+  {
+    "item": {
+      "name": "Boucle Infernale",
+      "id": "29309"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Glouto": "0.03%",
+      "Druidre": "0.03%",
+      "Maître des ténèbres": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29309"
+  },
+  {
+    "item": {
+      "name": "Pagne de K'abah'al",
+      "id": "29339"
+    },
+    "rarity": "3",
+    "droprates": {
+      "K'abah'al, Gardien de la route des morts": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29339"
+  },
+  {
+    "item": {
+      "name": "Pagne de K'abah'al",
+      "id": "29340"
+    },
+    "rarity": "4",
+    "droprates": {
+      "K'abah'al, Gardien de la route des morts": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29340"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Rushu",
+      "id": "29469"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29469"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Rushu",
+      "id": "29470"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29470"
+  },
+  {
+    "item": {
+      "name": "Obi du Lenald corrompu",
+      "id": "29530"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29530"
+  },
+  {
+    "item": {
+      "name": "Obi du Lenald corrompu",
+      "id": "29531"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29531"
+  },
+  {
+    "item": {
+      "name": "Ceinturon de la Grande Prêtresse maudit",
+      "id": "29536"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29536"
+  },
+  {
+    "item": {
+      "name": "Ceinturon de la Grande Prêtresse maudit",
+      "id": "29537"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29537"
+  },
+  {
+    "item": {
+      "name": "Sangle d'Excarnus",
+      "id": "29804"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Excarnus": "1.67%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29804"
+  },
+  {
+    "item": {
+      "name": "Baudrier du Dragon-Cochon",
+      "id": "29820"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Dragon-Cochon": "1.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29820"
+  },
+  {
+    "item": {
+      "name": "Ceinture du M.A.R.C 3",
+      "id": "29857"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Merkator": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29857"
+  },
+  {
+    "item": {
+      "name": "Protège-Coquille du Gladiatrool",
+      "id": "29912"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Pochito": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29912"
+  },
+  {
+    "item": {
+      "name": "Protège-Coquille du Gladiatrool",
+      "id": "29913"
+    },
+    "rarity": "4",
+    "droprates": {
+      "El Pochito": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29913"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Gunsho",
+      "id": "29920"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kali": "0.7%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29920"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Gunsho",
+      "id": "29921"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Kali": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29921"
+  },
+  {
+    "item": {
+      "name": "Sain Turastil",
+      "id": "30137"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Vampyro": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30137"
+  },
+  {
+    "item": {
+      "name": "Pourtour visqueux",
+      "id": "30175"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Poisseux dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30175"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Raeliss",
+      "id": "30179"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Raeliss": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30179"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Raeliss",
+      "id": "30180"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Raeliss": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30180"
+  },
+  {
+    "item": {
+      "name": "Ailerons latéraux",
+      "id": "30205"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Petit-poisseux": "0.4%",
+      "Cogneur abyssal": "0.4%",
+      "Assassirène": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30205"
+  },
+  {
+    "item": {
+      "name": "Ailerons latéraux",
+      "id": "30206"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Petit-poisseux": "0.05%",
+      "Cogneur abyssal": "0.05%",
+      "Assassirène": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30206"
+  },
+  {
+    "item": {
+      "name": "Ailerons latéraux",
+      "id": "30207"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Petit-poisseux": "0.03%",
+      "Cogneur abyssal": "0.03%",
+      "Assassirène": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30207"
+  },
+  {
+    "item": {
+      "name": "L’attachée",
+      "id": "30236"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Forban Kahl": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30236"
+  },
+  {
+    "item": {
+      "name": "Ceinture de l’écumeur",
+      "id": "30237"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Soeur de la côte": "0.8%",
+      "Flibustier d'Asse": "0.8%",
+      "Bataillard des mers": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30237"
+  },
+  {
+    "item": {
+      "name": "Ceinture de l’écumeur",
+      "id": "30238"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Soeur de la côte": "0.1%",
+      "Flibustier d'Asse": "0.1%",
+      "Bataillard des mers": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30238"
+  },
+  {
+    "item": {
+      "name": "Short abandonné",
+      "id": "30239"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pohl le poulpe": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30239"
+  },
+  {
+    "item": {
+      "name": "Ceinture de l'usine",
+      "id": "30333"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sir Comte Flex": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30333"
+  },
+  {
+    "item": {
+      "name": "Ceinture de l'usine",
+      "id": "30334"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sir Comte Flex": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30334"
+  },
+  {
+    "item": {
+      "name": "Ceinture de fulmination",
+      "id": "30367"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mort-brûlé dominant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30367"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Mort-brûlé",
+      "id": "30368"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bwork brûlé": "0.8%",
+      "Nimbrasier": "0.8%",
+      "Défunéraire": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30368"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Mort-brûlé",
+      "id": "30369"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bwork brûlé": "0.1%",
+      "Nimbrasier": "0.1%",
+      "Défunéraire": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30369"
+  },
+  {
+    "item": {
+      "name": "Ceinture boudeuse",
+      "id": "30370"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Hark Saniss, Dernier géant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30370"
+  },
+  {
+    "item": {
+      "name": "La Nincassable",
+      "id": "30412"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Marthos": "0.8%",
+      "Parrapuits": "0.8%",
+      "Bouclihash": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30412"
+  },
+  {
+    "item": {
+      "name": "La Nincassable",
+      "id": "30413"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Marthos": "0.1%",
+      "Parrapuits": "0.1%",
+      "Bouclihash": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30413"
+  },
+  {
+    "item": {
+      "name": "Pourtour du Golem",
+      "id": "30414"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Goël le golem": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30414"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Ghast",
+      "id": "30779"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Sir Comte Flex": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30779"
+  },
+  {
+    "item": {
+      "name": "Jupe disgracieuse",
+      "id": "30889"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Eenca": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30889"
+  },
+  {
+    "item": {
+      "name": "Jupe disgracieuse",
+      "id": "30890"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Eenca": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30890"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Miss Tigri",
+      "id": "30901"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Lela": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30901"
+  },
+  {
+    "item": {
+      "name": "Ceinture de Miss Tigri",
+      "id": "30902"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Lela": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30902"
+  }
+]

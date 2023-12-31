@@ -1,0 +1,5676 @@
+[
+  {
+    "item": {
+      "name": "Cuissardes du Pêcheur",
+      "id": "4280"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Abraknelle": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/4280"
+  },
+  {
+    "item": {
+      "name": "Sabots de Boisaille",
+      "id": "4527"
+    },
+    "rarity": "1",
+    "droprates": {
+      "Chacha Angora": "4%",
+      "Chacha": "4%",
+      "Chacha Blanc": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/4527"
+  },
+  {
+    "item": {
+      "name": "Corbottes",
+      "id": "8257"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Corbac": "0.8%",
+      "Corbic": "0.8%",
+      "Corbac Chef": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/8257"
+  },
+  {
+    "item": {
+      "name": "Bottes de Trool",
+      "id": "8382"
+    },
+    "rarity": "2",
+    "droprates": {
+      "El Pochito": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/8382"
+  },
+  {
+    "item": {
+      "name": "Bottes du Tofu Royal",
+      "id": "9299"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Tofu Royal": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9299"
+  },
+  {
+    "item": {
+      "name": "Bottes de l'Aventurier",
+      "id": "9487"
+    },
+    "rarity": "1",
+    "droprates": {
+      "Abraknyde": "4%",
+      "Abragland": "4%",
+      "Arakne Brodeuse": "4%",
+      "Arakne": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9487"
+  },
+  {
+    "item": {
+      "name": "Bottes Bouftou Royal",
+      "id": "9489"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bouftou Royal": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/9489"
+  },
+  {
+    "item": {
+      "name": "Bottes Mulantes",
+      "id": "10102"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mulou": "0.8%",
+      "Muloune": "0.8%",
+      "Milimulou": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10102"
+  },
+  {
+    "item": {
+      "name": "Bottes du Destin",
+      "id": "10762"
+    },
+    "rarity": "1",
+    "droprates": {
+      "Rat Squelette": "4%",
+      "Bouftou Squelette": "4%",
+      "Garde Squelette": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/10762"
+  },
+  {
+    "item": {
+      "name": "Les Bouttes",
+      "id": "11019"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Pissenlit Diabolique": "0.8%",
+      "Rose Démoniaque": "0.8%",
+      "Pissenlion": "0.8%",
+      "Tournesol Eclatant": "0.8%",
+      "Glouton Epineux": "0.8%",
+      "Rose Ténébreuse": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11019"
+  },
+  {
+    "item": {
+      "name": "Pantoufles Wapin de Pwak",
+      "id": "11384"
+    },
+    "rarity": "1",
+    "droprates": {
+      "Mama Wapin": "5%",
+      "Ti Wapin": "5%",
+      "Wapin": "5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11384"
+  },
+  {
+    "item": {
+      "name": "Bottes du Zinit",
+      "id": "11411"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Le Chevaliew Noiw": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/11411"
+  },
+  {
+    "item": {
+      "name": "Les Moon Walk",
+      "id": "12369"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Lune Géante": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12369"
+  },
+  {
+    "item": {
+      "name": "Bottes Lunaires",
+      "id": "12370"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Lune Géante": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12370"
+  },
+  {
+    "item": {
+      "name": "Bottes Craquelées",
+      "id": "12437"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Craqueleur Ancestral": "0.8%",
+      "Craqueleur": "0.8%",
+      "Craqueboule": "0.8%",
+      "Craqueleur de la Mine Ancestral": "0.8%",
+      "Craqueleur de la Mine": "0.8%",
+      "Craqueboule de la Mine": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12437"
+  },
+  {
+    "item": {
+      "name": "Pantoufles Sacrées",
+      "id": "12597"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Raymond Garden": "0.8%",
+      "Grimm Beurguen": "0.8%",
+      "Gros Nambourg": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12597"
+  },
+  {
+    "item": {
+      "name": "Vieilles Pantoufles",
+      "id": "12603"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ju Pilaire": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12603"
+  },
+  {
+    "item": {
+      "name": "Deuxpat",
+      "id": "12817"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chauffe-Souris Dodue": "0.8%",
+      "Goule": "0.8%",
+      "Gouloutony": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12817"
+  },
+  {
+    "item": {
+      "name": "Pattes de Chacha",
+      "id": "12822"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Maine Cooyne": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12822"
+  },
+  {
+    "item": {
+      "name": "Claquettes",
+      "id": "12863"
+    },
+    "rarity": "3",
+    "droprates": {
+      "La Dame Blanche": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12863"
+  },
+  {
+    "item": {
+      "name": "Bas Roque",
+      "id": "12893"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chauffe-Souris Dodue": "0.1%",
+      "Goule": "0.1%",
+      "Gouloutony": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/12893"
+  },
+  {
+    "item": {
+      "name": "Bottes de Vampyro",
+      "id": "13545"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Vampyro": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/13545"
+  },
+  {
+    "item": {
+      "name": "Sabots de Magmog",
+      "id": "14122"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Magmog le Boufrog": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14122"
+  },
+  {
+    "item": {
+      "name": "Solerets d'Excarnus",
+      "id": "14130"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Excarnus": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14130"
+  },
+  {
+    "item": {
+      "name": "Pattes de Milkar",
+      "id": "14137"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Milkar le Meulou": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14137"
+  },
+  {
+    "item": {
+      "name": "Bottes du Rempart",
+      "id": "14430"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Craqueleur Chuchoté": "0.8%",
+      "Craqueboule Chuchoté": "0.8%",
+      "Grand Craqueleur Chuchoté": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14430"
+  },
+  {
+    "item": {
+      "name": "Chaussons chuchoteurs",
+      "id": "14489"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maître Chuchoku": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14489"
+  },
+  {
+    "item": {
+      "name": "Pattes de Dracneel",
+      "id": "14709"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Tofu Dominant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14709"
+  },
+  {
+    "item": {
+      "name": "Bottes Shin Larve",
+      "id": "14825"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Shin Larve": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14825"
+  },
+  {
+    "item": {
+      "name": "Bottes Larvesques Vaseuses",
+      "id": "14968"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Larve Bleue": "0.8%",
+      "Larve Orange": "0.8%",
+      "Larve Verte": "0.8%",
+      "Larve Blanche": "0.8%",
+      "Larve Violette": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/14968"
+  },
+  {
+    "item": {
+      "name": "Bottes Rocailleuses",
+      "id": "15148"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Craqueleur Royal": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15148"
+  },
+  {
+    "item": {
+      "name": "Bottes Magmacrak",
+      "id": "15156"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Craqueleur Dominant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15156"
+  },
+  {
+    "item": {
+      "name": "Bottes de la Veuve Noire",
+      "id": "15194"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Veuve Noire": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15194"
+  },
+  {
+    "item": {
+      "name": "Bottes Araknéennes",
+      "id": "15207"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Arakne Poilue": "0.8%",
+      "Arakne Majeure": "0.8%",
+      "Arakne Mineure": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15207"
+  },
+  {
+    "item": {
+      "name": "Bottes de Ratachouille",
+      "id": "15419"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ratachouille": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15419"
+  },
+  {
+    "item": {
+      "name": "Bottes Botbodek",
+      "id": "15478"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Scara Dominant": "0.7992%",
+      "Chaferfu, roi Chafer": "0.7992%",
+      "Chaférimé le dépassé": "0.7992%",
+      "Scaraboss": "0.0792%",
+      "Scaramel": "0.0792%",
+      "Scarabruni": "0.0792%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15478"
+  },
+  {
+    "item": {
+      "name": "Bottes du Bouftou Enragé",
+      "id": "15582"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Boufalobil le Chevaucheur": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15582"
+  },
+  {
+    "item": {
+      "name": "Bottes Mulmouth",
+      "id": "15948"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Corbamouth": "0.8%",
+      "Cormoune": "0.8%",
+      "Mulmoune": "0.8%",
+      "Mulmouth Enragé": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15948"
+  },
+  {
+    "item": {
+      "name": "Bottes d'os Forgelées",
+      "id": "15949"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Brute du Nord": "0.8%",
+      "Garde du Nord": "0.8%",
+      "Archer du Nord": "0.8%",
+      "Traqueur du Nord": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15949"
+  },
+  {
+    "item": {
+      "name": "Bottes Usées d’Hogmeiser",
+      "id": "15987"
+    },
+    "rarity": "1",
+    "droprates": {
+      "Chef de Guerre Bouftou": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/15987"
+  },
+  {
+    "item": {
+      "name": "Les Boot Mouth",
+      "id": "16027"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Corbamouth": "0.8%",
+      "Cormoune": "0.8%",
+      "Mulmoune": "0.8%",
+      "Mulmouth Enragé": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16027"
+  },
+  {
+    "item": {
+      "name": "Glass Bottée",
+      "id": "16041"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Hagën-Glass": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16041"
+  },
+  {
+    "item": {
+      "name": "Bottes Nécroforgées",
+      "id": "16045"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Kya, Missiz Frizz": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16045"
+  },
+  {
+    "item": {
+      "name": "Bottes de Sylargh",
+      "id": "16058"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sylargh": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16058"
+  },
+  {
+    "item": {
+      "name": "Tongs Gelée Framboise",
+      "id": "16760"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Gelée Framboise": "0.8%",
+      "Gelée Menthe": "0.8%",
+      "Gelée Fraise": "0.8%",
+      "Gelée Citron": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16760"
+  },
+  {
+    "item": {
+      "name": "Mojitongs Royales",
+      "id": "16775"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Empereur Gelax": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16775"
+  },
+  {
+    "item": {
+      "name": "Bottes de Sable",
+      "id": "16788"
+    },
+    "rarity": "2",
+    "droprates": {
+      "El Moulstacho": "0.8%",
+      "Requin Moularteau": "0.8%",
+      "Ver Moulé Immature": "0.8%",
+      "Ver Moulé Vorace": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16788"
+  },
+  {
+    "item": {
+      "name": "Tongs de Plage",
+      "id": "16813"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bilbyboy Framboise": "0.8%",
+      "Bilbygirl Menthe": "0.8%",
+      "Bilbyboy Fraise": "0.8%",
+      "Bilbygirl Citron": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16813"
+  },
+  {
+    "item": {
+      "name": "Bottines d’El Pochito",
+      "id": "16898"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Pochito": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16898"
+  },
+  {
+    "item": {
+      "name": "Houseaux du Dragon-Cochon",
+      "id": "16966"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Dragon-Cochon": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/16966"
+  },
+  {
+    "item": {
+      "name": "Tabi du Lenald",
+      "id": "17230"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Lenald Juniol": "0.09%",
+      "Lenald": "0.09%",
+      "Vieux Lenald": "0.09%",
+      "Glonald": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17230"
+  },
+  {
+    "item": {
+      "name": "Pattes du Black Wabbit",
+      "id": "17254"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Black Ti Wabbit": "0.09%",
+      "Black Wabbit": "0.09%",
+      "Black Wo Wabbit": "0.09%",
+      "Black Gwand Pa Wabbit": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17254"
+  },
+  {
+    "item": {
+      "name": "Souliers de l'Emiw",
+      "id": "17269"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Emiw Black Wabbit": "1.8%",
+      "Jafaw le génie": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17269"
+  },
+  {
+    "item": {
+      "name": "Pattes du Wabbit",
+      "id": "17280"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ti Wabbit": "0.09%",
+      "Wabbit": "0.09%",
+      "Wo Wabbit": "0.09%",
+      "Gwand Pa Wabbit": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17280"
+  },
+  {
+    "item": {
+      "name": "Sandales du Gwand Viziw",
+      "id": "17296"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gwand Viziw Wabbit": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17296"
+  },
+  {
+    "item": {
+      "name": "Wo-bottées",
+      "id": "17322"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Wobot en Chef": "0.5268%",
+      "Wa Wabbit": "0.5268%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17322"
+  },
+  {
+    "item": {
+      "name": "Pattados de Zwombbit",
+      "id": "17339"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Wabbit Tados": "0.08%",
+      "Ti Wabbit Tados": "0.08%",
+      "Gwand Pa Zwombbit Bandé": "0.08%",
+      "Wo Zwombbit": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17339"
+  },
+  {
+    "item": {
+      "name": "Bottes Génétiquement Modifiées",
+      "id": "17356"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gwand Wabbit GM": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17356"
+  },
+  {
+    "item": {
+      "name": "Bottes du Grand Bouftou sauvage",
+      "id": "17767"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Grand Bouftou Sauvage": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17767"
+  },
+  {
+    "item": {
+      "name": "Bousobottes",
+      "id": "17774"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grand Bouftou Sauvage": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17774"
+  },
+  {
+    "item": {
+      "name": "Bottes Suintantes Bwork",
+      "id": "17805"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mineur Bwork": "0.1%",
+      "Bomber Bwork": "0.1%",
+      "Guerrier Bwork": "0.1%",
+      "Cybwork": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17805"
+  },
+  {
+    "item": {
+      "name": "Bottes de Throll",
+      "id": "17814"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Throll": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/17814"
+  },
+  {
+    "item": {
+      "name": "Cacterrobottes",
+      "id": "18149"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Scorpique": "0.1%",
+      "Tartanque": "0.1%",
+      "Cactiflore": "0.1%",
+      "Pampactus": "0.1%",
+      "Cactoblong": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18149"
+  },
+  {
+    "item": {
+      "name": "Bottes de Télob",
+      "id": "18164"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Telob le Champmane": "0.9%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18164"
+  },
+  {
+    "item": {
+      "name": "Pattes d'Ocushus",
+      "id": "18219"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Spectrex le Tourmenteur": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18219"
+  },
+  {
+    "item": {
+      "name": "Bottes Tourmentées",
+      "id": "18220"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Spectrex le Tourmenteur": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18220"
+  },
+  {
+    "item": {
+      "name": "Bottes Harry",
+      "id": "18380"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Piktus": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18380"
+  },
+  {
+    "item": {
+      "name": "Sabots de Victus",
+      "id": "18462"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mihmol l'Empaleur": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18462"
+  },
+  {
+    "item": {
+      "name": "L'ombre de Srambad",
+      "id": "18550"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Bulldague Nain": "0.042%",
+      "Dresseur Longuelames": "0.042%",
+      "Apothicaire Macchabrant": "0.042%",
+      "Sramva": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18550"
+  },
+  {
+    "item": {
+      "name": "L'ombre de Venâme",
+      "id": "18551"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Venâme le Mangelombre": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18551"
+  },
+  {
+    "item": {
+      "name": "Wo-Bottines usées",
+      "id": "18643"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Wobot en Chef": "0.08%",
+      "Wa Wabbit": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/18643"
+  },
+  {
+    "item": {
+      "name": "Bottantiques",
+      "id": "19047"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Orda Gova": "0.07%",
+      "Laps": "0.07%",
+      "Grorlog": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19047"
+  },
+  {
+    "item": {
+      "name": "Prévisiobottes",
+      "id": "19052"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Orda Gova": "0.07%",
+      "Laps": "0.07%",
+      "Grorlog": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19052"
+  },
+  {
+    "item": {
+      "name": "Bottes Indestructibles",
+      "id": "19063"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Vertox l'Intemporel": "0.4284%",
+      "Rib'Eri le Routourneur": "0.4284%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19063"
+  },
+  {
+    "item": {
+      "name": "Souliers Traditionnels",
+      "id": "19125"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Poz": "0.038%",
+      "Lairdavan": "0.038%",
+      "Syclick": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19125"
+  },
+  {
+    "item": {
+      "name": "Bottes Innovantes",
+      "id": "19136"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Raipiode l'Infréquençable": "0.7%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19136"
+  },
+  {
+    "item": {
+      "name": "Chausses d'Orrok",
+      "id": "19338"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Grand Orrok": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19338"
+  },
+  {
+    "item": {
+      "name": "Griffes de Kroapule",
+      "id": "19349"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Kroamagnon": "0.8%",
+      "Krocky": "0.8%",
+      "Korbelle": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19349"
+  },
+  {
+    "item": {
+      "name": "K-Bot",
+      "id": "19362"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Korbot K-800": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19362"
+  },
+  {
+    "item": {
+      "name": "Bottes de Serre d'Acier",
+      "id": "19412"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Serre d'Acier": "0.54%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19412"
+  },
+  {
+    "item": {
+      "name": "Pattersteins",
+      "id": "19490"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Aplâtissier": "0.1%",
+      "Gore-Gone": "0.1%",
+      "Gargrouilleur": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19490"
+  },
+  {
+    "item": {
+      "name": "Chausses Kanniboul",
+      "id": "19701"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Kanniboul Lymi": "0.034%",
+      "Kanniboul Ette": "0.034%",
+      "Kanniboul Voodoo": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19701"
+  },
+  {
+    "item": {
+      "name": "Sandales Ourdies",
+      "id": "19708"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Psykoko": "0.034%",
+      "Kokolérik": "0.034%",
+      "Kokolosse": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19708"
+  },
+  {
+    "item": {
+      "name": "Bottines Kannivore",
+      "id": "19717"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Phéromane": "0.034%",
+      "Dionatrape": "0.034%",
+      "Tropiliane": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19717"
+  },
+  {
+    "item": {
+      "name": "Tongs Hy",
+      "id": "19870"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Koko le Nutt": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19870"
+  },
+  {
+    "item": {
+      "name": "Solerets Endurcis",
+      "id": "19880"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Kannistère": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/19880"
+  },
+  {
+    "item": {
+      "name": "Brodequins Voraces",
+      "id": "20157"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Grozépine": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20157"
+  },
+  {
+    "item": {
+      "name": "Bottes du Bordunil",
+      "id": "20206"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Chasseur Dunîl": "0.034%",
+      "Eventreur Dunîl": "0.034%",
+      "Shaman Dunîl": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20206"
+  },
+  {
+    "item": {
+      "name": "Chausses Dunîl",
+      "id": "20218"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Roi Dunîl": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20218"
+  },
+  {
+    "item": {
+      "name": "Pieds de Foul Moon",
+      "id": "20247"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Foul Moon": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20247"
+  },
+  {
+    "item": {
+      "name": "Externabottes",
+      "id": "20376"
+    },
+    "rarity": "0",
+    "droprates": {
+      "Olavrann l'Externel": "60%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20376"
+  },
+  {
+    "item": {
+      "name": "Bottines de la Grande Prêtresse",
+      "id": "20550"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grande Prêtresse Sydonia": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20550"
+  },
+  {
+    "item": {
+      "name": "Bottes enracinées",
+      "id": "20551"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mamie Lésime": "0.08%",
+      "Papy Crate": "0.08%",
+      "Serprieuse": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20551"
+  },
+  {
+    "item": {
+      "name": "Bottes de Satisfaction",
+      "id": "20667"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Piou Dominant": "0.7992%",
+      "Piou Rouge": "0.0792%",
+      "Piou Bleu": "0.0792%",
+      "Piou Vert": "0.0792%",
+      "Piou Violet": "0.0792%",
+      "Pioulette": "0.0792%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20667"
+  },
+  {
+    "item": {
+      "name": "Jambières-Dragon",
+      "id": "20726"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Nogord l'Ezarélé": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20726"
+  },
+  {
+    "item": {
+      "name": "Sandales èze",
+      "id": "20941"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Oeuf Antique": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20941"
+  },
+  {
+    "item": {
+      "name": "Bottes Smare Impérial",
+      "id": "20971"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Keskon Smare": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20971"
+  },
+  {
+    "item": {
+      "name": "Chaussures Smarillion",
+      "id": "20981"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Smarillion": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/20981"
+  },
+  {
+    "item": {
+      "name": "Les Prédatrices",
+      "id": "21162"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Royal Skouale": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21162"
+  },
+  {
+    "item": {
+      "name": "Genouillères Slek",
+      "id": "21231"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Magislek": "0.8%",
+      "Long Brick": "0.8%",
+      "Crasslek": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21231"
+  },
+  {
+    "item": {
+      "name": "Sabots Renégats",
+      "id": "21240"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Reine Slek": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21240"
+  },
+  {
+    "item": {
+      "name": "Chaussures de l'Explorateur",
+      "id": "21250"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Slekzébuth": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21250"
+  },
+  {
+    "item": {
+      "name": "Bottes Frénétiques",
+      "id": "21280"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kali": "0.7%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21280"
+  },
+  {
+    "item": {
+      "name": "Bottes Frénétiques",
+      "id": "21281"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Kali": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21281"
+  },
+  {
+    "item": {
+      "name": "Savates Ranchées",
+      "id": "21284"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kali": "0.7%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21284"
+  },
+  {
+    "item": {
+      "name": "Savates Ranchées",
+      "id": "21285"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Kali": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21285"
+  },
+  {
+    "item": {
+      "name": "Genouillères Slek",
+      "id": "21335"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Magislek": "0.1%",
+      "Long Brick": "0.1%",
+      "Crasslek": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21335"
+  },
+  {
+    "item": {
+      "name": "Sabots Renégats",
+      "id": "21342"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Reine Slek": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21342"
+  },
+  {
+    "item": {
+      "name": "Les Moules-Boots",
+      "id": "21379"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Dark Moule": "0.8%",
+      "Kaskargo": "0.8%",
+      "Kralamour": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21379"
+  },
+  {
+    "item": {
+      "name": "Les Moules-Boots",
+      "id": "21384"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Dark Moule": "0.1%",
+      "Kaskargo": "0.1%",
+      "Kralamour": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21384"
+  },
+  {
+    "item": {
+      "name": "Les Eskoualedrilles",
+      "id": "21431"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Skoualinou": "0.8%",
+      "Skouale Marteau": "0.8%",
+      "Skouale Lancier": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21431"
+  },
+  {
+    "item": {
+      "name": "Les Eskoualedrilles",
+      "id": "21436"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Skoualinou": "0.1%",
+      "Skouale Marteau": "0.1%",
+      "Skouale Lancier": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21436"
+  },
+  {
+    "item": {
+      "name": "Bottes Smare",
+      "id": "21472"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Smarmot": "0.8%",
+      "Gros Smare": "0.8%",
+      "Smare Couatique": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21472"
+  },
+  {
+    "item": {
+      "name": "Bottes Smare",
+      "id": "21476"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Smarmot": "0.1%",
+      "Gros Smare": "0.1%",
+      "Smare Couatique": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21476"
+  },
+  {
+    "item": {
+      "name": "Bottes Smare",
+      "id": "21493"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Smarmot": "0.05%",
+      "Gros Smare": "0.05%",
+      "Smare Couatique": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21493"
+  },
+  {
+    "item": {
+      "name": "Chaussures Smarillion",
+      "id": "21502"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Smarillion": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21502"
+  },
+  {
+    "item": {
+      "name": "Bottes Phorzerker",
+      "id": "21523"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fripon": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21523"
+  },
+  {
+    "item": {
+      "name": "Bottes Phorrines",
+      "id": "21551"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Phorreur Domestique": "0.72%",
+      "Phorreur Entraîné": "0.72%",
+      "Bébé Phorreur": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21551"
+  },
+  {
+    "item": {
+      "name": "Bottes Phorrines",
+      "id": "21555"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Phorreur Domestique": "0.09%",
+      "Phorreur Entraîné": "0.09%",
+      "Bébé Phorreur": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21555"
+  },
+  {
+    "item": {
+      "name": "Bottes Phorrines",
+      "id": "21573"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Phorreur Domestique": "0.046%",
+      "Phorreur Entraîné": "0.046%",
+      "Bébé Phorreur": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21573"
+  },
+  {
+    "item": {
+      "name": "Bottes Phorzerker",
+      "id": "21582"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fripon": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21582"
+  },
+  {
+    "item": {
+      "name": "Bottes Empourmoi",
+      "id": "21700"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Uhu Le Mielleux": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21700"
+  },
+  {
+    "item": {
+      "name": "Les Grôles Asse",
+      "id": "21701"
+    },
+    "rarity": "7",
+    "droprates": {
+      "War'Hg Gardien du Dor'Mor": "0.3996%",
+      "Bolrag du Dor'Mor": "0.0396%",
+      "Gulnaz du Dor'Mor": "0.0396%",
+      "War'Hg Magmatique": "0.0396%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21701"
+  },
+  {
+    "item": {
+      "name": "Bottes Furax",
+      "id": "21702"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Blérwitch le Furax": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21702"
+  },
+  {
+    "item": {
+      "name": "Bottes Furax",
+      "id": "21757"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Blérwitch le Furax": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21757"
+  },
+  {
+    "item": {
+      "name": "Bouillottines",
+      "id": "21795"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cendragon": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21795"
+  },
+  {
+    "item": {
+      "name": "Bottes du Dragoeuf",
+      "id": "21824"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Dragoeu'r": "0.4%",
+      "Dragoeuf à la coque": "0.4%",
+      "Dragoeuf Guerrier": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21824"
+  },
+  {
+    "item": {
+      "name": "Bottes du Dragoeuf",
+      "id": "21828"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Dragoeu'r": "0.05%",
+      "Dragoeuf à la coque": "0.05%",
+      "Dragoeuf Guerrier": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21828"
+  },
+  {
+    "item": {
+      "name": "Bottes du Dragoeuf",
+      "id": "21846"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Dragoeu'r": "0.03%",
+      "Dragoeuf à la coque": "0.03%",
+      "Dragoeuf Guerrier": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21846"
+  },
+  {
+    "item": {
+      "name": "Sandales èze",
+      "id": "21858"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Oeuf Antique": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21858"
+  },
+  {
+    "item": {
+      "name": "Les Grands Pas à Ragorne",
+      "id": "21896"
+    },
+    "rarity": "3",
+    "droprates": {
+      "War'Hg Gardien du Dor'Mor": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21896"
+  },
+  {
+    "item": {
+      "name": "Méryde et Pépin",
+      "id": "21898"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sor'Hon, Seigneur de la Flamme": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21898"
+  },
+  {
+    "item": {
+      "name": "Méryde et Pépin",
+      "id": "21899"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sor'Hon, Seigneur de la Flamme": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/21899"
+  },
+  {
+    "item": {
+      "name": "Bouillottines",
+      "id": "22005"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Cendragon": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22005"
+  },
+  {
+    "item": {
+      "name": "Sandales Ourdies",
+      "id": "22186"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Psykoko": "0.06%",
+      "Kokolérik": "0.06%",
+      "Kokolosse": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22186"
+  },
+  {
+    "item": {
+      "name": "Sandales Ourdies",
+      "id": "22187"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Psykoko": "0.48%",
+      "Kokolérik": "0.48%",
+      "Kokolosse": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22187"
+  },
+  {
+    "item": {
+      "name": "Tongs Hy",
+      "id": "22200"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Koko le Nutt": "1.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22200"
+  },
+  {
+    "item": {
+      "name": "Chausses Kanniboul",
+      "id": "22213"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kanniboul Lymi": "0.06%",
+      "Kanniboul Ette": "0.06%",
+      "Kanniboul Voodoo": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22213"
+  },
+  {
+    "item": {
+      "name": "Chausses Kanniboul",
+      "id": "22214"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Kanniboul Lymi": "0.48%",
+      "Kanniboul Ette": "0.48%",
+      "Kanniboul Voodoo": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22214"
+  },
+  {
+    "item": {
+      "name": "Solerets Endurcis",
+      "id": "22240"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kannistère": "1.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22240"
+  },
+  {
+    "item": {
+      "name": "Bottes du Bordunil",
+      "id": "22248"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chasseur Dunîl": "0.06%",
+      "Eventreur Dunîl": "0.06%",
+      "Shaman Dunîl": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22248"
+  },
+  {
+    "item": {
+      "name": "Bottes du Bordunil",
+      "id": "22249"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chasseur Dunîl": "0.48%",
+      "Eventreur Dunîl": "0.48%",
+      "Shaman Dunîl": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22249"
+  },
+  {
+    "item": {
+      "name": "Bottines Ecailleuses",
+      "id": "22266"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Alecro Crocro": "1.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22266"
+  },
+  {
+    "item": {
+      "name": "Chausses Dunîl",
+      "id": "22278"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Roi Dunîl": "1.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22278"
+  },
+  {
+    "item": {
+      "name": "Bottines Kannivore",
+      "id": "22285"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Phéromane": "0.06%",
+      "Dionatrape": "0.06%",
+      "Tropiliane": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22285"
+  },
+  {
+    "item": {
+      "name": "Bottines Kannivore",
+      "id": "22286"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Phéromane": "0.48%",
+      "Dionatrape": "0.48%",
+      "Tropiliane": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22286"
+  },
+  {
+    "item": {
+      "name": "Brodequins Voraces",
+      "id": "22304"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grozépine": "0.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22304"
+  },
+  {
+    "item": {
+      "name": "Brodequins Voraces",
+      "id": "22305"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Grozépine": "4.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22305"
+  },
+  {
+    "item": {
+      "name": "Bottantiques",
+      "id": "22368"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Orda Gova": "0.038%",
+      "Laps": "0.038%",
+      "Grorlog": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22368"
+  },
+  {
+    "item": {
+      "name": "Bottantiques",
+      "id": "22369"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Orda Gova": "0.56%",
+      "Laps": "0.56%",
+      "Grorlog": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22369"
+  },
+  {
+    "item": {
+      "name": "Prévisiobottes",
+      "id": "22383"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Orda Gova": "0.038%",
+      "Laps": "0.038%",
+      "Grorlog": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22383"
+  },
+  {
+    "item": {
+      "name": "Prévisiobottes",
+      "id": "22384"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Orda Gova": "0.56%",
+      "Laps": "0.56%",
+      "Grorlog": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22384"
+  },
+  {
+    "item": {
+      "name": "Souliers Traditionnels",
+      "id": "22405"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Poz": "0.07%",
+      "Lairdavan": "0.07%",
+      "Syclick": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22405"
+  },
+  {
+    "item": {
+      "name": "Souliers Traditionnels",
+      "id": "22406"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Poz": "0.56%",
+      "Lairdavan": "0.56%",
+      "Syclick": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22406"
+  },
+  {
+    "item": {
+      "name": "Bottes Innovantes",
+      "id": "22422"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Raipiode l'Infréquençable": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22422"
+  },
+  {
+    "item": {
+      "name": "Bottes Innovantes",
+      "id": "22423"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Raipiode l'Infréquençable": "5.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22423"
+  },
+  {
+    "item": {
+      "name": "Pieds de Foul Moon",
+      "id": "22449"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Foul Moon": "2.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22449"
+  },
+  {
+    "item": {
+      "name": "Bottes de Serre d'Acier",
+      "id": "22465"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Serre d'Acier": "2.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22465"
+  },
+  {
+    "item": {
+      "name": "Jambières-Dragon",
+      "id": "22529"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Nogord l'Ezarélé": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22529"
+  },
+  {
+    "item": {
+      "name": "L'ombre de Srambad",
+      "id": "22611"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bulldague Nain": "0.08%",
+      "Dresseur Longuelames": "0.08%",
+      "Apothicaire Macchabrant": "0.08%",
+      "Sramva": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22611"
+  },
+  {
+    "item": {
+      "name": "L'ombre de Srambad",
+      "id": "22612"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bulldague Nain": "0.64%",
+      "Dresseur Longuelames": "0.64%",
+      "Apothicaire Macchabrant": "0.64%",
+      "Sramva": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22612"
+  },
+  {
+    "item": {
+      "name": "L'ombre de Venâme",
+      "id": "22613"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Venâme le Mangelombre": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22613"
+  },
+  {
+    "item": {
+      "name": "L'ombre de Venâme",
+      "id": "22614"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Venâme le Mangelombre": "6.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22614"
+  },
+  {
+    "item": {
+      "name": "Bottes enracinées",
+      "id": "22672"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mamie Lésime": "0.042%",
+      "Papy Crate": "0.042%",
+      "Serprieuse": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22672"
+  },
+  {
+    "item": {
+      "name": "Bottes enracinées",
+      "id": "22673"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mamie Lésime": "0.64%",
+      "Papy Crate": "0.64%",
+      "Serprieuse": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22673"
+  },
+  {
+    "item": {
+      "name": "Bottines de la Grande Prêtresse",
+      "id": "22686"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Grande Prêtresse Sydonia": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22686"
+  },
+  {
+    "item": {
+      "name": "Bottines de la Grande Prêtresse",
+      "id": "22687"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Grande Prêtresse Sydonia": "6.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22687"
+  },
+  {
+    "item": {
+      "name": "Pattados de Zwombbit",
+      "id": "22707"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Wabbit Tados": "0.042%",
+      "Ti Wabbit Tados": "0.042%",
+      "Gwand Pa Zwombbit Bandé": "0.042%",
+      "Wo Zwombbit": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22707"
+  },
+  {
+    "item": {
+      "name": "Pattados de Zwombbit",
+      "id": "22708"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Wabbit Tados": "0.64%",
+      "Ti Wabbit Tados": "0.64%",
+      "Gwand Pa Zwombbit Bandé": "0.64%",
+      "Wo Zwombbit": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22708"
+  },
+  {
+    "item": {
+      "name": "Bottes Génétiquement Modifiées",
+      "id": "22721"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Gwand Wabbit GM": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22721"
+  },
+  {
+    "item": {
+      "name": "Bottes Génétiquement Modifiées",
+      "id": "22722"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Gwand Wabbit GM": "6.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22722"
+  },
+  {
+    "item": {
+      "name": "Wo-Bottines usées",
+      "id": "22763"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Wobot en Chef": "6.4%",
+      "Wa Wabbit": "6.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22763"
+  },
+  {
+    "item": {
+      "name": "Wo-Bottines usées",
+      "id": "22764"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Wobot en Chef": "0.042%",
+      "Wa Wabbit": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22764"
+  },
+  {
+    "item": {
+      "name": "Bottes de Télob",
+      "id": "22827"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Telob le Champmane": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22827"
+  },
+  {
+    "item": {
+      "name": "Bottes de Télob",
+      "id": "22828"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Telob le Champmane": "7.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22828"
+  },
+  {
+    "item": {
+      "name": "Pattes du Wabbit",
+      "id": "22847"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ti Wabbit": "0.046%",
+      "Wabbit": "0.046%",
+      "Wo Wabbit": "0.046%",
+      "Gwand Pa Wabbit": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22847"
+  },
+  {
+    "item": {
+      "name": "Pattes du Wabbit",
+      "id": "22848"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Ti Wabbit": "0.72%",
+      "Wabbit": "0.72%",
+      "Wo Wabbit": "0.72%",
+      "Gwand Pa Wabbit": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22848"
+  },
+  {
+    "item": {
+      "name": "Sandales du Gwand Viziw",
+      "id": "22869"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Gwand Viziw Wabbit": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22869"
+  },
+  {
+    "item": {
+      "name": "Tabi du Lenald",
+      "id": "22891"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Lenald Juniol": "0.046%",
+      "Lenald": "0.046%",
+      "Vieux Lenald": "0.046%",
+      "Glonald": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22891"
+  },
+  {
+    "item": {
+      "name": "Tabi du Lenald",
+      "id": "22892"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Lenald Juniol": "0.72%",
+      "Lenald": "0.72%",
+      "Vieux Lenald": "0.72%",
+      "Glonald": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22892"
+  },
+  {
+    "item": {
+      "name": "Pattes du Black Wabbit",
+      "id": "22925"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Black Ti Wabbit": "0.046%",
+      "Black Wabbit": "0.046%",
+      "Black Wo Wabbit": "0.046%",
+      "Black Gwand Pa Wabbit": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22925"
+  },
+  {
+    "item": {
+      "name": "Pattes du Black Wabbit",
+      "id": "22926"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Black Ti Wabbit": "0.72%",
+      "Black Wabbit": "0.72%",
+      "Black Wo Wabbit": "0.72%",
+      "Black Gwand Pa Wabbit": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22926"
+  },
+  {
+    "item": {
+      "name": "Souliers de l'Emiw",
+      "id": "22949"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Emiw Black Wabbit": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/22949"
+  },
+  {
+    "item": {
+      "name": "Glass Bottée",
+      "id": "23024"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Hagën-Glass": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23024"
+  },
+  {
+    "item": {
+      "name": "Glass Bottée",
+      "id": "23025"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Hagën-Glass": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23025"
+  },
+  {
+    "item": {
+      "name": "Bottes d'os Forgelées",
+      "id": "23044"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Brute du Nord": "0.05%",
+      "Garde du Nord": "0.05%",
+      "Archer du Nord": "0.05%",
+      "Traqueur du Nord": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23044"
+  },
+  {
+    "item": {
+      "name": "Bottes d'os Forgelées",
+      "id": "23045"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Brute du Nord": "0.1%",
+      "Garde du Nord": "0.1%",
+      "Archer du Nord": "0.1%",
+      "Traqueur du Nord": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23045"
+  },
+  {
+    "item": {
+      "name": "Bottes Nécroforgées",
+      "id": "23060"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Kya, Missiz Frizz": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23060"
+  },
+  {
+    "item": {
+      "name": "Bottes Nécroforgées",
+      "id": "23061"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kya, Missiz Frizz": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23061"
+  },
+  {
+    "item": {
+      "name": "Bottes de Sylargh",
+      "id": "23101"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sylargh": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23101"
+  },
+  {
+    "item": {
+      "name": "Cacterrobottes",
+      "id": "23115"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Scorpique": "0.05%",
+      "Tartanque": "0.05%",
+      "Cactiflore": "0.05%",
+      "Pampactus": "0.05%",
+      "Cactoblong": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23115"
+  },
+  {
+    "item": {
+      "name": "Cacterrobottes",
+      "id": "23116"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Scorpique": "0.8%",
+      "Tartanque": "0.8%",
+      "Cactiflore": "0.8%",
+      "Pampactus": "0.8%",
+      "Cactoblong": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23116"
+  },
+  {
+    "item": {
+      "name": "Bottes du Pirate Smisse",
+      "id": "23158"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Crakéduslip le Givré": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23158"
+  },
+  {
+    "item": {
+      "name": "Bottes du Chasseur du Froid",
+      "id": "23162"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Image du Comte Harebourg": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23162"
+  },
+  {
+    "item": {
+      "name": "Sabots de Magmog",
+      "id": "23187"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Magmog le Boufrog": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23187"
+  },
+  {
+    "item": {
+      "name": "Houseaux du Dragon-Cochon",
+      "id": "23199"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Dragon-Cochon": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23199"
+  },
+  {
+    "item": {
+      "name": "Sabots de Victus",
+      "id": "23210"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mihmol l'Empaleur": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23210"
+  },
+  {
+    "item": {
+      "name": "Bottes Tourmentées",
+      "id": "23219"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Spectrex le Tourmenteur": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23219"
+  },
+  {
+    "item": {
+      "name": "Bottes du Rempart",
+      "id": "23244"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Craqueleur Chuchoté": "0.1%",
+      "Craqueboule Chuchoté": "0.1%",
+      "Grand Craqueleur Chuchoté": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23244"
+  },
+  {
+    "item": {
+      "name": "Bottes Mulmouth",
+      "id": "23267"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Corbamouth": "0.1%",
+      "Cormoune": "0.1%",
+      "Mulmoune": "0.1%",
+      "Mulmouth Enragé": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23267"
+  },
+  {
+    "item": {
+      "name": "Les Boot Mouth",
+      "id": "23278"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Corbamouth": "0.1%",
+      "Cormoune": "0.1%",
+      "Mulmoune": "0.1%",
+      "Mulmouth Enragé": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23278"
+  },
+  {
+    "item": {
+      "name": "Tongs du Chasseur",
+      "id": "23288"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gelée Réglisse": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23288"
+  },
+  {
+    "item": {
+      "name": "Tongs de Plage",
+      "id": "23294"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bilbyboy Framboise": "0.1%",
+      "Bilbygirl Menthe": "0.1%",
+      "Bilbyboy Fraise": "0.1%",
+      "Bilbygirl Citron": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23294"
+  },
+  {
+    "item": {
+      "name": "Tongs Gelée Framboise",
+      "id": "23312"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gelée Framboise": "0.1%",
+      "Gelée Menthe": "0.1%",
+      "Gelée Fraise": "0.1%",
+      "Gelée Citron": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23312"
+  },
+  {
+    "item": {
+      "name": "Mojitongs Royales",
+      "id": "23318"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Empereur Gelax": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23318"
+  },
+  {
+    "item": {
+      "name": "Pantoufles Sacrées",
+      "id": "23338"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Raymond Garden": "0.1%",
+      "Grimm Beurguen": "0.1%",
+      "Gros Nambourg": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23338"
+  },
+  {
+    "item": {
+      "name": "Deuxpat",
+      "id": "23354"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chauffe-Souris Dodue": "0.1%",
+      "Goule": "0.1%",
+      "Gouloutony": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23354"
+  },
+  {
+    "item": {
+      "name": "Bas Roque",
+      "id": "23364"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chauffe-Souris Dodue": "0.8%",
+      "Goule": "0.8%",
+      "Gouloutony": "0.8%",
+      "Chauffe-Souris": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23364"
+  },
+  {
+    "item": {
+      "name": "Bottes de Vampyro",
+      "id": "23367"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Vampyro": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23367"
+  },
+  {
+    "item": {
+      "name": "Pattersteins",
+      "id": "23379"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Aplâtissier": "0.8%",
+      "Gore-Gone": "0.8%",
+      "Gargrouilleur": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23379"
+  },
+  {
+    "item": {
+      "name": "Bottes de Trool",
+      "id": "23392"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Pochito": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23392"
+  },
+  {
+    "item": {
+      "name": "Bottes de Sable",
+      "id": "23411"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Moulstacho": "0.1%",
+      "Requin Moularteau": "0.1%",
+      "Ver Moulé Immature": "0.1%",
+      "Ver Moulé Vorace": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23411"
+  },
+  {
+    "item": {
+      "name": "Corbottes",
+      "id": "23485"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Corbac": "0.1%",
+      "Corbic": "0.1%",
+      "Corbac Chef": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23485"
+  },
+  {
+    "item": {
+      "name": "K-Bot",
+      "id": "23495"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Korbot K-800": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23495"
+  },
+  {
+    "item": {
+      "name": "Griffes de Kroapule",
+      "id": "23499"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kroamagnon": "0.1%",
+      "Krocky": "0.1%",
+      "Korbelle": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23499"
+  },
+  {
+    "item": {
+      "name": "Chausses d'Orrok",
+      "id": "23513"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grand Orrok": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23513"
+  },
+  {
+    "item": {
+      "name": "Bottes Mulantes",
+      "id": "23539"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mulou": "0.1%",
+      "Muloune": "0.1%",
+      "Milimulou": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23539"
+  },
+  {
+    "item": {
+      "name": "Bottes Lunaires",
+      "id": "23552"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Lune Géante": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23552"
+  },
+  {
+    "item": {
+      "name": "Bottes Araknéennes",
+      "id": "23564"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Arakne Poilue": "0.1%",
+      "Arakne Majeure": "0.1%",
+      "Arakne Mineure": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23564"
+  },
+  {
+    "item": {
+      "name": "Bottes de la Veuve Noire",
+      "id": "23569"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Veuve Noire": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23569"
+  },
+  {
+    "item": {
+      "name": "Bottes Suintantes Bwork",
+      "id": "23618"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mineur Bwork": "0.8%",
+      "Bomber Bwork": "0.8%",
+      "Guerrier Bwork": "0.8%",
+      "Cybwork": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23618"
+  },
+  {
+    "item": {
+      "name": "Bottes de Throll",
+      "id": "23632"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Throll": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23632"
+  },
+  {
+    "item": {
+      "name": "Bottes du Grand Bouftou sauvage",
+      "id": "23649"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grand Bouftou Sauvage": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23649"
+  },
+  {
+    "item": {
+      "name": "Tongs Buque",
+      "id": "23696"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Pissenlit Diabolique": "0.8%",
+      "Rose Démoniaque": "0.8%",
+      "Pissenlion": "0.8%",
+      "Tournesol Eclatant": "0.8%",
+      "Glouton Epineux": "0.8%",
+      "Rose Ténébreuse": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23696"
+  },
+  {
+    "item": {
+      "name": "Tongs Buque",
+      "id": "23697"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pissenlit Diabolique": "0.1%",
+      "Rose Démoniaque": "0.1%",
+      "Pissenlion": "0.1%",
+      "Tournesol Eclatant": "0.1%",
+      "Glouton Epineux": "0.1%",
+      "Rose Ténébreuse": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23697"
+  },
+  {
+    "item": {
+      "name": "Les Bouttes",
+      "id": "23699"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pissenlit Diabolique": "0.1%",
+      "Rose Démoniaque": "0.1%",
+      "Pissenlion": "0.1%",
+      "Tournesol Eclatant": "0.1%",
+      "Glouton Epineux": "0.1%",
+      "Rose Ténébreuse": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23699"
+  },
+  {
+    "item": {
+      "name": "Bottes Craquelées",
+      "id": "23775"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Craqueleur Ancestral": "0.1%",
+      "Craqueleur": "0.1%",
+      "Craqueboule": "0.1%",
+      "Craqueleur de la Mine Ancestral": "0.1%",
+      "Craqueleur de la Mine": "0.1%",
+      "Craqueboule de la Mine": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23775"
+  },
+  {
+    "item": {
+      "name": "Bottes Rocailleuses",
+      "id": "23785"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Craqueleur Royal": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23785"
+  },
+  {
+    "item": {
+      "name": "Pattes de Milkar",
+      "id": "23846"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Milkar le Meulou": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23846"
+  },
+  {
+    "item": {
+      "name": "Solerets d'Excarnus",
+      "id": "23854"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Excarnus": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23854"
+  },
+  {
+    "item": {
+      "name": "Bottes Cérémoniales du Seigneur des Rats",
+      "id": "23959"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Grande Prêtresse Sydonia": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23959"
+  },
+  {
+    "item": {
+      "name": "Pattes de Terrakourial",
+      "id": "23971"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23971"
+  },
+  {
+    "item": {
+      "name": "Pattes de Terrakourial",
+      "id": "23972"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23972"
+  },
+  {
+    "item": {
+      "name": "Bottes Oubliées",
+      "id": "23987"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23987"
+  },
+  {
+    "item": {
+      "name": "Bottes Oubliées",
+      "id": "23988"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/23988"
+  },
+  {
+    "item": {
+      "name": "Bottler",
+      "id": "24302"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Agonie la Déterrée": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24302"
+  },
+  {
+    "item": {
+      "name": "Super Bottes",
+      "id": "24322"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Agonie la Déterrée": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24322"
+  },
+  {
+    "item": {
+      "name": "Pantoufles Bleues",
+      "id": "24330"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Agonie la Déterrée": "1.5984%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24330"
+  },
+  {
+    "item": {
+      "name": "Poussières",
+      "id": "24716"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie Coeur-Cristal": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24716"
+  },
+  {
+    "item": {
+      "name": "Les Bérylles",
+      "id": "24733"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie Coeur-Cristal": "1.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24733"
+  },
+  {
+    "item": {
+      "name": "Poussières",
+      "id": "24820"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie Coeur-Cristal": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/24820"
+  },
+  {
+    "item": {
+      "name": "Bottes de la Moogrr Sacrée",
+      "id": "25132"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Moumoute la Postiche": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25132"
+  },
+  {
+    "item": {
+      "name": "Bottes de Moogrr",
+      "id": "25145"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Moomouche": "0.8%",
+      "Moogrron": "0.8%",
+      "Moogrr": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25145"
+  },
+  {
+    "item": {
+      "name": "Bottes de Moogrr",
+      "id": "25146"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Moomouche": "0.1%",
+      "Moogrron": "0.1%",
+      "Moogrr": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25146"
+  },
+  {
+    "item": {
+      "name": "Boutes Moutes",
+      "id": "25152"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Moomouche": "0.1%",
+      "Moogrron": "0.8%",
+      "Moogrr": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25152"
+  },
+  {
+    "item": {
+      "name": "Boutes Moutes",
+      "id": "25153"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Moogrron": "0.1%",
+      "Moogrr": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25153"
+  },
+  {
+    "item": {
+      "name": "Bottes du Cwabe Royal",
+      "id": "25269"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Cwabe Royal": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25269"
+  },
+  {
+    "item": {
+      "name": "Bottes du Cwabe Royal",
+      "id": "25270"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cwabe Royal": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25270"
+  },
+  {
+    "item": {
+      "name": "Bottes ultime survivant",
+      "id": "25288"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kokoblong le Vertical": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25288"
+  },
+  {
+    "item": {
+      "name": "Bottes Lantha",
+      "id": "25311"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Grokokolantha": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25311"
+  },
+  {
+    "item": {
+      "name": "Bottes Lantha",
+      "id": "25312"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grokokolantha": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25312"
+  },
+  {
+    "item": {
+      "name": "Bottes Tsar",
+      "id": "25358"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Tsar Tsu Tsu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25358"
+  },
+  {
+    "item": {
+      "name": "Les Bridgess Tone",
+      "id": "25373"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Truche Dominante": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25373"
+  },
+  {
+    "item": {
+      "name": "Botruches",
+      "id": "25376"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Truche": "0.8%",
+      "Truchon": "0.8%",
+      "Truchemuche": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25376"
+  },
+  {
+    "item": {
+      "name": "Botruches",
+      "id": "25377"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Truche": "0.1%",
+      "Truchon": "0.1%",
+      "Truchemuche": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25377"
+  },
+  {
+    "item": {
+      "name": "Truch'Bottes Royales",
+      "id": "25397"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Hongrue, Haute Truche": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25397"
+  },
+  {
+    "item": {
+      "name": "Truch'Bottes Royales",
+      "id": "25398"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Hongrue, Haute Truche": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25398"
+  },
+  {
+    "item": {
+      "name": "Bottes Gligli",
+      "id": "25421"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Marcassinet": "0.8%",
+      "Glaie": "0.8%",
+      "Gligli Agressif": "0.8%",
+      "Prespic": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25421"
+  },
+  {
+    "item": {
+      "name": "Bottes Gligli",
+      "id": "25422"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Marcassinet": "0.1%",
+      "Glaie": "0.1%",
+      "Gligli Agressif": "0.1%",
+      "Prespic": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25422"
+  },
+  {
+    "item": {
+      "name": "God'os",
+      "id": "25468"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chafer Archer": "0.8%",
+      "Chafer Elite": "0.8%",
+      "Chafer Lancier": "0.8%",
+      "Chafer Archer de la Mine": "0.8%",
+      "Chafer Elite de la Mine": "0.8%",
+      "Chafer Lancier de la Mine": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25468"
+  },
+  {
+    "item": {
+      "name": "God'os",
+      "id": "25469"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chafer Archer": "0.1%",
+      "Chafer Elite": "0.1%",
+      "Chafer Lancier": "0.1%",
+      "Chafer Archer de la Mine": "0.1%",
+      "Chafer Elite de la Mine": "0.1%",
+      "Chafer Lancier de la Mine": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25469"
+  },
+  {
+    "item": {
+      "name": "Les Ospadrilles",
+      "id": "25473"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chafer Archer": "0.8%",
+      "Chafer Elite": "0.8%",
+      "Chafer Lancier": "0.8%",
+      "Chafer Archer de la Mine": "0.8%",
+      "Chafer Elite de la Mine": "0.8%",
+      "Chafer Lancier de la Mine": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25473"
+  },
+  {
+    "item": {
+      "name": "Les Ospadrilles",
+      "id": "25474"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chafer Archer": "0.1%",
+      "Chafer Elite": "0.1%",
+      "Chafer Lancier": "0.1%",
+      "Chafer Archer de la Mine": "0.1%",
+      "Chafer Elite de la Mine": "0.1%",
+      "Chafer Lancier de la Mine": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25474"
+  },
+  {
+    "item": {
+      "name": "Bottes Riktus d'Amakna",
+      "id": "25559"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chapo Magik": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25559"
+  },
+  {
+    "item": {
+      "name": "Bottes Riktus d'Amakna",
+      "id": "25560"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chapo Magik": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25560"
+  },
+  {
+    "item": {
+      "name": "Bottes Riktus de Bonta",
+      "id": "25565"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chapo Magik": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25565"
+  },
+  {
+    "item": {
+      "name": "Bottes Riktus de Bonta",
+      "id": "25566"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chapo Magik": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25566"
+  },
+  {
+    "item": {
+      "name": "Bottes Riktus de Brâkmar",
+      "id": "25571"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chapo Magik": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25571"
+  },
+  {
+    "item": {
+      "name": "Bottes Riktus de Brâkmar",
+      "id": "25572"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chapo Magik": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25572"
+  },
+  {
+    "item": {
+      "name": "Bottes Riktus de Sufokia",
+      "id": "25577"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chapo Magik": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25577"
+  },
+  {
+    "item": {
+      "name": "Bottes Riktus de Sufokia",
+      "id": "25578"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chapo Magik": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25578"
+  },
+  {
+    "item": {
+      "name": "Bottes Flaqueuses",
+      "id": "25612"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Ti' Flaqueux": "0.8%",
+      "Chef Flaqueux": "0.8%",
+      "Guerrier Flaqueux": "0.8%",
+      "Mama Flaqueuse": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25612"
+  },
+  {
+    "item": {
+      "name": "Bottes Flaqueuses",
+      "id": "25613"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ti' Flaqueux": "0.1%",
+      "Chef Flaqueux": "0.1%",
+      "Guerrier Flaqueux": "0.1%",
+      "Mama Flaqueuse": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25613"
+  },
+  {
+    "item": {
+      "name": "Bottes Flaqueuses",
+      "id": "25614"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ti' Flaqueux": "0.05%",
+      "Chef Flaqueux": "0.05%",
+      "Guerrier Flaqueux": "0.05%",
+      "Mama Flaqueuse": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25614"
+  },
+  {
+    "item": {
+      "name": "Flack O'Max",
+      "id": "25644"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Flaque Royale": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25644"
+  },
+  {
+    "item": {
+      "name": "Flack O'Max",
+      "id": "25645"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Flaque Royale": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25645"
+  },
+  {
+    "item": {
+      "name": "Bottes en Scailles",
+      "id": "25674"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Zespadon": "0.8%",
+      "Sergent Poiscaille": "0.8%",
+      "Don Rascaillès": "0.8%",
+      "Bernardo dé la Carpett": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25674"
+  },
+  {
+    "item": {
+      "name": "Bottes en Scailles",
+      "id": "25675"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Zespadon": "0.1%",
+      "Sergent Poiscaille": "0.1%",
+      "Don Rascaillès": "0.1%",
+      "Bernardo dé la Carpett": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25675"
+  },
+  {
+    "item": {
+      "name": "Bottes en Scailles",
+      "id": "25676"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Zespadon": "0.05%",
+      "Sergent Poiscaille": "0.05%",
+      "Don Rascaillès": "0.05%",
+      "Bernardo dé la Carpett": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25676"
+  },
+  {
+    "item": {
+      "name": "Zespabottes Noires",
+      "id": "25710"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Zespadon Noir": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25710"
+  },
+  {
+    "item": {
+      "name": "Zespabottes Noires",
+      "id": "25711"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Zespadon Noir": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25711"
+  },
+  {
+    "item": {
+      "name": "Bottes Abraknyde Impérial",
+      "id": "25727"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Abrasif le décapant": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25727"
+  },
+  {
+    "item": {
+      "name": "Abratongues",
+      "id": "25747"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Abraknyde Ancestral": "0.72%",
+      "Tronknyde Sombre": "0.72%",
+      "Abraknyde Sombre": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25747"
+  },
+  {
+    "item": {
+      "name": "Abratongues",
+      "id": "25748"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Abraknyde Ancestral": "0.09%",
+      "Tronknyde Sombre": "0.09%",
+      "Abraknyde Sombre": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25748"
+  },
+  {
+    "item": {
+      "name": "Abratongues",
+      "id": "25749"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Abraknyde Ancestral": "0.046%",
+      "Tronknyde Sombre": "0.046%",
+      "Abraknyde Sombre": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25749"
+  },
+  {
+    "item": {
+      "name": "Bottes Abraknyde Ancestral",
+      "id": "25769"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chêne Mou": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25769"
+  },
+  {
+    "item": {
+      "name": "Bottes Abraknyde Ancestral",
+      "id": "25770"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Chêne Mou": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25770"
+  },
+  {
+    "item": {
+      "name": "Poutrobottines",
+      "id": "25836"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Patapikot": "0.56%",
+      "Patator": "0.56%",
+      "Patapattes": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25836"
+  },
+  {
+    "item": {
+      "name": "Poutrobottines",
+      "id": "25837"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Patapikot": "0.07%",
+      "Patator": "0.07%",
+      "Patapattes": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25837"
+  },
+  {
+    "item": {
+      "name": "Poutrobottines",
+      "id": "25838"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Patapikot": "0.038%",
+      "Patator": "0.038%",
+      "Patapattes": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25838"
+  },
+  {
+    "item": {
+      "name": "Mamaboutres",
+      "id": "25839"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mamapoutre": "5.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25839"
+  },
+  {
+    "item": {
+      "name": "Mamaboutres",
+      "id": "25840"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mamapoutre": "0.7%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25840"
+  },
+  {
+    "item": {
+      "name": "Mamaboutres",
+      "id": "25841"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mamapoutre": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25841"
+  },
+  {
+    "item": {
+      "name": "Roubla'Bottes",
+      "id": "25941"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Roublard Dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25941"
+  },
+  {
+    "item": {
+      "name": "Bottes du Roublard Smisse",
+      "id": "25952"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Blar le Roux": "0.56%",
+      "Roublard Tiste": "0.56%",
+      "Roublard Alard Amasse": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25952"
+  },
+  {
+    "item": {
+      "name": "Bottes du Roublard Smisse",
+      "id": "25953"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Blar le Roux": "0.07%",
+      "Roublard Tiste": "0.07%",
+      "Roublard Alard Amasse": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25953"
+  },
+  {
+    "item": {
+      "name": "Bottes du Roublard Smisse",
+      "id": "25954"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Blar le Roux": "0.038%",
+      "Roublard Tiste": "0.038%",
+      "Roublard Alard Amasse": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25954"
+  },
+  {
+    "item": {
+      "name": "Bottes Homatisme",
+      "id": "25974"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Remington Smisse": "5.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25974"
+  },
+  {
+    "item": {
+      "name": "Bottes Homatisme",
+      "id": "25975"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Remington Smisse": "0.7%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25975"
+  },
+  {
+    "item": {
+      "name": "Bottes Homatisme",
+      "id": "25976"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Remington Smisse": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/25976"
+  },
+  {
+    "item": {
+      "name": "Bottes Riktus Elite",
+      "id": "26021"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Elitir": "0.56%",
+      "Epélite": "0.56%",
+      "Elitendard": "0.56%",
+      "Magilite": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26021"
+  },
+  {
+    "item": {
+      "name": "Bottes Riktus Elite",
+      "id": "26022"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Elitir": "0.07%",
+      "Epélite": "0.07%",
+      "Elitendard": "0.07%",
+      "Magilite": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26022"
+  },
+  {
+    "item": {
+      "name": "Bottes Riktus Elite",
+      "id": "26023"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Elitir": "0.038%",
+      "Epélite": "0.038%",
+      "Elitendard": "0.038%",
+      "Magilite": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26023"
+  },
+  {
+    "item": {
+      "name": "Bottes de Javého",
+      "id": "26250"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Javého": "5.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26250"
+  },
+  {
+    "item": {
+      "name": "Bottes de Javého",
+      "id": "26251"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Javého": "0.7%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26251"
+  },
+  {
+    "item": {
+      "name": "Bottes de Javého",
+      "id": "26252"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Javého": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26252"
+  },
+  {
+    "item": {
+      "name": "Marche vers Ombre",
+      "id": "26293"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ombrage": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26293"
+  },
+  {
+    "item": {
+      "name": "Bottes Ombragées",
+      "id": "26298"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ombrage": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26298"
+  },
+  {
+    "item": {
+      "name": "Marche vers Ombre",
+      "id": "26314"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ombrage": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26314"
+  },
+  {
+    "item": {
+      "name": "Bottes Glagla",
+      "id": "26520"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Glaglawi": "0.8%",
+      "Glagla": "0.8%",
+      "Glagla Froidacier": "0.8%",
+      "Glagla Cornegivre": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26520"
+  },
+  {
+    "item": {
+      "name": "Bottes Glagla",
+      "id": "26521"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Glaglawi": "0.1%",
+      "Glagla": "0.1%",
+      "Glagla Froidacier": "0.1%",
+      "Glagla Cornegivre": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26521"
+  },
+  {
+    "item": {
+      "name": "Bottes de Lady Glagla",
+      "id": "26540"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Lady Glagla": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26540"
+  },
+  {
+    "item": {
+      "name": "Bottes Antrin",
+      "id": "26622"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Assassin Encapuchonné": "0.56%",
+      "Mage Encapuchonné": "0.56%",
+      "Protecteur Encapuchonné": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26622"
+  },
+  {
+    "item": {
+      "name": "Bottes Antrin",
+      "id": "26623"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Assassin Encapuchonné": "0.07%",
+      "Mage Encapuchonné": "0.07%",
+      "Protecteur Encapuchonné": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26623"
+  },
+  {
+    "item": {
+      "name": "Bottes Antrin",
+      "id": "26624"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Assassin Encapuchonné": "0.038%",
+      "Mage Encapuchonné": "0.038%",
+      "Protecteur Encapuchonné": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26624"
+  },
+  {
+    "item": {
+      "name": "Bottes Haniste",
+      "id": "26753"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Plantala Dominant": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26753"
+  },
+  {
+    "item": {
+      "name": "Sandalgues",
+      "id": "26762"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bulbiflore": "0.64%",
+      "Bulbuisson": "0.64%",
+      "Bulbambou": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26762"
+  },
+  {
+    "item": {
+      "name": "Sandalgues",
+      "id": "26763"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bulbiflore": "0.08%",
+      "Bulbuisson": "0.08%",
+      "Bulbambou": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26763"
+  },
+  {
+    "item": {
+      "name": "Sandalgues",
+      "id": "26764"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Bulbiflore": "0.042%",
+      "Bulbuisson": "0.042%",
+      "Bulbambou": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26764"
+  },
+  {
+    "item": {
+      "name": "Brodequins Tessence",
+      "id": "26782"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bulbiflore": "0.64%",
+      "Bulbuisson": "0.64%",
+      "Bulbambou": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26782"
+  },
+  {
+    "item": {
+      "name": "Brodequins Tessence",
+      "id": "26783"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bulbiflore": "0.08%",
+      "Bulbuisson": "0.08%",
+      "Bulbambou": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26783"
+  },
+  {
+    "item": {
+      "name": "Brodequins Tessence",
+      "id": "26784"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Bulbiflore": "0.042%",
+      "Bulbuisson": "0.042%",
+      "Bulbambou": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26784"
+  },
+  {
+    "item": {
+      "name": "Sandales Bumen",
+      "id": "26788"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bulbrute": "6.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26788"
+  },
+  {
+    "item": {
+      "name": "Sandales Bumen",
+      "id": "26789"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bulbrute": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26789"
+  },
+  {
+    "item": {
+      "name": "Sandales Bumen",
+      "id": "26790"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Bulbrute": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26790"
+  },
+  {
+    "item": {
+      "name": "Sandales côte est",
+      "id": "26848"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Pandikaze": "0.48%",
+      "Pandit": "0.48%",
+      "Pandou": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26848"
+  },
+  {
+    "item": {
+      "name": "Sandales côte est",
+      "id": "26849"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pandikaze": "0.06%",
+      "Pandit": "0.06%",
+      "Pandou": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26849"
+  },
+  {
+    "item": {
+      "name": "Sandales côte est",
+      "id": "26850"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Pandikaze": "0.034%",
+      "Pandit": "0.034%",
+      "Pandou": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26850"
+  },
+  {
+    "item": {
+      "name": "Les Galopintes",
+      "id": "26859"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pandore": "1.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26859"
+  },
+  {
+    "item": {
+      "name": "Les Galopintes",
+      "id": "26860"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Pandore": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26860"
+  },
+  {
+    "item": {
+      "name": "Brodequins Conces",
+      "id": "26890"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fléocculte": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26890"
+  },
+  {
+    "item": {
+      "name": "Bottes Fléopard",
+      "id": "26910"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Fléroce": "0.4%",
+      "Flémard": "0.4%",
+      "Flétide": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26910"
+  },
+  {
+    "item": {
+      "name": "Bottes Fléopard",
+      "id": "26911"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fléroce": "0.05%",
+      "Flémard": "0.05%",
+      "Flétide": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26911"
+  },
+  {
+    "item": {
+      "name": "Bottes Fléopard",
+      "id": "26912"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fléroce": "0.03%",
+      "Flémard": "0.03%",
+      "Flétide": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26912"
+  },
+  {
+    "item": {
+      "name": "Bottes Fléogre",
+      "id": "26930"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fléogre": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26930"
+  },
+  {
+    "item": {
+      "name": "Bottes Fléogre",
+      "id": "26931"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fléogre": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26931"
+  },
+  {
+    "item": {
+      "name": "Poil aux pattes",
+      "id": "26961"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fantôme de Pandala Dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26961"
+  },
+  {
+    "item": {
+      "name": "Sabots Druche",
+      "id": "26972"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Fantôme Pandit": "0.4%",
+      "Fantôme Pandule": "0.4%",
+      "Fantôme Tanuki-Chan": "0.4%",
+      "Fantôme Yokaï": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26972"
+  },
+  {
+    "item": {
+      "name": "Sabots Druche",
+      "id": "26973"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fantôme Pandit": "0.05%",
+      "Fantôme Pandule": "0.05%",
+      "Fantôme Tanuki-Chan": "0.05%",
+      "Fantôme Yokaï": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26973"
+  },
+  {
+    "item": {
+      "name": "Sabots Druche",
+      "id": "26974"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fantôme Pandit": "0.03%",
+      "Fantôme Pandule": "0.03%",
+      "Fantôme Tanuki-Chan": "0.03%",
+      "Fantôme Yokaï": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26974"
+  },
+  {
+    "item": {
+      "name": "Bottes Ailes Tell",
+      "id": "26994"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Fantôme Tanukouï-San": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26994"
+  },
+  {
+    "item": {
+      "name": "Bottes Ailes Tell",
+      "id": "26995"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fantôme Tanukouï-San": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26995"
+  },
+  {
+    "item": {
+      "name": "Bottes Ailes Tell",
+      "id": "26996"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fantôme Tanukouï-San": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/26996"
+  },
+  {
+    "item": {
+      "name": "Bottes Répané",
+      "id": "27034"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Fléogre": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27034"
+  },
+  {
+    "item": {
+      "name": "Bottes du Koulosse",
+      "id": "27064"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27064"
+  },
+  {
+    "item": {
+      "name": "Les Galopintes",
+      "id": "27279"
+    },
+    "rarity": "6",
+    "droprates": {
+      "Pandore": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27279"
+  },
+  {
+    "item": {
+      "name": "Anna Bottes",
+      "id": "27355"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Gerbouille Dominante": "0.3996%",
+      "Bébé Gerbouille": "0.0396%",
+      "Gerbouille": "0.0396%",
+      "Pépé Gerbouille": "0.0396%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27355"
+  },
+  {
+    "item": {
+      "name": "Bottes de Poursuite",
+      "id": "27356"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Maman Gerbouille": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27356"
+  },
+  {
+    "item": {
+      "name": "Sandales de Lhun",
+      "id": "27375"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Hibourg Dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27375"
+  },
+  {
+    "item": {
+      "name": "Bottes Kturnes",
+      "id": "27404"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Granduk Hibourg": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27404"
+  },
+  {
+    "item": {
+      "name": "Bottes Kturnes",
+      "id": "27405"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Granduk Hibourg": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27405"
+  },
+  {
+    "item": {
+      "name": "Bottes Kturnes",
+      "id": "27406"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Granduk Hibourg": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27406"
+  },
+  {
+    "item": {
+      "name": "Bottes du Comte Harebourg",
+      "id": "27433"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Comte Harebourg": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27433"
+  },
+  {
+    "item": {
+      "name": "Bottes du Comte Harebourg",
+      "id": "27434"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Comte Harebourg": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27434"
+  },
+  {
+    "item": {
+      "name": "Bottes Genm",
+      "id": "27476"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bébé Gerbouille": "0.48%",
+      "Gerbouille": "0.48%",
+      "Pépé Gerbouille": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27476"
+  },
+  {
+    "item": {
+      "name": "Bottes Genm",
+      "id": "27477"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bébé Gerbouille": "0.06%",
+      "Gerbouille": "0.06%",
+      "Pépé Gerbouille": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27477"
+  },
+  {
+    "item": {
+      "name": "Bottes Genm",
+      "id": "27478"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Bébé Gerbouille": "0.034%",
+      "Gerbouille": "0.034%",
+      "Pépé Gerbouille": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27478"
+  },
+  {
+    "item": {
+      "name": "Sandalara",
+      "id": "27487"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maman Gerbouille": "1.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27487"
+  },
+  {
+    "item": {
+      "name": "Sandalara",
+      "id": "27488"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Maman Gerbouille": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27488"
+  },
+  {
+    "item": {
+      "name": "Les Bottes Ox'",
+      "id": "27514"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Arakne Dominante": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27514"
+  },
+  {
+    "item": {
+      "name": "Bottes du Comte Frigost",
+      "id": "27553"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Comte Harebourg": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27553"
+  },
+  {
+    "item": {
+      "name": "Bottes du Comte Frigost",
+      "id": "27562"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Comte Harebourg": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27562"
+  },
+  {
+    "item": {
+      "name": "Protège-tibias",
+      "id": "27597"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Castorbital": "0.4%",
+      "Tatourbillon": "0.4%",
+      "Carabajoie": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27597"
+  },
+  {
+    "item": {
+      "name": "Protège-tibias",
+      "id": "27598"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Castorbital": "0.05%",
+      "Tatourbillon": "0.05%",
+      "Carabajoie": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27598"
+  },
+  {
+    "item": {
+      "name": "Protège-tibias",
+      "id": "27599"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Castorbital": "0.03%",
+      "Tatourbillon": "0.03%",
+      "Carabajoie": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27599"
+  },
+  {
+    "item": {
+      "name": "Bottes marines",
+      "id": "27655"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Cwabotteur": "0.4%",
+      "Pincision": "0.4%",
+      "Pinsulaire": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27655"
+  },
+  {
+    "item": {
+      "name": "Bottes marines",
+      "id": "27656"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cwabotteur": "0.05%",
+      "Pincision": "0.05%",
+      "Pinsulaire": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27656"
+  },
+  {
+    "item": {
+      "name": "Bottes marines",
+      "id": "27657"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Cwabotteur": "0.03%",
+      "Pincision": "0.03%",
+      "Pinsulaire": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27657"
+  },
+  {
+    "item": {
+      "name": "Bottes Briss-glace",
+      "id": "27696"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Imbuffle l'égocentrique": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27696"
+  },
+  {
+    "item": {
+      "name": "Bottes fourrées",
+      "id": "27731"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bufflamboyant": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27731"
+  },
+  {
+    "item": {
+      "name": "Bottes fourrées",
+      "id": "27732"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bufflamboyant": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27732"
+  },
+  {
+    "item": {
+      "name": "Bottes fourrées",
+      "id": "27733"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Bufflamboyant": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27733"
+  },
+  {
+    "item": {
+      "name": "Bottes à trompe",
+      "id": "27765"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Boiseux": "0.4%",
+      "Uto-pic": "0.4%",
+      "Assassinge": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27765"
+  },
+  {
+    "item": {
+      "name": "Bottes à trompe",
+      "id": "27766"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Boiseux": "0.05%",
+      "Uto-pic": "0.05%",
+      "Assassinge": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27766"
+  },
+  {
+    "item": {
+      "name": "Bottes à trompe",
+      "id": "27767"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Boiseux": "0.03%",
+      "Uto-pic": "0.03%",
+      "Assassinge": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27767"
+  },
+  {
+    "item": {
+      "name": "Bottes ailées",
+      "id": "27792"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Phacochemar": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27792"
+  },
+  {
+    "item": {
+      "name": "Bottes ailées",
+      "id": "27793"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Phacochemar": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27793"
+  },
+  {
+    "item": {
+      "name": "Bottes de Kovak",
+      "id": "27817"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Crustacérébro": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/27817"
+  },
+  {
+    "item": {
+      "name": "Bottes sédimentaires",
+      "id": "28053"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28053"
+  },
+  {
+    "item": {
+      "name": "Bottes sédimentaires",
+      "id": "28054"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28054"
+  },
+  {
+    "item": {
+      "name": "Bottes sédimentaires",
+      "id": "28055"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28055"
+  },
+  {
+    "item": {
+      "name": "Bottines Hodor",
+      "id": "28076"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28076"
+  },
+  {
+    "item": {
+      "name": "Bottines Hodor",
+      "id": "28077"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28077"
+  },
+  {
+    "item": {
+      "name": "Bottes de Torturpide",
+      "id": "28133"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Torturpide le vil": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28133"
+  },
+  {
+    "item": {
+      "name": "Bottes Carapatte",
+      "id": "28159"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Dragonorrhée": "0.1%",
+      "Caméléhombre": "0.1%",
+      "Torturbulent": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28159"
+  },
+  {
+    "item": {
+      "name": "Bottes Carapatte",
+      "id": "28160"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Dragonorrhée": "0.03%",
+      "Caméléhombre": "0.03%",
+      "Torturbulent": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28160"
+  },
+  {
+    "item": {
+      "name": "Bottes du Tortumulte",
+      "id": "28173"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Tortumulte": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28173"
+  },
+  {
+    "item": {
+      "name": "Bottes du Tortumulte",
+      "id": "28174"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Tortumulte": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28174"
+  },
+  {
+    "item": {
+      "name": "Bottes Plantigarde",
+      "id": "28222"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Oursonge": "0.1%",
+      "Boursouflé": "0.1%",
+      "Koung Fours": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28222"
+  },
+  {
+    "item": {
+      "name": "Bottes Plantigarde",
+      "id": "28223"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Oursonge": "0.03%",
+      "Boursouflé": "0.03%",
+      "Koung Fours": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28223"
+  },
+  {
+    "item": {
+      "name": "Bottes du Casse-cours",
+      "id": "28236"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Casse-Cours": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28236"
+  },
+  {
+    "item": {
+      "name": "Bottes du Casse-cours",
+      "id": "28237"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Casse-Cours": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28237"
+  },
+  {
+    "item": {
+      "name": "Bottes Mansot",
+      "id": "28285"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Manchômage": "0.1%",
+      "Manchopine": "0.1%",
+      "Manchot Kola": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28285"
+  },
+  {
+    "item": {
+      "name": "Bottes Mansot",
+      "id": "28286"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Manchômage": "0.03%",
+      "Manchopine": "0.03%",
+      "Manchot Kola": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28286"
+  },
+  {
+    "item": {
+      "name": "Bottes du Sumorse",
+      "id": "28299"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sumorse": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28299"
+  },
+  {
+    "item": {
+      "name": "Bottes du Sumorse",
+      "id": "28300"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sumorse": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28300"
+  },
+  {
+    "item": {
+      "name": "Bottes Hantouch",
+      "id": "28325"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Casse-Cours": "0.3996%",
+      "Scoubidours le Morfalours": "0.3996%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/28325"
+  },
+  {
+    "item": {
+      "name": "Viles Bottines",
+      "id": "29049"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Viil l'Incorruptible": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29049"
+  },
+  {
+    "item": {
+      "name": "Bottes Moisies",
+      "id": "29079"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Méristhaine": "0.1%",
+      "Champidiable": "0.1%",
+      "Virescent": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29079"
+  },
+  {
+    "item": {
+      "name": "Bottes Moisies",
+      "id": "29080"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Méristhaine": "0.03%",
+      "Champidiable": "0.03%",
+      "Virescent": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29080"
+  },
+  {
+    "item": {
+      "name": "Bottes de Vaal'Enthia",
+      "id": "29084"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Vaal'Enthia, Reine-démone": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29084"
+  },
+  {
+    "item": {
+      "name": "Bottes de Vaal'Enthia",
+      "id": "29085"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Vaal'Enthia, Reine-démone": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29085"
+  },
+  {
+    "item": {
+      "name": "Bottes de Vaal'Enthia",
+      "id": "29086"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Vaal'Enthia, Reine-démone": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29086"
+  },
+  {
+    "item": {
+      "name": "Bottiron",
+      "id": "29119"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Ar'Nan, Augure du néant": "0.3996%",
+      "Ar'Manthe la Religieuse": "0.3996%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29119"
+  },
+  {
+    "item": {
+      "name": "Bottes Vides",
+      "id": "29124"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Echinoidéant": "0.4%",
+      "Inanite": "0.4%",
+      "Chrysavide": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29124"
+  },
+  {
+    "item": {
+      "name": "Bottes Vides",
+      "id": "29125"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Echinoidéant": "0.05%",
+      "Inanite": "0.05%",
+      "Chrysavide": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29125"
+  },
+  {
+    "item": {
+      "name": "Bottes Vides",
+      "id": "29126"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Echinoidéant": "0.03%",
+      "Inanite": "0.03%",
+      "Chrysavide": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29126"
+  },
+  {
+    "item": {
+      "name": "Bottes de mauvais Augure",
+      "id": "29146"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Ar'Nan, Augure du néant": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29146"
+  },
+  {
+    "item": {
+      "name": "Bottes de mauvais Augure",
+      "id": "29147"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ar'Nan, Augure du néant": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29147"
+  },
+  {
+    "item": {
+      "name": "Bottes de mauvais Augure",
+      "id": "29148"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ar'Nan, Augure du néant": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29148"
+  },
+  {
+    "item": {
+      "name": "Pattes de Démhorrible",
+      "id": "29192"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Sangsure": "0.4%",
+      "Rapace dépeceur": "0.4%",
+      "Condamnateur": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29192"
+  },
+  {
+    "item": {
+      "name": "Pattes de Démhorrible",
+      "id": "29193"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sangsure": "0.05%",
+      "Rapace dépeceur": "0.05%",
+      "Condamnateur": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29193"
+  },
+  {
+    "item": {
+      "name": "Pattes de Démhorrible",
+      "id": "29194"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sangsure": "0.03%",
+      "Rapace dépeceur": "0.03%",
+      "Condamnateur": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29194"
+  },
+  {
+    "item": {
+      "name": "Les Cratérobottes",
+      "id": "29221"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cratéros, Bourreau de la fin": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29221"
+  },
+  {
+    "item": {
+      "name": "Les Cratérobottes",
+      "id": "29222"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Cratéros, Bourreau de la fin": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29222"
+  },
+  {
+    "item": {
+      "name": "Les Affamées",
+      "id": "29265"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Réman'hante": "0.1%",
+      "Ésrevni": "0.1%",
+      "CeEvroaint": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29265"
+  },
+  {
+    "item": {
+      "name": "Les Affamées",
+      "id": "29266"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Réman'hante": "0.03%",
+      "Ésrevni": "0.03%",
+      "CeEvroaint": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29266"
+  },
+  {
+    "item": {
+      "name": "Bottes Mystérieuses",
+      "id": "29279"
+    },
+    "rarity": "3",
+    "droprates": {
+      "!@#dh`~": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29279"
+  },
+  {
+    "item": {
+      "name": "Bottes Mystérieuses",
+      "id": "29280"
+    },
+    "rarity": "4",
+    "droprates": {
+      "!@#dh`~": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29280"
+  },
+  {
+    "item": {
+      "name": "Les Mythottes",
+      "id": "29345"
+    },
+    "rarity": "3",
+    "droprates": {
+      "K'abah'al, Gardien de la route des morts": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29345"
+  },
+  {
+    "item": {
+      "name": "Les Mythottes",
+      "id": "29346"
+    },
+    "rarity": "4",
+    "droprates": {
+      "K'abah'al, Gardien de la route des morts": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29346"
+  },
+  {
+    "item": {
+      "name": "Bottes de Rushu",
+      "id": "29463"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29463"
+  },
+  {
+    "item": {
+      "name": "Bottes de Rushu",
+      "id": "29464"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29464"
+  },
+  {
+    "item": {
+      "name": "Les Viddhartatanes corrompues",
+      "id": "29516"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29516"
+  },
+  {
+    "item": {
+      "name": "Les Viddhartatanes corrompues",
+      "id": "29517"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29517"
+  },
+  {
+    "item": {
+      "name": "Grèves des Eclaireurs d'Otomaï maudites",
+      "id": "29544"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29544"
+  },
+  {
+    "item": {
+      "name": "Grèves des Eclaireurs d'Otomaï maudites",
+      "id": "29545"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29545"
+  },
+  {
+    "item": {
+      "name": "Bottes du Meulou",
+      "id": "29808"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Milkar le Meulou": "1.67%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29808"
+  },
+  {
+    "item": {
+      "name": "Bottes du M.A.R.C 1",
+      "id": "29859"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Merkator": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29859"
+  },
+  {
+    "item": {
+      "name": "Grèves du Chevalier Azur",
+      "id": "29883"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Capuchino l'énergisant": "1.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29883"
+  },
+  {
+    "item": {
+      "name": "Souliers Dartagnon",
+      "id": "29892"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Spectrex le Tourmenteur": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29892"
+  },
+  {
+    "item": {
+      "name": "Souliers Dartagnon",
+      "id": "29893"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Spectrex le Tourmenteur": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29893"
+  },
+  {
+    "item": {
+      "name": "Bottes de l'Enflemar",
+      "id": "29896"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mihmol l'Empaleur": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29896"
+  },
+  {
+    "item": {
+      "name": "Bottes de l'Enflemar",
+      "id": "29897"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mihmol l'Empaleur": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29897"
+  },
+  {
+    "item": {
+      "name": "Bottes du Gladiatrool",
+      "id": "29904"
+    },
+    "rarity": "4",
+    "droprates": {
+      "El Pochito": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29904"
+  },
+  {
+    "item": {
+      "name": "Bottes du Gladiatrool",
+      "id": "29905"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Pochito": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29905"
+  },
+  {
+    "item": {
+      "name": "Bottes Massetard",
+      "id": "29924"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Lardevil": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29924"
+  },
+  {
+    "item": {
+      "name": "Bottes Vagabond",
+      "id": "29976"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Blopale le scintillant": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/29976"
+  },
+  {
+    "item": {
+      "name": "Lorko Botto",
+      "id": "30001"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Encapuchonné Dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30001"
+  },
+  {
+    "item": {
+      "name": "Bottes de Jr.",
+      "id": "30147"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Raeliss": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30147"
+  },
+  {
+    "item": {
+      "name": "Bottes du voyageur sous-marin",
+      "id": "30189"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Raeliss": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30189"
+  },
+  {
+    "item": {
+      "name": "Bottes du voyageur sous-marin",
+      "id": "30190"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Raeliss": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30190"
+  },
+  {
+    "item": {
+      "name": "Pieds d’Arlang",
+      "id": "30199"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Petit-poisseux": "0.4%",
+      "Cogneur abyssal": "0.4%",
+      "Assassirène": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30199"
+  },
+  {
+    "item": {
+      "name": "Pieds d’Arlang",
+      "id": "30200"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Petit-poisseux": "0.05%",
+      "Cogneur abyssal": "0.05%",
+      "Assassirène": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30200"
+  },
+  {
+    "item": {
+      "name": "Pieds d’Arlang",
+      "id": "30201"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Petit-poisseux": "0.03%",
+      "Cogneur abyssal": "0.03%",
+      "Assassirène": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30201"
+  },
+  {
+    "item": {
+      "name": "Bottes du pirate aguerri",
+      "id": "30240"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Soeur de la côte": "0.8%",
+      "Flibustier d'Asse": "0.8%",
+      "Bataillard des mers": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30240"
+  },
+  {
+    "item": {
+      "name": "Bottes du pirate aguerri",
+      "id": "30241"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Soeur de la côte": "0.1%",
+      "Flibustier d'Asse": "0.1%",
+      "Bataillard des mers": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30241"
+  },
+  {
+    "item": {
+      "name": "Sandales de plage",
+      "id": "30242"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pohl le poulpe": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30242"
+  },
+  {
+    "item": {
+      "name": "Chaussures du mécano",
+      "id": "30277"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Stork l'Ingénieux": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30277"
+  },
+  {
+    "item": {
+      "name": "Bottes de l'usine",
+      "id": "30279"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Sir Comte Flex": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30279"
+  },
+  {
+    "item": {
+      "name": "Bottes de l'usine",
+      "id": "30280"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sir Comte Flex": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30280"
+  },
+  {
+    "item": {
+      "name": "Bottes de l'usine",
+      "id": "30281"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sir Comte Flex": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30281"
+  },
+  {
+    "item": {
+      "name": "Brodequins caillerie",
+      "id": "30320"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mékano": "0.4%",
+      "Artilleur d'élite": "0.4%",
+      "Unité stasificatrice": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30320"
+  },
+  {
+    "item": {
+      "name": "Brodequins caillerie",
+      "id": "30321"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mékano": "0.05%",
+      "Artilleur d'élite": "0.05%",
+      "Unité stasificatrice": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30321"
+  },
+  {
+    "item": {
+      "name": "Brodequins caillerie",
+      "id": "30322"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mékano": "0.03%",
+      "Artilleur d'élite": "0.03%",
+      "Unité stasificatrice": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30322"
+  },
+  {
+    "item": {
+      "name": "Grèves du Paladin",
+      "id": "30337"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Capuchino l'énergisant": "1.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30337"
+  },
+  {
+    "item": {
+      "name": "Bottes de Koko",
+      "id": "30353"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Hark Saniss, Dernier géant": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30353"
+  },
+  {
+    "item": {
+      "name": "Bottes de Mort-brûlé",
+      "id": "30375"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bwork brûlé": "0.8%",
+      "Nimbrasier": "0.8%",
+      "Défunéraire": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30375"
+  },
+  {
+    "item": {
+      "name": "Bottes de Mort-brûlé",
+      "id": "30376"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bwork brûlé": "0.1%",
+      "Nimbrasier": "0.1%",
+      "Défunéraire": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30376"
+  },
+  {
+    "item": {
+      "name": "Bottes grincheuses",
+      "id": "30377"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Hark Saniss, Dernier géant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30377"
+  },
+  {
+    "item": {
+      "name": "Bottes aigries",
+      "id": "30400"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Marthos": "0.8%",
+      "Parrapuits": "0.8%",
+      "Bouclihash": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30400"
+  },
+  {
+    "item": {
+      "name": "Bottes aigries",
+      "id": "30401"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Marthos": "0.1%",
+      "Parrapuits": "0.1%",
+      "Bouclihash": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30401"
+  },
+  {
+    "item": {
+      "name": "Pieds de Goël",
+      "id": "30402"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Goël le golem": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30402"
+  },
+  {
+    "item": {
+      "name": "Grèves de Cire Momore",
+      "id": "30695"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cire Momore": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30695"
+  },
+  {
+    "item": {
+      "name": "Grèves de Cire Momore",
+      "id": "30696"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Cire Momore": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30696"
+  },
+  {
+    "item": {
+      "name": "Grèves de Cire Momore Ankylosé",
+      "id": "30701"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cire Momore": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30701"
+  },
+  {
+    "item": {
+      "name": "Bottes de Genki",
+      "id": "30801"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Protogolem": "2%",
+      "Sir Comte Flex": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30801"
+  },
+  {
+    "item": {
+      "name": "Bottes de Genki",
+      "id": "30802"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Protogolem": "0.25%",
+      "Sir Comte Flex": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30802"
+  },
+  {
+    "item": {
+      "name": "Bottes du guerrier inconnu",
+      "id": "30871"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Lela": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30871"
+  },
+  {
+    "item": {
+      "name": "Brodequins Frustes",
+      "id": "30905"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Lela": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30905"
+  },
+  {
+    "item": {
+      "name": "Brodequins Frustes",
+      "id": "30906"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Lela": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30906"
+  }
+]

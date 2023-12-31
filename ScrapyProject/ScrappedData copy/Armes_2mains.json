@@ -1,0 +1,3221 @@
+[
+  {
+    "item": {
+      "name": "Boufmarteau",
+      "id": "2027"
+    },
+    "rarity": "1",
+    "droprates": {
+      "Bouftou": "4%",
+      "Boufton Noir": "4%",
+      "Chef de Guerre Bouftou": "4%",
+      "Boufton Blanc": "4%",
+      "Boufette": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/2027"
+  },
+  {
+    "item": {
+      "name": "Hache Piou",
+      "id": "7034"
+    },
+    "rarity": "1",
+    "droprates": {
+      "Piou Rouge": "4%",
+      "Piou Bleu": "4%",
+      "Piou Vert": "4%",
+      "Piou Violet": "4%",
+      "Pioulette": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/7034"
+  },
+  {
+    "item": {
+      "name": "Boufmarteau Royal",
+      "id": "9253"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bouftou Royal": "16%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/9253"
+  },
+  {
+    "item": {
+      "name": "Sargasse",
+      "id": "10265"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bouchtrou l'Esseulé": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/10265"
+  },
+  {
+    "item": {
+      "name": "Hache Ivement",
+      "id": "12358"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Muligane le Défaussé": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12358"
+  },
+  {
+    "item": {
+      "name": "Massue Démente",
+      "id": "12381"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Milkar le Meulou": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12381"
+  },
+  {
+    "item": {
+      "name": "Marteau Roc",
+      "id": "12445"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Craqueleur Ancestral": "0.8%",
+      "Craqueleur": "0.8%",
+      "Craqueboule": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12445"
+  },
+  {
+    "item": {
+      "name": "Gobi-Hache",
+      "id": "12476"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Corbiyar le Passeur": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12476"
+  },
+  {
+    "item": {
+      "name": "Epée du Corbeau Noir",
+      "id": "12489"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Corbeau Noir": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12489"
+  },
+  {
+    "item": {
+      "name": "Archive Pelle",
+      "id": "12591"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Excarnus": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12591"
+  },
+  {
+    "item": {
+      "name": "La Marave",
+      "id": "12592"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Excarnus": "4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12592"
+  },
+  {
+    "item": {
+      "name": "Sceptre Sacré",
+      "id": "12600"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Raymond Garden": "0.8%",
+      "Grimm Beurguen": "0.8%",
+      "Gros Nambourg": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12600"
+  },
+  {
+    "item": {
+      "name": "Faux Nonneuse",
+      "id": "12623"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Nonne": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12623"
+  },
+  {
+    "item": {
+      "name": "Balayette",
+      "id": "12628"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Raymond Garden": "0.8%",
+      "Grimm Beurguen": "0.8%",
+      "Gros Nambourg": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12628"
+  },
+  {
+    "item": {
+      "name": "Martombale",
+      "id": "12862"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Strygidaire la Froide": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12862"
+  },
+  {
+    "item": {
+      "name": "Lance chuchotée",
+      "id": "14360"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chuchoteurs Fantassins": "0.8%",
+      "Chuchoteurs Arbalétriers": "0.8%",
+      "Chuchoteur Porte-Etendard": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14360"
+  },
+  {
+    "item": {
+      "name": "Marteau Somniboule",
+      "id": "14480"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maître Chuchoku": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14480"
+  },
+  {
+    "item": {
+      "name": "Cordelarc craquelé",
+      "id": "14481"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Maître Chuchoku": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14481"
+  },
+  {
+    "item": {
+      "name": "La Chuchoteuse",
+      "id": "14493"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maître Chuchoku": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14493"
+  },
+  {
+    "item": {
+      "name": "La Tchernobatte",
+      "id": "15210"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Arakne Poilue": "0.8%",
+      "Arakne Majeure": "0.8%",
+      "Arakne Mineure": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/15210"
+  },
+  {
+    "item": {
+      "name": "Martord-Boyaux",
+      "id": "15401"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Ratchitik": "0.8%",
+      "Rat'Os": "0.8%",
+      "Ratgnagna": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/15401"
+  },
+  {
+    "item": {
+      "name": "La Gugulden Axe",
+      "id": "15574"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pewpew l'Artilleur": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/15574"
+  },
+  {
+    "item": {
+      "name": "Sabre Cranté",
+      "id": "16030"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Yech'Ti'Wawa": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16030"
+  },
+  {
+    "item": {
+      "name": "Mékanne",
+      "id": "16060"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mékabra": "0.1%",
+      "Mékarbac": "0.1%",
+      "Mékanistro": "0.1%",
+      "Mékazerker": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16060"
+  },
+  {
+    "item": {
+      "name": "Arc Adoussur",
+      "id": "16062"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mékabra": "0.1%",
+      "Mékarbac": "0.1%",
+      "Mékanistro": "0.1%",
+      "Mékazerker": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16062"
+  },
+  {
+    "item": {
+      "name": "Lance Diabolo-Fraise",
+      "id": "16765"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gelée Framboise": "0.1%",
+      "Gelée Menthe": "0.1%",
+      "Gelée Fraise": "0.1%",
+      "Gelée Citron": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16765"
+  },
+  {
+    "item": {
+      "name": "Raquette de Plage",
+      "id": "16794"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Moulstacho": "0.1%",
+      "Requin Moularteau": "0.1%",
+      "Ver Moulé Immature": "0.1%",
+      "Ver Moulé Vorace": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16794"
+  },
+  {
+    "item": {
+      "name": "Pelle Facétieuse",
+      "id": "16801"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bilbymoule Nacrée": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16801"
+  },
+  {
+    "item": {
+      "name": "Frite Flotteuse",
+      "id": "16819"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bilbyboy Framboise": "0.8%",
+      "Bilbygirl Menthe": "0.8%",
+      "Bilbyboy Fraise": "0.8%",
+      "Bilbygirl Citron": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16819"
+  },
+  {
+    "item": {
+      "name": "Massue de Trool",
+      "id": "16891"
+    },
+    "rarity": "2",
+    "droprates": {
+      "El Pochito": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16891"
+  },
+  {
+    "item": {
+      "name": "La Zombo",
+      "id": "17214"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Zombowabbit le putréfié": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17214"
+  },
+  {
+    "item": {
+      "name": "Sceptwe de Colèwe",
+      "id": "17268"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Emiw Black Wabbit": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17268"
+  },
+  {
+    "item": {
+      "name": "Gwosse Cawotte",
+      "id": "17288"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Ti Wabbit": "0.72%",
+      "Wabbit": "0.72%",
+      "Wo Wabbit": "0.72%",
+      "Gwand Pa Wabbit": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17288"
+  },
+  {
+    "item": {
+      "name": "Sceptre du Gwand Viziw",
+      "id": "17293"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gwand Viziw Wabbit": "1.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17293"
+  },
+  {
+    "item": {
+      "name": "Sceptwe du Wa",
+      "id": "17328"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Wa Wabbit": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17328"
+  },
+  {
+    "item": {
+      "name": "Awc Infecté",
+      "id": "17352"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gwand Wabbit GM": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17352"
+  },
+  {
+    "item": {
+      "name": "Claymore de Fhenris",
+      "id": "17657"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Corbamouth": "0.0792%",
+      "Cormoune": "0.0792%",
+      "Mulmoune": "0.0792%",
+      "Mulmouth Enragé": "0.0792%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17657"
+  },
+  {
+    "item": {
+      "name": "La Fourbash",
+      "id": "17659"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Rose Ténébreuse": "0.7992%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17659"
+  },
+  {
+    "item": {
+      "name": "Bâton de Grande Sagesse",
+      "id": "17757"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chef de Guerre Sauvage": "0.8%",
+      "Bouftou Sauvage": "0.8%",
+      "Boufette Chamane": "0.8%",
+      "Boufton sauvage": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17757"
+  },
+  {
+    "item": {
+      "name": "Marteau de Sauvagerie",
+      "id": "17758"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chef de Guerre Sauvage": "0.8%",
+      "Bouftou Sauvage": "0.8%",
+      "Boufette Chamane": "0.8%",
+      "Boufton sauvage": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17758"
+  },
+  {
+    "item": {
+      "name": "L'Arc Bouse",
+      "id": "17773"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Grand Bouftou Sauvage": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17773"
+  },
+  {
+    "item": {
+      "name": "Marteau de Throll",
+      "id": "17815"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Throll": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17815"
+  },
+  {
+    "item": {
+      "name": "La J'marrache",
+      "id": "18177"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Piktus": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18177"
+  },
+  {
+    "item": {
+      "name": "Lancespore",
+      "id": "18184"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Haploïde Sporulateur": "0.09%",
+      "Amionite Bicéphaloïde": "0.09%",
+      "Coulemellanche Sauteur": "0.09%",
+      "Cêpolourpode Ecrasant": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18184"
+  },
+  {
+    "item": {
+      "name": "Arcus Shushu",
+      "id": "18450"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mihmol l'Empaleur": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18450"
+  },
+  {
+    "item": {
+      "name": "Brutus Shushu",
+      "id": "18451"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mihmol l'Empaleur": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18451"
+  },
+  {
+    "item": {
+      "name": "Claymus Shushu",
+      "id": "18452"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Mihmol l'Empaleur": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18452"
+  },
+  {
+    "item": {
+      "name": "Tranchus Shushu",
+      "id": "18453"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mihmol l'Empaleur": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18453"
+  },
+  {
+    "item": {
+      "name": "Martus Shushu",
+      "id": "18454"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mihmol l'Empaleur": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18454"
+  },
+  {
+    "item": {
+      "name": "Excavatus Shushu",
+      "id": "18456"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mihmol l'Empaleur": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18456"
+  },
+  {
+    "item": {
+      "name": "La Débiteuse",
+      "id": "18562"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chevalancier": "0.08%",
+      "Enutroffre-Fort": "0.08%",
+      "Kamarachnide": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18562"
+  },
+  {
+    "item": {
+      "name": "Clef des comptes",
+      "id": "18565"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Chevalancier": "0.042%",
+      "Enutroffre-Fort": "0.042%",
+      "Kamarachnide": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18565"
+  },
+  {
+    "item": {
+      "name": "Martôt",
+      "id": "19051"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Orda Gova": "0.07%",
+      "Laps": "0.07%",
+      "Grorlog": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19051"
+  },
+  {
+    "item": {
+      "name": "Ravage Instable",
+      "id": "19132"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Poz": "0.07%",
+      "Lairdavan": "0.07%",
+      "Syclick": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19132"
+  },
+  {
+    "item": {
+      "name": "Epée Discontinue",
+      "id": "19135"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Raipiode l'Infréquençable": "1.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19135"
+  },
+  {
+    "item": {
+      "name": "Lience Acrée",
+      "id": "19358"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Kroamagnon": "0.1%",
+      "Krocky": "0.1%",
+      "Korbelle": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19358"
+  },
+  {
+    "item": {
+      "name": "Epée de Serre d'Acier",
+      "id": "19422"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Serre d'Acier": "0.54%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19422"
+  },
+  {
+    "item": {
+      "name": "Os à Moelle",
+      "id": "19523"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Viktoria-France Kenstein": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19523"
+  },
+  {
+    "item": {
+      "name": "Marteau de Foul Moon",
+      "id": "20279"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Foul Moon": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20279"
+  },
+  {
+    "item": {
+      "name": "La Pelle du Lârge",
+      "id": "20403"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Château de Sâble": "3%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20403"
+  },
+  {
+    "item": {
+      "name": "L'épée Toncle",
+      "id": "20404"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Château de Sâble": "12%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20404"
+  },
+  {
+    "item": {
+      "name": "Pelle du Pâti Noir",
+      "id": "20406"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pâti Noir": "5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20406"
+  },
+  {
+    "item": {
+      "name": "Martonneau",
+      "id": "20568"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mamie Lésime": "0.08%",
+      "Papy Crate": "0.08%",
+      "Serprieuse": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20568"
+  },
+  {
+    "item": {
+      "name": "Arc Prismatique",
+      "id": "20729"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Nogord l'Ezarélé": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20729"
+  },
+  {
+    "item": {
+      "name": "La Pelle ta Moule",
+      "id": "21131"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Dark Moule": "0.8%",
+      "Kaskargo": "0.8%",
+      "Kralamour": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21131"
+  },
+  {
+    "item": {
+      "name": "La Lance du Skouale Lancier",
+      "id": "21163"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Skoualinou": "0.8%",
+      "Skouale Marteau": "0.8%",
+      "Skouale Lancier": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21163"
+  },
+  {
+    "item": {
+      "name": "La Skouache",
+      "id": "21164"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Skoualinou": "0.8%",
+      "Skouale Marteau": "0.8%",
+      "Skouale Lancier": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21164"
+  },
+  {
+    "item": {
+      "name": "L'Ensanglantée",
+      "id": "21202"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Soeur Soudeuse la Fondue": "1.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21202"
+  },
+  {
+    "item": {
+      "name": "La Barre Jô",
+      "id": "21206"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Kali": "0.4284%",
+      "Boully le Racketteur": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21206"
+  },
+  {
+    "item": {
+      "name": "La Pelle ta Moule",
+      "id": "21386"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Dark Moule": "0.1%",
+      "Kaskargo": "0.1%",
+      "Kralamour": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21386"
+  },
+  {
+    "item": {
+      "name": "La Lance du Skouale Lancier",
+      "id": "21438"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Skoualinou": "0.1%",
+      "Skouale Marteau": "0.1%",
+      "Skouale Lancier": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21438"
+  },
+  {
+    "item": {
+      "name": "La Skouache",
+      "id": "21439"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Skoualinou": "0.1%",
+      "Skouale Marteau": "0.1%",
+      "Skouale Lancier": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21439"
+  },
+  {
+    "item": {
+      "name": "Croc Sournois",
+      "id": "21721"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Fouirox": "0.4%",
+      "Blérage": "0.4%",
+      "Blérours": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21721"
+  },
+  {
+    "item": {
+      "name": "Croc Sournois",
+      "id": "21747"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fouirox": "0.05%",
+      "Blérage": "0.05%",
+      "Blérours": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21747"
+  },
+  {
+    "item": {
+      "name": "Croc Sournois",
+      "id": "21748"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fouirox": "0.03%",
+      "Blérage": "0.03%",
+      "Blérours": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21748"
+  },
+  {
+    "item": {
+      "name": "Marteau Mashu",
+      "id": "21808"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Schistérique": "0.4%",
+      "Ammaniaque": "0.4%",
+      "Sulfurie": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21808"
+  },
+  {
+    "item": {
+      "name": "Marteau Mashu",
+      "id": "21999"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Schistérique": "0.05%",
+      "Ammaniaque": "0.05%",
+      "Sulfurie": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21999"
+  },
+  {
+    "item": {
+      "name": "Marteau Mashu",
+      "id": "22000"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Schistérique": "0.03%",
+      "Ammaniaque": "0.03%",
+      "Sulfurie": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22000"
+  },
+  {
+    "item": {
+      "name": "Masse à Tomique",
+      "id": "22167"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Hem Kokora": "1.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22167"
+  },
+  {
+    "item": {
+      "name": "Marteau Luterking",
+      "id": "22169"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ben'Koko": "1.2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22169"
+  },
+  {
+    "item": {
+      "name": "Epée Millénaire",
+      "id": "22363"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Lav'Haus le Chronométré": "1.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22363"
+  },
+  {
+    "item": {
+      "name": "Martôt",
+      "id": "22381"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Orda Gova": "0.038%",
+      "Laps": "0.038%",
+      "Grorlog": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22381"
+  },
+  {
+    "item": {
+      "name": "Martôt",
+      "id": "22382"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Orda Gova": "0.56%",
+      "Laps": "0.56%",
+      "Grorlog": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22382"
+  },
+  {
+    "item": {
+      "name": "Ravage Instable",
+      "id": "22414"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Poz": "0.038%",
+      "Lairdavan": "0.038%",
+      "Syclick": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22414"
+  },
+  {
+    "item": {
+      "name": "Ravage Instable",
+      "id": "22415"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Poz": "0.56%",
+      "Lairdavan": "0.56%",
+      "Syclick": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22415"
+  },
+  {
+    "item": {
+      "name": "Epée Discontinue",
+      "id": "22424"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Raipiode l'Infréquençable": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22424"
+  },
+  {
+    "item": {
+      "name": "Marteau de Foul Moon",
+      "id": "22447"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Foul Moon": "2.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22447"
+  },
+  {
+    "item": {
+      "name": "Epée de Serre d'Acier",
+      "id": "22470"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Serre d'Acier": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22470"
+  },
+  {
+    "item": {
+      "name": "Arc Prismatique",
+      "id": "22525"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Nogord l'Ezarélé": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22525"
+  },
+  {
+    "item": {
+      "name": "La Faux Rieuse",
+      "id": "22592"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sramoné le Chemineur": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22592"
+  },
+  {
+    "item": {
+      "name": "La Pelle personnelle",
+      "id": "22629"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sir Urh le Renfermé": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22629"
+  },
+  {
+    "item": {
+      "name": "La Débiteuse",
+      "id": "22639"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Chevalancier": "0.042%",
+      "Enutroffre-Fort": "0.042%",
+      "Kamarachnide": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22639"
+  },
+  {
+    "item": {
+      "name": "La Débiteuse",
+      "id": "22640"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chevalancier": "0.64%",
+      "Enutroffre-Fort": "0.64%",
+      "Kamarachnide": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22640"
+  },
+  {
+    "item": {
+      "name": "Clef des comptes",
+      "id": "22645"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chevalancier": "0.08%",
+      "Enutroffre-Fort": "0.08%",
+      "Kamarachnide": "0.08%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22645"
+  },
+  {
+    "item": {
+      "name": "Clef des comptes",
+      "id": "22646"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chevalancier": "0.64%",
+      "Enutroffre-Fort": "0.64%",
+      "Kamarachnide": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22646"
+  },
+  {
+    "item": {
+      "name": "Martonneau",
+      "id": "22682"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mamie Lésime": "0.042%",
+      "Papy Crate": "0.042%",
+      "Serprieuse": "0.042%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22682"
+  },
+  {
+    "item": {
+      "name": "Martonneau",
+      "id": "22683"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mamie Lésime": "0.64%",
+      "Papy Crate": "0.64%",
+      "Serprieuse": "0.64%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22683"
+  },
+  {
+    "item": {
+      "name": "Awc Infecté",
+      "id": "22729"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Gwand Wabbit GM": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22729"
+  },
+  {
+    "item": {
+      "name": "Sceptwe du Wa",
+      "id": "22776"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Wa Wabbit": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22776"
+  },
+  {
+    "item": {
+      "name": "Lancespore",
+      "id": "22825"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Haploïde Sporulateur": "0.046%",
+      "Amionite Bicéphaloïde": "0.046%",
+      "Coulemellanche Sauteur": "0.046%",
+      "Cêpolourpode Ecrasant": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22825"
+  },
+  {
+    "item": {
+      "name": "Lancespore",
+      "id": "22826"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Haploïde Sporulateur": "0.72%",
+      "Amionite Bicéphaloïde": "0.72%",
+      "Coulemellanche Sauteur": "0.72%",
+      "Cêpolourpode Ecrasant": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22826"
+  },
+  {
+    "item": {
+      "name": "Gwosse Cawotte",
+      "id": "22860"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ti Wabbit": "0.09%",
+      "Wabbit": "0.09%",
+      "Wo Wabbit": "0.09%",
+      "Gwand Pa Wabbit": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22860"
+  },
+  {
+    "item": {
+      "name": "Gwosse Cawotte",
+      "id": "22861"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ti Wabbit": "0.046%",
+      "Wabbit": "0.046%",
+      "Wo Wabbit": "0.046%",
+      "Gwand Pa Wabbit": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22861"
+  },
+  {
+    "item": {
+      "name": "Sceptre du Gwand Viziw",
+      "id": "22872"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Gwand Viziw Wabbit": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22872"
+  },
+  {
+    "item": {
+      "name": "Sceptwe de Colèwe",
+      "id": "22953"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Emiw Black Wabbit": "0.45%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22953"
+  },
+  {
+    "item": {
+      "name": "Mékanne",
+      "id": "23090"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mékabra": "0.05%",
+      "Mékarbac": "0.05%",
+      "Mékanistro": "0.05%",
+      "Mékazerker": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23090"
+  },
+  {
+    "item": {
+      "name": "Mékanne",
+      "id": "23091"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mékabra": "0.8%",
+      "Mékarbac": "0.8%",
+      "Mékanistro": "0.8%",
+      "Mékazerker": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23091"
+  },
+  {
+    "item": {
+      "name": "Arc Adoussur",
+      "id": "23092"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mékabra": "0.05%",
+      "Mékarbac": "0.05%",
+      "Mékanistro": "0.05%",
+      "Mékazerker": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23092"
+  },
+  {
+    "item": {
+      "name": "Arc Adoussur",
+      "id": "23093"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mékabra": "0.8%",
+      "Mékarbac": "0.8%",
+      "Mékanistro": "0.8%",
+      "Mékazerker": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23093"
+  },
+  {
+    "item": {
+      "name": "La J'marrache",
+      "id": "23140"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Piktus": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23140"
+  },
+  {
+    "item": {
+      "name": "Epée du Corbeau Noir",
+      "id": "23178"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Corbeau Noir": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23178"
+  },
+  {
+    "item": {
+      "name": "Lance chuchotée",
+      "id": "23243"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chuchoteurs Fantassins": "0.1%",
+      "Chuchoteurs Arbalétriers": "0.1%",
+      "Chuchoteur Porte-Etendard": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23243"
+  },
+  {
+    "item": {
+      "name": "Cordelarc craquelé",
+      "id": "23257"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maître Chuchoku": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23257"
+  },
+  {
+    "item": {
+      "name": "Le croc glacé de Fhenris",
+      "id": "23264"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fhenris le Mulmouth Solitaire": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23264"
+  },
+  {
+    "item": {
+      "name": "Frite Flotteuse",
+      "id": "23297"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bilbyboy Framboise": "0.1%",
+      "Bilbygirl Menthe": "0.1%",
+      "Bilbyboy Fraise": "0.1%",
+      "Bilbygirl Citron": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23297"
+  },
+  {
+    "item": {
+      "name": "Lance Diabolo-Fraise",
+      "id": "23313"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Gelée Framboise": "0.8%",
+      "Gelée Menthe": "0.8%",
+      "Gelée Fraise": "0.8%",
+      "Gelée Citron": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23313"
+  },
+  {
+    "item": {
+      "name": "Sceptre Sacré",
+      "id": "23345"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Raymond Garden": "0.1%",
+      "Grimm Beurguen": "0.1%",
+      "Gros Nambourg": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23345"
+  },
+  {
+    "item": {
+      "name": "Balayette",
+      "id": "23346"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Raymond Garden": "0.1%",
+      "Grimm Beurguen": "0.1%",
+      "Gros Nambourg": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23346"
+  },
+  {
+    "item": {
+      "name": "Massue de Trool",
+      "id": "23401"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Pochito": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23401"
+  },
+  {
+    "item": {
+      "name": "Raquette de Plage",
+      "id": "23420"
+    },
+    "rarity": "2",
+    "droprates": {
+      "El Moulstacho": "0.8%",
+      "Requin Moularteau": "0.8%",
+      "Ver Moulé Immature": "0.8%",
+      "Ver Moulé Vorace": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23420"
+  },
+  {
+    "item": {
+      "name": "Lience Acrée",
+      "id": "23510"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Kroamagnon": "0.8%",
+      "Krocky": "0.8%",
+      "Korbelle": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23510"
+  },
+  {
+    "item": {
+      "name": "Martord-Boyaux",
+      "id": "23531"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ratchitik": "0.1%",
+      "Rat'Os": "0.1%",
+      "Ratgnagna": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23531"
+  },
+  {
+    "item": {
+      "name": "La Tchernobatte",
+      "id": "23567"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Arakne Poilue": "0.1%",
+      "Arakne Majeure": "0.1%",
+      "Arakne Mineure": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23567"
+  },
+  {
+    "item": {
+      "name": "Marteau de Sauvagerie",
+      "id": "23643"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chef de Guerre Sauvage": "0.1%",
+      "Bouftou Sauvage": "0.1%",
+      "Boufette Chamane": "0.1%",
+      "Boufton sauvage": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23643"
+  },
+  {
+    "item": {
+      "name": "Bâton de Grande Sagesse",
+      "id": "23646"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chef de Guerre Sauvage": "0.1%",
+      "Bouftou Sauvage": "0.1%",
+      "Boufette Chamane": "0.1%",
+      "Boufton sauvage": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23646"
+  },
+  {
+    "item": {
+      "name": "L'Arc Bouse",
+      "id": "23650"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Grand Bouftou Sauvage": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23650"
+  },
+  {
+    "item": {
+      "name": "Lame du Craqueleur",
+      "id": "23780"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Craqueleur Ancestral": "0.8%",
+      "Craqueleur": "0.8%",
+      "Craqueboule": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23780"
+  },
+  {
+    "item": {
+      "name": "Lame du Craqueleur",
+      "id": "23781"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Craqueleur Ancestral": "0.1%",
+      "Craqueleur": "0.1%",
+      "Craqueboule": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23781"
+  },
+  {
+    "item": {
+      "name": "Marteau Roc",
+      "id": "23782"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Craqueleur Ancestral": "0.1%",
+      "Craqueleur": "0.1%",
+      "Craqueboule": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23782"
+  },
+  {
+    "item": {
+      "name": "Massue Démente",
+      "id": "23848"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Milkar le Meulou": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23848"
+  },
+  {
+    "item": {
+      "name": "Archive Pelle",
+      "id": "23858"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Excarnus": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23858"
+  },
+  {
+    "item": {
+      "name": "La Marave",
+      "id": "23859"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Excarnus": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23859"
+  },
+  {
+    "item": {
+      "name": "Désincarnator",
+      "id": "24000"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24000"
+  },
+  {
+    "item": {
+      "name": "Pelle d'Enutrof",
+      "id": "24002"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24002"
+  },
+  {
+    "item": {
+      "name": "Hache de Sacrieur",
+      "id": "24005"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24005"
+  },
+  {
+    "item": {
+      "name": "Bambou de Pandawa",
+      "id": "24007"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24007"
+  },
+  {
+    "item": {
+      "name": "Marteau d'Osamodas",
+      "id": "24008"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24008"
+  },
+  {
+    "item": {
+      "name": "Arc de Crâ",
+      "id": "24009"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24009"
+  },
+  {
+    "item": {
+      "name": "Désincarnator",
+      "id": "24014"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24014"
+  },
+  {
+    "item": {
+      "name": "Pelle d'Enutrof",
+      "id": "24016"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24016"
+  },
+  {
+    "item": {
+      "name": "Hache de Sacrieur",
+      "id": "24019"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24019"
+  },
+  {
+    "item": {
+      "name": "Bambou de Pandawa",
+      "id": "24021"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24021"
+  },
+  {
+    "item": {
+      "name": "Marteau d'Osamodas",
+      "id": "24022"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24022"
+  },
+  {
+    "item": {
+      "name": "Arc de Crâ",
+      "id": "24023"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24023"
+  },
+  {
+    "item": {
+      "name": "La grosse branche",
+      "id": "24142"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mihmosa le Fleuri": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24142"
+  },
+  {
+    "item": {
+      "name": "Chrysalied",
+      "id": "24307"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie la Déterrée": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24307"
+  },
+  {
+    "item": {
+      "name": "Epéemeraude",
+      "id": "24325"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie la Déterrée": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24325"
+  },
+  {
+    "item": {
+      "name": "Cimetierre",
+      "id": "24720"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie Coeur-Cristal": "1.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24720"
+  },
+  {
+    "item": {
+      "name": "Epée Naïca",
+      "id": "24731"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie Coeur-Cristal": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24731"
+  },
+  {
+    "item": {
+      "name": "Rod Gerse",
+      "id": "24737"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Agonie Coeur-Cristal": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24737"
+  },
+  {
+    "item": {
+      "name": "Epée Naïca",
+      "id": "24832"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie Coeur-Cristal": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24832"
+  },
+  {
+    "item": {
+      "name": "La Requinquée",
+      "id": "25124"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Château de Sâble": "3%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25124"
+  },
+  {
+    "item": {
+      "name": "L'Ancre",
+      "id": "25125"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Château de Sâble": "3%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25125"
+  },
+  {
+    "item": {
+      "name": "La Mouchonnette",
+      "id": "25150"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Moomouche": "0.8%",
+      "Moogrron": "0.8%",
+      "Moogrr": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25150"
+  },
+  {
+    "item": {
+      "name": "La Mouchonnette",
+      "id": "25151"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Moomouche": "0.1%",
+      "Moogrron": "0.1%",
+      "Moogrr": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25151"
+  },
+  {
+    "item": {
+      "name": "Batte à Moogrr",
+      "id": "25164"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Moogrr Royale": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25164"
+  },
+  {
+    "item": {
+      "name": "Marteau Toh'Lo",
+      "id": "25332"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Boo Dominant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25332"
+  },
+  {
+    "item": {
+      "name": "Truch'Arc",
+      "id": "25371"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Truduk le Rondouillard": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25371"
+  },
+  {
+    "item": {
+      "name": "Tape doigts",
+      "id": "25374"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Truche Dominante": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25374"
+  },
+  {
+    "item": {
+      "name": "Tronchoneuse",
+      "id": "25413"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sangria le Fruité": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25413"
+  },
+  {
+    "item": {
+      "name": "Masse Talouego",
+      "id": "25456"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chafalfer l'Optimiste": "2%",
+      "Chaférimé le dépassé": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25456"
+  },
+  {
+    "item": {
+      "name": "Le Carqu'Os",
+      "id": "25471"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chafer Archer": "0.8%",
+      "Chafer Elite": "0.8%",
+      "Chafer Lancier": "0.8%",
+      "Chafer Archer de la Mine": "0.8%",
+      "Chafer Elite de la Mine": "0.8%",
+      "Chafer Lancier de la Mine": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25471"
+  },
+  {
+    "item": {
+      "name": "Le Carqu'Os",
+      "id": "25472"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chafer Archer": "0.1%",
+      "Chafer Elite": "0.1%",
+      "Chafer Lancier": "0.1%",
+      "Chafer Archer de la Mine": "0.1%",
+      "Chafer Elite de la Mine": "0.1%",
+      "Chafer Lancier de la Mine": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25472"
+  },
+  {
+    "item": {
+      "name": "Lame du Chafer",
+      "id": "25477"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chafer Archer": "0.8%",
+      "Chafer Elite": "0.8%",
+      "Chafer Lancier": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25477"
+  },
+  {
+    "item": {
+      "name": "Lame du Chafer",
+      "id": "25478"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chafer Archer": "0.1%",
+      "Chafer Elite": "0.1%",
+      "Chafer Lancier": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25478"
+  },
+  {
+    "item": {
+      "name": "Pelle Buny",
+      "id": "25499"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Scara Dominant": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25499"
+  },
+  {
+    "item": {
+      "name": "Porte-Etendard Riktus",
+      "id": "25548"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Maluss": "0.8%",
+      "Malopo": "0.8%",
+      "Malobouc": "0.8%",
+      "Malocac": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25548"
+  },
+  {
+    "item": {
+      "name": "Porte-Etendard Riktus",
+      "id": "25549"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maluss": "0.1%",
+      "Malopo": "0.1%",
+      "Malobouc": "0.1%",
+      "Malocac": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25549"
+  },
+  {
+    "item": {
+      "name": "Arc Riktus",
+      "id": "25553"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Maluss": "0.8%",
+      "Malopo": "0.8%",
+      "Malobouc": "0.8%",
+      "Malocac": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25553"
+  },
+  {
+    "item": {
+      "name": "Arc Riktus",
+      "id": "25554"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maluss": "0.1%",
+      "Malopo": "0.1%",
+      "Malobouc": "0.1%",
+      "Malocac": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25554"
+  },
+  {
+    "item": {
+      "name": "Pelle Riktus",
+      "id": "25555"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Maluss": "0.8%",
+      "Malopo": "0.8%",
+      "Malobouc": "0.8%",
+      "Malocac": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25555"
+  },
+  {
+    "item": {
+      "name": "Pelle Riktus",
+      "id": "25556"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maluss": "0.1%",
+      "Malopo": "0.1%",
+      "Malobouc": "0.1%",
+      "Malocac": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25556"
+  },
+  {
+    "item": {
+      "name": "Epée Riktus",
+      "id": "25557"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Maluss": "0.8%",
+      "Malopo": "0.8%",
+      "Malobouc": "0.8%",
+      "Malocac": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25557"
+  },
+  {
+    "item": {
+      "name": "Epée Riktus",
+      "id": "25558"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maluss": "0.1%",
+      "Malopo": "0.1%",
+      "Malobouc": "0.1%",
+      "Malocac": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25558"
+  },
+  {
+    "item": {
+      "name": "Gourdin Gueuh",
+      "id": "25619"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Ti' Flaqueux": "0.8%",
+      "Chef Flaqueux": "0.8%",
+      "Guerrier Flaqueux": "0.8%",
+      "Mama Flaqueuse": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25619"
+  },
+  {
+    "item": {
+      "name": "Gourdin Gueuh",
+      "id": "25620"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ti' Flaqueux": "0.1%",
+      "Chef Flaqueux": "0.1%",
+      "Guerrier Flaqueux": "0.1%",
+      "Mama Flaqueuse": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25620"
+  },
+  {
+    "item": {
+      "name": "Gourdin Gueuh",
+      "id": "25621"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ti' Flaqueux": "0.05%",
+      "Chef Flaqueux": "0.05%",
+      "Guerrier Flaqueux": "0.05%",
+      "Mama Flaqueuse": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25621"
+  },
+  {
+    "item": {
+      "name": "Pelaflake",
+      "id": "25625"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Ti' Flaqueux": "0.8%",
+      "Chef Flaqueux": "0.8%",
+      "Guerrier Flaqueux": "0.8%",
+      "Mama Flaqueuse": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25625"
+  },
+  {
+    "item": {
+      "name": "Pelaflake",
+      "id": "25626"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ti' Flaqueux": "0.1%",
+      "Chef Flaqueux": "0.1%",
+      "Guerrier Flaqueux": "0.1%",
+      "Mama Flaqueuse": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25626"
+  },
+  {
+    "item": {
+      "name": "Pelaflake",
+      "id": "25627"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ti' Flaqueux": "0.05%",
+      "Chef Flaqueux": "0.05%",
+      "Guerrier Flaqueux": "0.05%",
+      "Mama Flaqueuse": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25627"
+  },
+  {
+    "item": {
+      "name": "Lezoli Rostre",
+      "id": "25667"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pichon Dominant": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25667"
+  },
+  {
+    "item": {
+      "name": "Epée Spadon",
+      "id": "25694"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Léviathon": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25694"
+  },
+  {
+    "item": {
+      "name": "Epée Spadon",
+      "id": "25695"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Zespadon": "0.1%",
+      "Sergent Poiscaille": "0.1%",
+      "Don Rascaillès": "0.1%",
+      "Bernardo dé la Carpett": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25695"
+  },
+  {
+    "item": {
+      "name": "Epée Spadon",
+      "id": "25696"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Zespadon": "0.05%",
+      "Sergent Poiscaille": "0.05%",
+      "Don Rascaillès": "0.05%",
+      "Bernardo dé la Carpett": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25696"
+  },
+  {
+    "item": {
+      "name": "Hache Abraknyde",
+      "id": "25760"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Abraknyde Ancestral": "0.72%",
+      "Tronknyde Sombre": "0.72%",
+      "Abraknyde Sombre": "0.72%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25760"
+  },
+  {
+    "item": {
+      "name": "Hache Abraknyde",
+      "id": "25761"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Abraknyde Ancestral": "0.09%",
+      "Tronknyde Sombre": "0.09%",
+      "Abraknyde Sombre": "0.09%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25761"
+  },
+  {
+    "item": {
+      "name": "Hache Abraknyde",
+      "id": "25762"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Abraknyde Ancestral": "0.046%",
+      "Tronknyde Sombre": "0.046%",
+      "Abraknyde Sombre": "0.046%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25762"
+  },
+  {
+    "item": {
+      "name": "L'Epée Poutreuse",
+      "id": "25830"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Patapikot": "0.56%",
+      "Patator": "0.56%",
+      "Patapattes": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25830"
+  },
+  {
+    "item": {
+      "name": "L'Epée Poutreuse",
+      "id": "25831"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Patapikot": "0.07%",
+      "Patator": "0.07%",
+      "Patapattes": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25831"
+  },
+  {
+    "item": {
+      "name": "L'Epée Poutreuse",
+      "id": "25832"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Patapikot": "0.038%",
+      "Patator": "0.038%",
+      "Patapattes": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25832"
+  },
+  {
+    "item": {
+      "name": "Lanco Plumo",
+      "id": "25965"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Brise-Tibias": "5.6%",
+      "Roublard Tiste": "0.56%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25965"
+  },
+  {
+    "item": {
+      "name": "Lanco Plumo",
+      "id": "25966"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Roublard Tiste": "0.07%",
+      "Brise-Tibias": "0.07%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25966"
+  },
+  {
+    "item": {
+      "name": "Lanco Plumo",
+      "id": "25967"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Brise-Tibias": "0.35%",
+      "Roublard Tiste": "0.038%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25967"
+  },
+  {
+    "item": {
+      "name": "Epée Bon Œil",
+      "id": "25981"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Remington Smisse": "5.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25981"
+  },
+  {
+    "item": {
+      "name": "Epée Bon Œil",
+      "id": "25982"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Remington Smisse": "0.7%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25982"
+  },
+  {
+    "item": {
+      "name": "Epée Bon Œil",
+      "id": "25983"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Remington Smisse": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25983"
+  },
+  {
+    "item": {
+      "name": "Epée Traîtrise",
+      "id": "26267"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Serre d'Acier": "0.78%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26267"
+  },
+  {
+    "item": {
+      "name": "Epée Kyn",
+      "id": "26490"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Le Riktus Masqué": "0.4284%",
+      "Rictus l'expressif": "0.4284%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26490"
+  },
+  {
+    "item": {
+      "name": "Marteau Glaglacier",
+      "id": "26532"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Glaglawi": "0.8%",
+      "Glagla": "0.8%",
+      "Glagla Froidacier": "0.8%",
+      "Glagla Cornegivre": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26532"
+  },
+  {
+    "item": {
+      "name": "Marteau Glaglacier",
+      "id": "26533"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Glaglawi": "0.1%",
+      "Glagla": "0.1%",
+      "Glagla Froidacier": "0.1%",
+      "Glagla Cornegivre": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26533"
+  },
+  {
+    "item": {
+      "name": "Pelle Mécanique",
+      "id": "26607"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Javého": "5.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26607"
+  },
+  {
+    "item": {
+      "name": "Pelle Mécanique",
+      "id": "26608"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Javého": "0.7%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26608"
+  },
+  {
+    "item": {
+      "name": "Pelle Mécanique",
+      "id": "26664"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Javého": "0.35%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26664"
+  },
+  {
+    "item": {
+      "name": "Magnum",
+      "id": "26839"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Pandikaze": "0.48%",
+      "Pandit": "0.48%",
+      "Pandou": "0.48%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26839"
+  },
+  {
+    "item": {
+      "name": "Magnum",
+      "id": "26840"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pandikaze": "0.06%",
+      "Pandit": "0.06%",
+      "Pandou": "0.06%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26840"
+  },
+  {
+    "item": {
+      "name": "Magnum",
+      "id": "26841"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Pandikaze": "0.034%",
+      "Pandit": "0.034%",
+      "Pandou": "0.034%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26841"
+  },
+  {
+    "item": {
+      "name": "L'arme à Niak",
+      "id": "26959"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fantôme de Pandala Dominant": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26959"
+  },
+  {
+    "item": {
+      "name": "Arc Chimède",
+      "id": "26985"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Fantôme Pandit": "0.4%",
+      "Fantôme Pandule": "0.4%",
+      "Fantôme Tanuki-Chan": "0.4%",
+      "Fantôme Yokaï": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26985"
+  },
+  {
+    "item": {
+      "name": "Arc Chimède",
+      "id": "26986"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fantôme Pandit": "0.05%",
+      "Fantôme Pandule": "0.05%",
+      "Fantôme Tanuki-Chan": "0.05%",
+      "Fantôme Yokaï": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26986"
+  },
+  {
+    "item": {
+      "name": "Arc Chimède",
+      "id": "26987"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fantôme Pandit": "0.03%",
+      "Fantôme Pandule": "0.03%",
+      "Fantôme Tanuki-Chan": "0.03%",
+      "Fantôme Yokaï": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26987"
+  },
+  {
+    "item": {
+      "name": "L'Hache de Raison",
+      "id": "27287"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Tanuki-Chan": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27287"
+  },
+  {
+    "item": {
+      "name": "Scie Kiotamm",
+      "id": "27373"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Archibourg l'Archimonstre Hibourg": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27373"
+  },
+  {
+    "item": {
+      "name": "Gourdin du soleil",
+      "id": "27627"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Scorpiétineur": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27627"
+  },
+  {
+    "item": {
+      "name": "Gourdin du soleil",
+      "id": "27628"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Scorpiétineur": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27628"
+  },
+  {
+    "item": {
+      "name": "L'Hache édumou",
+      "id": "27683"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Cwabotteur": "0.05%",
+      "Pincision": "0.05%",
+      "Pinsulaire": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27683"
+  },
+  {
+    "item": {
+      "name": "L'Hache édumou",
+      "id": "27684"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Cwabotteur": "0.03%",
+      "Pincision": "0.03%",
+      "Pinsulaire": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27684"
+  },
+  {
+    "item": {
+      "name": "Epée du rêve noble",
+      "id": "27685"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Crustacérébro": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27685"
+  },
+  {
+    "item": {
+      "name": "Epée du rêve noble",
+      "id": "27686"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Crustacérébro": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27686"
+  },
+  {
+    "item": {
+      "name": "L'immaculé",
+      "id": "27745"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Bufflamboyant": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27745"
+  },
+  {
+    "item": {
+      "name": "Pelle dimensionnelle",
+      "id": "27796"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Boiseux": "0.4%",
+      "Uto-pic": "0.4%",
+      "Assassinge": "0.4%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27796"
+  },
+  {
+    "item": {
+      "name": "Pelle dimensionnelle",
+      "id": "27797"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Boiseux": "0.05%",
+      "Uto-pic": "0.05%",
+      "Assassinge": "0.05%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27797"
+  },
+  {
+    "item": {
+      "name": "Pelle dimensionnelle",
+      "id": "27798"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Boiseux": "0.03%",
+      "Uto-pic": "0.03%",
+      "Assassinge": "0.03%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27798"
+  },
+  {
+    "item": {
+      "name": "Marteau d'Osamodas",
+      "id": "27803"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Phacochemar": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27803"
+  },
+  {
+    "item": {
+      "name": "Dernier soupir",
+      "id": "28073"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28073"
+  },
+  {
+    "item": {
+      "name": "Dernier soupir",
+      "id": "28074"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28074"
+  },
+  {
+    "item": {
+      "name": "Dernier soupir",
+      "id": "28075"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie, Nécromancienne livide": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28075"
+  },
+  {
+    "item": {
+      "name": "Pilastre",
+      "id": "28177"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Tortumulte": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28177"
+  },
+  {
+    "item": {
+      "name": "Pilastre",
+      "id": "28178"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Tortumulte": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28178"
+  },
+  {
+    "item": {
+      "name": "Arc Hadie",
+      "id": "28179"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Tortumulte": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28179"
+  },
+  {
+    "item": {
+      "name": "Arc Hadie",
+      "id": "28180"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Tortumulte": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28180"
+  },
+  {
+    "item": {
+      "name": "Pelle du Casse-cours",
+      "id": "28242"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Casse-Cours": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28242"
+  },
+  {
+    "item": {
+      "name": "Pelle du Casse-cours",
+      "id": "28243"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Casse-Cours": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28243"
+  },
+  {
+    "item": {
+      "name": "Hache du Sumorse",
+      "id": "28303"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sumorse": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28303"
+  },
+  {
+    "item": {
+      "name": "Hache du Sumorse",
+      "id": "28304"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sumorse": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28304"
+  },
+  {
+    "item": {
+      "name": "Marteau du Sumorse",
+      "id": "28305"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Sumorse": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28305"
+  },
+  {
+    "item": {
+      "name": "Marteau du Sumorse",
+      "id": "28306"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Sumorse": "0.25%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/28306"
+  },
+  {
+    "item": {
+      "name": "Tranchoir Abyssal",
+      "id": "29475"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29475"
+  },
+  {
+    "item": {
+      "name": "Tranchoir Abyssal",
+      "id": "29476"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29476"
+  },
+  {
+    "item": {
+      "name": "Lame insondable",
+      "id": "29477"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29477"
+  },
+  {
+    "item": {
+      "name": "Lame insondable",
+      "id": "29478"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29478"
+  },
+  {
+    "item": {
+      "name": "Vylus Shushu",
+      "id": "29479"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29479"
+  },
+  {
+    "item": {
+      "name": "Vylus Shushu",
+      "id": "29480"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29480"
+  },
+  {
+    "item": {
+      "name": "L'Aviolarc",
+      "id": "29481"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29481"
+  },
+  {
+    "item": {
+      "name": "L'Aviolarc",
+      "id": "29482"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29482"
+  },
+  {
+    "item": {
+      "name": "Sceptre du dernier repos",
+      "id": "29485"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29485"
+  },
+  {
+    "item": {
+      "name": "Sceptre du dernier repos",
+      "id": "29486"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29486"
+  },
+  {
+    "item": {
+      "name": "Grande lame séculaire",
+      "id": "29624"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29624"
+  },
+  {
+    "item": {
+      "name": "Grande lame séculaire",
+      "id": "29625"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29625"
+  },
+  {
+    "item": {
+      "name": "Hache séculaire",
+      "id": "29626"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29626"
+  },
+  {
+    "item": {
+      "name": "Hache séculaire",
+      "id": "29627"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29627"
+  },
+  {
+    "item": {
+      "name": "Pelle séculaire",
+      "id": "29628"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29628"
+  },
+  {
+    "item": {
+      "name": "Pelle séculaire",
+      "id": "29629"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29629"
+  },
+  {
+    "item": {
+      "name": "Marteau séculaire",
+      "id": "29632"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29632"
+  },
+  {
+    "item": {
+      "name": "Marteau séculaire",
+      "id": "29633"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29633"
+  },
+  {
+    "item": {
+      "name": "Grand bâton séculaire",
+      "id": "29634"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29634"
+  },
+  {
+    "item": {
+      "name": "Grand bâton séculaire",
+      "id": "29635"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29635"
+  },
+  {
+    "item": {
+      "name": "Arc séculaire",
+      "id": "29636"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29636"
+  },
+  {
+    "item": {
+      "name": "Arc séculaire",
+      "id": "29637"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": "0.5%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29637"
+  },
+  {
+    "item": {
+      "name": "Arcus Shushu",
+      "id": "29821"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mihmol l'Empaleur": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29821"
+  },
+  {
+    "item": {
+      "name": "Brutus Shushu",
+      "id": "29822"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mihmol l'Empaleur": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29822"
+  },
+  {
+    "item": {
+      "name": "Excavatus Shushu",
+      "id": "29824"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mihmol l'Empaleur": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29824"
+  },
+  {
+    "item": {
+      "name": "Martus Shushu",
+      "id": "29827"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mihmol l'Empaleur": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29827"
+  },
+  {
+    "item": {
+      "name": "Tranchus Shushu",
+      "id": "29830"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mihmol l'Empaleur": "1.6%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29830"
+  },
+  {
+    "item": {
+      "name": "Bâton de Justin",
+      "id": "29864"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Lardevil": "2%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29864"
+  },
+  {
+    "item": {
+      "name": "Marteau aigri",
+      "id": "30427"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Marthos": "0.8%",
+      "Parrapuits": "0.8%",
+      "Bouclihash": "0.8%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30427"
+  },
+  {
+    "item": {
+      "name": "Marteau aigri",
+      "id": "30428"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Marthos": "0.1%",
+      "Parrapuits": "0.1%",
+      "Bouclihash": "0.1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30428"
+  },
+  {
+    "item": {
+      "name": "Glaive Engeur",
+      "id": "30924"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Lela": "1%"
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30924"
+  }
+]
