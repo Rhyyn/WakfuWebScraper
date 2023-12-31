@@ -1,4 +1,5 @@
 from curses import panel
+from unicodedata import category
 import scrapy
 import re
 import json
@@ -32,24 +33,36 @@ class ItemDataSpider(scrapy.Spider):
     
     start_urls = []
     results = []
-    def get_starting_url(self, category_id):
+    def get_starting_url(self, category_id, url_mapping):
         category_id = int(category_id)
-        if category_id in [120, 103,119, 132, 134, 133, 138, 136]:
-            return 'https://www.wakfu.com/fr/mmorpg/encyclopedie/armures'
-        elif category_id in [254, 108, 110, 115, 113 , 223, 114, 101, 111, 253, 117, 112, 189]:
-            return 'https://www.wakfu.com/fr/mmorpg/encyclopedie/armes'
-        elif category_id in [646, 480, 537]:
-            return 'https://www.wakfu.com/fr/mmorpg/encyclopedie/accessoires'
-        elif category_id == 812:
-            return 'https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources'
-        elif category_id == 611:
-            return 'https://www.wakfu.com/fr/mmorpg/encyclopedie/montures'
-        elif category_id == 582:
-            return 'https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers'
+        base_url = 'https://www.wakfu.com/fr/mmorpg/encyclopedie/'
+        category_url = url_mapping.get(category_id, 'Unknown Category')
+        return f'{base_url}{category_url}'
+
+
+    def get_category_name(self, category_id):
+        url_mapping = self.get_id_mappings()
+        category_name = url_mapping.get(category_id, 'Unknown Category')
+        return category_name
+    
+    def get_id_mappings(self):
+        url_mapping = {
+            120: 'armures', 103: 'armures', 119: 'armures', 132: 'armures', 134: 'armures', 133: 'armures', 138: 'armures', 136: 'armures',
+            254: 'armes', 108: 'armes', 110: 'armes', 115: 'armes', 113: 'armes', 223: 'armes', 114: 'armes', 101: 'armes', 111: 'armes', 253: 'armes', 117: 'armes', 112: 'armes', 189: 'armes',
+            646: 'accessoires', 480: 'accessoires',537: 'accessoires',
+            812: 'ressources',
+            611: 'montures',
+            582: 'familiers',
+        }
+        return url_mapping
 
     def __init__(self, category_id=None, *args, **kwargs):
-        category_id = int(category_id) #type: ignore
-        self.start_url = self.get_starting_url(category_id)
+        
+        url_mapping = self.get_id_mappings()
+        self.category_id = int(category_id) #type: ignore
+        print("self.category_id", self.category_id)
+        self.start_url = self.get_starting_url(self.category_id, url_mapping)
+        print("self.start_url", self.start_url)
         current_dir = os.path.dirname(os.path.realpath(__file__))
         parent_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
         items_json_path = os.path.join(parent_dir, 'items.json')
@@ -60,7 +73,7 @@ class ItemDataSpider(scrapy.Spider):
                         for item in items_data if item.get('definition', {})
                                                         .get('item', {})
                                                         .get('baseParameters', {})
-                                                        .get('itemTypeId') == category_id] #type: ignore
+                                                        .get('itemTypeId') == self.category_id] #type: ignore
 
         self.logger.info("Filtered Items: %s", filtered_ids)
         scrap_per_min = 16
@@ -165,7 +178,8 @@ class ItemDataSpider(scrapy.Spider):
         
             
     def closed(self, reason):
-        file_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'ScrappedData', 'scraped_data.json')
+        current_category_name = self.get_category_name(self.category_id)
+        file_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'ScrappedData', f'{current_category_name}_scraped_data.json')
         # save the scraped data
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(self.results, file, ensure_ascii=False, indent=2)  # type: ignore
