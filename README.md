@@ -1,4 +1,4 @@
-This project is for learning purposes, it scraps some data from wakfu.com to fill in the blank in the data they are giving us such as Monsters stats, items droprates..
+This project is for learning purposes, it scraps some data from wakfu.com to fill in the blanks in the data they are giving us such as Monsters stats, items droprates..
 
 python cli.py to see commands
 
