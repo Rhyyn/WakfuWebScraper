@@ -23,8 +23,8 @@ To list the spiders use :
 ```
 python cli.py list-spiders 
 ```
-To use a spider : 
+To use a spider : (ex monsters_data) and follow the CLI prompts
 ```
-python cli.py crawl name-of-the-spider (ex monsters_data)
+python cli.py crawl monsters_data
 ```
 ONLY TO BE USED FOR EDUCATIONAL / DEMONSTRATIONAL PURPOSES AND NON-COMMERCIAL PURPOSES
