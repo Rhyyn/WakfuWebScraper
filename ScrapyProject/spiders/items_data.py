@@ -88,7 +88,7 @@ class ItemDataSpider(scrapy.Spider):
         scrap_per_min = 16
         self.print_estimated_time(filtered_ids, scrap_per_min)
         self.start_urls = [
-            f'{self.start_url}/{id}' for id in filtered_ids[:40]
+            f'{self.start_url}/{id}' for id in filtered_ids
         ]
         # DEBUG DO NOT UNCOMMENT
         # self.start_urls = ["https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/2021"]
@@ -126,12 +126,12 @@ class ItemDataSpider(scrapy.Spider):
                 '.ak-panel-title:contains("Peut être obtenu sur") + .ak-panel-content')
 
             # check if item can drop
-            if panel_content:
-                self.logger.info("---panel_content exists")
-            else:
-                self.logger.warning(
-                    f"Skipping URL: {response.url}, item has no droprates")
-                return
+            # if panel_content:
+            #     self.logger.info("---panel_content exists")
+            # else:
+            #     self.logger.warning(
+            #         f"Skipping URL: {response.url}, item has no droprates")
+            #     return
 
             # rarity class , used to get the rarity number in case problems with IDs arise
             rarity_class = response.css(
