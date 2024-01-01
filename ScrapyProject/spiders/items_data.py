@@ -69,9 +69,9 @@ class ItemDataSpider(scrapy.Spider):
         
         url_mapping = self.get_id_mappings()
         self.category_id = int(category_id) #type: ignore
-        print("self.category_id", self.category_id)
+        # print("self.category_id", self.category_id)
         self.start_url = self.get_starting_url(self.category_id, url_mapping)
-        print("self.start_url", self.start_url)
+        # print("self.start_url", self.start_url)
         current_dir = os.path.dirname(os.path.realpath(__file__))
         parent_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
         items_json_path = os.path.join(parent_dir, 'items.json')
@@ -88,9 +88,12 @@ class ItemDataSpider(scrapy.Spider):
         scrap_per_min = 16
         self.print_estimated_time(filtered_ids, scrap_per_min)
         self.start_urls = [
-            f'{self.start_url}/{id}' for id in filtered_ids
+            f'{self.start_url}/{id}' for id in filtered_ids[:40]
         ]
-        print (self.start_urls)
+        # DEBUG DO NOT UNCOMMENT
+        # self.start_urls = ["https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/2021"]
+        # print (self.start_urls)
+        # DEBUG # DEBUG DO NOT UNCOMMENT
         super(ItemDataSpider, self).__init__(*args, **kwargs)
 
 
@@ -155,13 +158,19 @@ class ItemDataSpider(scrapy.Spider):
                     '.ak-title span::text').get().strip()  # type: ignore
                 self.logger.info("---monster_name : %s", monster_name)
 
+                monster_id_url = monster_selector.css(
+                    '.ak-title a::attr(href)').get()
+                monster_id_match = re.search(r'/(\d+)-', monster_id_url) if monster_id_url else None
+                monster_id = monster_id_match.group(1) if monster_id_match else None
+                self.logger.info("---monster_id : %s", monster_id)
+
                 # Extract drop rate
                 drop_rate = monster_selector.css(
                     '.ak-aside::text').get().strip()  # type: ignore
                 self.logger.info("---drop_rate : %s", drop_rate)
 
                 # Add the monster and drop rate to the dictionary
-                droprates[monster_name] = drop_rate
+                droprates[monster_name] = {"drop_rate" : drop_rate, "monster_id" : int(monster_id)} #type: ignore
 
             title = response.css('title::text').get()
             item_name = title.split(' - ')[0].strip()
