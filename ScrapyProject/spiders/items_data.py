@@ -197,7 +197,7 @@ class ItemDataSpider(scrapy.Spider):
             
     def closed(self, reason):
         current_category_name = self.get_category_name(self.category_id)
-        file_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'ScrappedData', f'{current_category_name}_scraped_data.json')
+        file_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'ScrappedData', f'{current_category_name}_scrapped_data.json')
         # save the scraped data
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(self.results, file, ensure_ascii=False, indent=2)  # type: ignore
