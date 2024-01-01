@@ -41,8 +41,17 @@ class ItemDataSpider(scrapy.Spider):
 
 
     def get_category_name(self, category_id):
-        url_mapping = self.get_id_mappings()
-        category_name = url_mapping.get(category_id, 'Unknown Category')
+        # url_mapping = self.get_id_mappings()
+        # category_name = url_mapping.get(category_id, 'Unknown Category')
+        item_type_mapping = {
+            120: 'amulette', 103: 'anneau', 119: 'bottes', 132: 'cape', 134: 'casque', 133: 'ceinture', 138: 'epaulettes', 136: 'plastron',
+            254: 'arme1main', 108: 'arme1main', 110: 'arme1main', 115: 'arme1main', 113: 'arme1main', 223: 'arme2main', 114: 'arme2main', 101: 'arme2main', 111: 'arme2main', 253: 'arme2main', 117: 'arme2main', 112: 'secondemain', 189: 'secondemain',
+            646: 'emblemes', 480: 'torches',537: 'outils',
+            812: 'sublimation',
+            611: 'montures',
+            582: 'familiers',
+        }
+        category_name = item_type_mapping.get(category_id, 'Unknown Category')
         return category_name
     
     def get_id_mappings(self):
