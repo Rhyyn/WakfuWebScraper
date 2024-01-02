@@ -16,17 +16,51 @@ with open('items.json', 'r', encoding='utf-8') as file:
 #                   any('equipEffects' in item['definition'] and any('actionId' in effect['effect']['definition'] and effect['effect']['definition']['actionId'] == 1083 for effect in item['definition']['equipEffects']) for item in data)]
 
 # print equip_effect based on ID 
-equip_effects_items = [
-    item['definition']['item']['id']
-    for item in data
-    if 'equipEffects' in item['definition'] and any(
-        'actionId' in effect['effect']['definition'] and effect['effect']['definition']['actionId'] == 1068
-        for effect in item['definition']['equipEffects']
-    )
-]
-# Print the filtered item IDs
-print(equip_effects_items)
+# equip_effects_items = [
+#     item['definition']['item']['id']
+#     for item in data
+#     if 'equipEffects' in item['definition'] and any(
+#         'actionId' in effect['effect']['definition'] and effect['effect']['definition']['actionId'] == 1068
+#         for effect in item['definition']['equipEffects']
+#     )
+# ]
+# # Print the filtered item IDs
+# print(equip_effects_items)
 
+
+# same as above but different 
+
+# equip_effects_items = [
+#     {
+#         'id': item['definition']['item']['id'],
+#         'params': effect['effect']['definition']['params']
+#     }
+#     for item in data
+#     for effect in item['definition']['equipEffects']
+#     if effect['effect']['definition']['actionId'] == 39
+# ]
+
+# for item in equip_effects_items:
+#     print(f"Item ID: {item['id']}")
+#     print(f"Params: {item['params']}")
+#     print()
+    
+
+## LEVLE
+equip_effects_items = [
+    {
+        'id': item.get('definition', {}).get('item', {}).get('id', ''),
+        'effects': [
+            effect.get('effect', {})
+            for effect in item.get('definition', {}).get('equipEffects', [])
+        ]
+    }
+    for item in data
+    if item.get('definition', {}).get('item', {}).get('baseParameters', {}).get('itemTypeId', '') == 582
+]
+
+for item in equip_effects_items:
+    print(item)
 
 # equip_effects_items_params = [
 #     item['definition']['item']['id']
@@ -80,11 +114,11 @@ print(equip_effects_items)
 
 
 
-filtered_ids = [item
-                for item in data if
-                item.get('definition', {}).get('item', {}).get('id', {}) == 30924]
+# filtered_ids = [item
+#                 for item in data if
+#                 item.get('definition', {}).get('item', {}).get('id', {}) == 30924]
 
-print(filtered_ids)
+# print(filtered_ids)
 
 
 # ids = [2037, 2058, 2198, 3812, 3833, 3849, 3941, 3959, 4615, 5197, 5580, 6121, 6556, 6570, 6571, 7041, 7055, 7056, 9243, 9252, 9274, 9354, 9359, 9362, 9370, 9376, 9963, 9966, 9969, 9971, 10264, 10274, 10564, 11632, 12183, 12184, 12185, 12186, 12187, 12576, 12601, 12624, 12637, 12836, 12896, 13582, 14039, 14119, 14120, 14279, 14281, 14282, 14283, 14361, 14429, 14437, 14485, 14642, 14644, 14647, 14648, 14649, 14650, 14651, 14656, 14661, 14662, 14663, 14716, 14829, 14880, 14881, 14889, 15031, 15033, 15161, 15212, 15215, 15405, 15740, 16038, 16085, 16117, 16119, 16139, 16764, 16773, 16821, 16825, 16826, 17236, 17243, 17284, 17312, 17314, 17345, 17347, 17350, 17488, 17533, 17732, 17733, 17736, 17737, 17792, 17818, 17856, 18171, 18180, 18284, 18445, 18446, 18447, 18448, 18449, 18561, 18563, 18566, 18633, 18769, 19037, 19061, 19130, 19141, 19146, 19242, 19243, 19246, 19248, 19249, 19356, 19453, 19454, 19518, 19519, 19520, 19884, 19899, 20198, 20199, 20200, 20222, 20223, 20224, 20402, 20567, 20569, 20790, 20978, 20987, 20988, 21165, 21169, 21204, 21254, 21443, 21480, 21486, 21487, 21497, 21506, 21507, 21537, 21539, 21564, 21585, 21588, 21727, 21761, 21807, 21809, 21928, 21929, 21930, 21992, 21993, 21994, 22007, 22008, 22205, 22222, 22242, 22243, 22244, 22245, 22246, 22247, 22362, 22364, 22394, 22407, 22408, 22409, 22630, 22647, 22648, 22662, 22663, 22695, 22696, 22697, 22698, 22712, 22713, 22714, 22719, 22720, 22736, 22753, 22754, 22779, 22780, 22839, 22840, 22873, 22874, 22881, 22893, 22894, 22895, 22910, 22916, 22990, 23007, 23008, 23009, 23031, 23032, 23067, 23068, 23071, 23072, 23126,
