@@ -1,0 +1,652 @@
+[
+  {
+    "definition": {
+      "id": 20,
+      "effect": "Boost : Point de vie (PV)"
+    },
+    "description": {
+      "fr": "[#1] PV",
+      "en": "[#1] HP"
+    }
+  },
+  {
+    "definition": {
+      "id": 21,
+      "effect": "Deboost : Point de vie (PV)"
+    },
+    "description": {
+      "fr": "-[#1] Point{[>1]?s:} de Vie",
+      "en": "-[#1] Health Point{[=1]?:s}"
+    }
+  },
+  {
+    "definition": {
+      "id": 26,
+      "effect": "Gain : Maîtrise Soin"
+    },
+    "description": {
+      "fr": "[#1] Maîtrise Soin",
+      "en": "[#1] Healing Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 31,
+      "effect": "Boost : PA"
+    },
+    "description": {
+      "fr": "[#1] PA",
+      "en": "[#1] AP"
+    }
+  },
+  {
+    "definition": {
+      "id": 39,
+      "effect": "Gain : charac passée en paramètre"
+    },
+    "description": {
+      "fr": "[#1]{[~2]?%:} [#3]",
+      "en": "[#1]{[~2]?%:} [#3]"
+    }
+  },
+  {
+    "definition": {
+      "id": 40,
+      "effect": "Perte : charac passée en paramètre"
+    },
+    "description": {
+      "fr": "-[#1]{[~2]?%:} [#3]",
+      "en": "-[#1]{[~2]?%:} [#3]"
+    }
+  },
+  {
+    "definition": {
+      "id": 41,
+      "effect": "Boost : PM"
+    },
+    "description": {
+      "fr": "[#1] PM",
+      "en": "[#1] MP"
+    }
+  },
+  {
+    "definition": {
+      "id": 42,
+      "effect": "OLD - Deboost : PM"
+    },
+    "description": {
+      "fr": "-[#1] PM {[~2]?([#2]%):}",
+      "en": "-[#1] MP {[~2]?([#2]%):}"
+    }
+  },
+  {
+    "definition": {
+      "id": 56,
+      "effect": "Deboost : PA"
+    },
+    "description": {
+      "fr": "-[#1] PA max",
+      "en": "-[#1] max AP"
+    }
+  },
+  {
+    "definition": {
+      "id": 57,
+      "effect": "Deboost : PM"
+    },
+    "description": {
+      "fr": "-[#1] PM max",
+      "en": "-[#1] max MP"
+    }
+  },
+  {
+    "definition": {
+      "id": 71,
+      "effect": "Gain : Résistance Dos"
+    },
+    "description": {
+      "fr": "[#1] Résistance Dos",
+      "en": "[#1] Rear Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 80,
+      "effect": "Gain : Résistance Élémentaire"
+    },
+    "description": {
+      "fr": "[#1] Résistance Élémentaire",
+      "en": "[#1] Elemental Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 82,
+      "effect": "Gain : Résistance Feu"
+    },
+    "description": {
+      "fr": "[#1] Résistance Feu",
+      "en": "[#1] Fire Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 83,
+      "effect": "Gain : Résistance Eau"
+    },
+    "description": {
+      "fr": "[#1] Résistance Eau",
+      "en": "[#1] Water Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 84,
+      "effect": "Gain : Résistance Terre"
+    },
+    "description": {
+      "fr": "[#1] Résistance Terre",
+      "en": "[#1] Earth Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 85,
+      "effect": "Gain : Résistance Air"
+    },
+    "description": {
+      "fr": "[#1] Résistance Air",
+      "en": "[#1] Air Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 90,
+      "effect": "Perte : Résistance Élémentaire"
+    },
+    "description": {
+      "fr": "-[#1] Résistance élémentaire",
+      "en": "-[#1] Elemental Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 96,
+      "effect": "Perte : Résistance Terre (sans cap)"
+    },
+    "description": {
+      "fr": "-[#1] Résistance Terre",
+      "en": "-[#1] Earth Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 97,
+      "effect": "Perte : Résistance Feu (sans cap)"
+    },
+    "description": {
+      "fr": "-[#1] Résistance Feu",
+      "en": "-[#1] Fire Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 98,
+      "effect": "Perte : Résistance Eau (sans cap)"
+    },
+    "description": {
+      "fr": "-[#1] Résistance Eau",
+      "en": "-[#1] Water Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 100,
+      "effect": "Perte : Résistance Élémentaire (sans cap)"
+    },
+    "description": {
+      "fr": "-[#1] Résistance élémentaire",
+      "en": "-[#1] Elemental Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 120,
+      "effect": "Gain : Maîtrise Élémentaire"
+    },
+    "description": {
+      "fr": "[#1] Maîtrise Élémentaire",
+      "en": "[#1] Elemental Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 122,
+      "effect": "Gain : Maîtrise Feu"
+    },
+    "description": {
+      "fr": "[#1] Maîtrise Feu",
+      "en": "[#1] Fire Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 123,
+      "effect": "Gain : Maîtrise Terre"
+    },
+    "description": {
+      "fr": "[#1] Maîtrise Terre",
+      "en": "[#1] Earth Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 124,
+      "effect": "Gain : Maîtrise Eau"
+    },
+    "description": {
+      "fr": "[#1] Maîtrise Eau",
+      "en": "[#1] Water Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 125,
+      "effect": "Gain : Maîtrise Air"
+    },
+    "description": {
+      "fr": "[#1] Maîtrise Air",
+      "en": "[#1] Air Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 130,
+      "effect": "Perte : Maîtrise Élémentaire"
+    },
+    "description": {
+      "fr": "-[#1] Maîtrise Élémentaire",
+      "en": "-[#1] Elemental Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 132,
+      "effect": "Perte : Maîtrise Feu"
+    },
+    "description": {
+      "fr": "-[#1] Maîtrise Feu",
+      "en": "-[#1] Fire Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 149,
+      "effect": "Gain : Maîtrise Critique"
+    },
+    "description": {
+      "fr": "[#1] Maîtrise Critique",
+      "en": "[#1] Critical Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 150,
+      "effect": "Gain : Coup Critique (%)"
+    },
+    "description": {
+      "fr": "[#1]% Coup critique",
+      "en": "[#1]% Critical Hit"
+    }
+  },
+  {
+    "definition": {
+      "id": 160,
+      "effect": "Gain : Portée"
+    },
+    "description": {
+      "fr": "[#1] Portée",
+      "en": "[#1] Range"
+    }
+  },
+  {
+    "definition": {
+      "id": 161,
+      "effect": "Perte : Portée"
+    },
+    "description": {
+      "fr": "-[#1] Portée",
+      "en": "-[#1] Range"
+    }
+  },
+  {
+    "definition": {
+      "id": 162,
+      "effect": "Gain : Prospection"
+    },
+    "description": {
+      "fr": "[#1] Prospection",
+      "en": "[#1] Prospecting"
+    }
+  },
+  {
+    "definition": {
+      "id": 166,
+      "effect": "Gain : Sagesse"
+    },
+    "description": {
+      "fr": "[#1] Sagesse",
+      "en": "[#1] Wisdom"
+    }
+  },
+  {
+    "definition": {
+      "id": 168,
+      "effect": "Perte : Coup Critique (%)"
+    },
+    "description": {
+      "fr": "-[#1]% Coup critique",
+      "en": "-[#1]% Critical Hit"
+    }
+  },
+  {
+    "definition": {
+      "id": 171,
+      "effect": "Gain : Initiative"
+    },
+    "description": {
+      "fr": "[#1] Initiative",
+      "en": "[#1] Initiative"
+    }
+  },
+  {
+    "definition": {
+      "id": 172,
+      "effect": "Perte : Initiative"
+    },
+    "description": {
+      "fr": "-[#1] Initiative",
+      "en": "-[#1] Initiative"
+    }
+  },
+  {
+    "definition": {
+      "id": 173,
+      "effect": "Gain : Tacle"
+    },
+    "description": {
+      "fr": "[#1] Tacle",
+      "en": "[#1] Lock"
+    }
+  },
+  {
+    "definition": {
+      "id": 174,
+      "effect": "Perte : Tacle"
+    },
+    "description": {
+      "fr": "-[#1] Tacle",
+      "en": "-[#1] Lock"
+    }
+  },
+  {
+    "definition": {
+      "id": 175,
+      "effect": "Gain : Esquive"
+    },
+    "description": {
+      "fr": "[#1] Esquive",
+      "en": "[#1] Dodge"
+    }
+  },
+  {
+    "definition": {
+      "id": 176,
+      "effect": "Perte : Esquive"
+    },
+    "description": {
+      "fr": "-[#1] Esquive",
+      "en": "-[#1] Dodge"
+    }
+  },
+  {
+    "definition": {
+      "id": 177,
+      "effect": "Gain : Volonté"
+    },
+    "description": {
+      "fr": "[#1] Volonté",
+      "en": "[#1] Force of Will"
+    }
+  },
+  {
+    "definition": {
+      "id": 180,
+      "effect": "Gain : Maîtrise Dos"
+    },
+    "description": {
+      "fr": "[#1] Maîtrise Dos",
+      "en": "[#1] Rear Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 181,
+      "effect": "Perte : Maîtrise Dos"
+    },
+    "description": {
+      "fr": "-[#1] Maîtrise Dos",
+      "en": "-[#1] Rear Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 184,
+      "effect": "Gain : Contrôle"
+    },
+    "description": {
+      "fr": "[#1] Contrôle",
+      "en": "[#1] Control"
+    }
+  },
+  {
+    "definition": {
+      "id": 191,
+      "effect": "Boost : PW"
+    },
+    "description": {
+      "fr": "[#1] PW",
+      "en": "[#1] WP"
+    }
+  },
+  {
+    "definition": {
+      "id": 192,
+      "effect": "Deboost : PW"
+    },
+    "description": {
+      "fr": "-[#1] PW max",
+      "en": "-[#1] max WP"
+    }
+  },
+  {
+    "definition": {
+      "id": 304,
+      "effect": "State : Applique un état"
+    },
+    "description": {
+      "fr": "[#1] {[99>3]?:{[0<3]?:{[~3]?([#3]%):}}}",
+      "en": "[#1] {[99>3]?:{[0<3]?:{[~3]?([#3]%):}}}"
+    }
+  },
+  {
+    "definition": {
+      "id": 832,
+      "effect": "Spell : Gain de niveaux de sorts dans une branche"
+    },
+    "description": {
+      "fr": "[#2] Niv. aux sorts [#1]",
+      "en": "[#2] Lvl. to [#1] spells"
+    }
+  },
+  {
+    "definition": {
+      "id": 875,
+      "effect": "Gain : Parade"
+    },
+    "description": {
+      "fr": "[#1]% Parade",
+      "en": "[#1]% Block"
+    }
+  },
+  {
+    "definition": {
+      "id": 876,
+      "effect": "Perte : Parade"
+    },
+    "description": {
+      "fr": "-[#1]% Parade",
+      "en": "-[#1]% Block"
+    }
+  },
+  {
+    "definition": {
+      "id": 979,
+      "effect": "Spell : Gain de niveau de sort tous éléments (sauf support)"
+    },
+    "description": {
+      "fr": "[#1] Niv. aux sorts élémentaires",
+      "en": "[#1] Lvl. to elemental spells"
+    }
+  },
+  {
+    "definition": {
+      "id": 988,
+      "effect": "Gain : Résistance Critique"
+    },
+    "description": {
+      "fr": "[#1] Résistance Critique",
+      "en": "[#1] Critical Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 1052,
+      "effect": "Gain : Maîtrise Mêlée"
+    },
+    "description": {
+      "fr": "[#1] Maîtrise Mêlée",
+      "en": "[#1] Melee Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 1053,
+      "effect": "Gain : Maîtrise Distance"
+    },
+    "description": {
+      "fr": "[#1] Maîtrise Distance",
+      "en": "[#1] Distance Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 1055,
+      "effect": "Gain : Maîtrise Berserk"
+    },
+    "description": {
+      "fr": "[#1] Maîtrise Berserk",
+      "en": "[#1] Berserk Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 1056,
+      "effect": "Perte : Maîtrise Critique"
+    },
+    "description": {
+      "fr": "-[#1] Maîtrise Critique",
+      "en": "-[#1] Critical Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 1059,
+      "effect": "Perte : Maîtrise Mêlée"
+    },
+    "description": {
+      "fr": "-[#1] Maîtrise Mêlée",
+      "en": "-[#1] Melee Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 1060,
+      "effect": "Perte : Maîtrise Distance"
+    },
+    "description": {
+      "fr": "-[#1] Maîtrise Distance",
+      "en": "-[#1] Distance Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 1061,
+      "effect": "Perte : Maîtrise Berserk"
+    },
+    "description": {
+      "fr": "-[#1] Maîtrise Berserk",
+      "en": "-[#1] Berserk Mastery"
+    }
+  },
+  {
+    "definition": {
+      "id": 1062,
+      "effect": "Perte : Résistance Critique"
+    },
+    "description": {
+      "fr": "-[#1] Résistance Critique",
+      "en": "-[#1] Critical Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 1063,
+      "effect": "Perte : Résistance Dos"
+    },
+    "description": {
+      "fr": "-[#1] Résistance Dos",
+      "en": "-[#1] Rear Resistance"
+    }
+  },
+  {
+    "definition": {
+      "id": 1068,
+      "effect": "Gain : Maîtrise Élémentaire dans un nombre variable d'éléments"
+    },
+    "description": {
+      "fr": "{[~3]?[#1] Maîtrise [#3]:[#1] Maîtrise sur [#2] élément{[>2]?s:} aléatoire{[>2]?s:}}",
+      "en": "{[~3]?[#1] Mastery [#3]:[#1] Mastery of [#2] random{[=2]?:} element{[=2]?:s}}"
+    }
+  },
+  {
+    "definition": {
+      "id": 1069,
+      "effect": "Gain : Résistance Élémentaire dans un nombre variable d'éléments"
+    },
+    "description": {
+      "fr": "{[~3]?[#1] Résistance [#3]:[#1] Résistance sur [#2] élément{[>2]?s:} aléatoire{[>2]?s:}}",
+      "en": "{[~3]?[#1] Resistance [#3]:[#1] Resistance to [#2] random element{[>2]?s:}}"
+    }
+  },
+  {
+    "definition": {
+      "id": 2001,
+      "effect": "Job : Modifie la quantité d'objets récoltée"
+    },
+    "description": {
+      "fr": "[#1]% Quantité Récolte{[~2]? en [#2]:}",
+      "en": "[#1]% Harvesting Quantity{[~2]? in [#2]:}"
+    }
+  }
+]
