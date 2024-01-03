@@ -96764,11 +96764,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "5% Armure reçue",
+              "en": "5% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              5
+            ]
           }
         }
       }
@@ -96992,11 +96994,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "5% Armure reçue",
+              "en": "5% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              5
+            ]
           }
         }
       }
@@ -97220,11 +97224,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "5% Armure reçue",
+              "en": "5% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              5
+            ]
           }
         }
       }
@@ -99714,11 +99720,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "5% Armure reçue",
+              "en": "5% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              5
+            ]
           }
         }
       }
@@ -99907,11 +99915,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "5% Armure donnée",
+              "en": "5% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              5
+            ]
           }
         }
       },
@@ -99998,11 +100008,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "5% Armure donnée",
+              "en": "5% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              5
+            ]
           }
         }
       },
@@ -100878,11 +100890,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "5% Armure reçue",
+              "en": "5% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              5
+            ]
           }
         }
       }
@@ -101058,11 +101072,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "5% Armure reçue",
+              "en": "5% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              5
+            ]
           }
         }
       }
@@ -101238,11 +101254,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "5% Armure reçue",
+              "en": "5% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              5
+            ]
           }
         }
       }
@@ -104031,11 +104049,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "6% Armure donnée",
+              "en": "6% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              6
+            ]
           }
         }
       }
@@ -104178,11 +104198,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "6% Armure donnée",
+              "en": "6% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              6
+            ]
           }
         }
       }
@@ -104325,11 +104347,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "6% Armure donnée",
+              "en": "6% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              6
+            ]
           }
         }
       }
@@ -110777,11 +110801,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "8% Armure reçue",
+              "en": "8% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              8
+            ]
           }
         }
       }
@@ -110958,11 +110984,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "8% Armure reçue",
+              "en": "8% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              8
+            ]
           }
         }
       }
@@ -112408,11 +112436,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "7% Armure donnée",
+              "en": "7% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              7
+            ]
           }
         }
       },
@@ -112577,11 +112607,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "5% Armure donnée",
+              "en": "5% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              5
+            ]
           }
         }
       },
@@ -113683,11 +113715,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "6% Armure donnée",
+              "en": "6% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              6
+            ]
           }
         }
       },
@@ -113847,11 +113881,13 @@
           },
           "stats": {
             "display": {
-              "fr": "",
-              "en": ""
+              "fr": "10% Armure donnée",
+              "en": "10% Armor received"
             },
             "property": 39,
-            "values": []
+            "values": [
+              10
+            ]
           }
         }
       },

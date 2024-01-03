@@ -47,20 +47,48 @@ with open('items.json', 'r', encoding='utf-8') as file:
     
 
 ## LEVLE
-equip_effects_items = [
-    {
-        'id': item.get('definition', {}).get('item', {}).get('id', ''),
-        'effects': [
-            effect.get('effect', {})
-            for effect in item.get('definition', {}).get('equipEffects', [])
-        ]
-    }
-    for item in data
-    if item.get('definition', {}).get('item', {}).get('baseParameters', {}).get('itemTypeId', '') == 582
-]
+# equip_effects_items = [
+#     {
+#         'id': item.get('definition', {}).get('item', {}).get('id', ''),
+#         'effects': [
+#             effect.get('effect', {})
+#             for effect in item.get('definition', {}).get('equipEffects', [])
+#         ]
+#     }
+#     for item in data
+#     if item.get('definition', {}).get('item', {}).get('baseParameters', {}).get('itemTypeId', '') == 582
+# ]
 
-for item in equip_effects_items:
-    print(item)
+# for item in equip_effects_items:
+#     print(item)
+
+
+
+for item in data:
+    if item['definition']['equipEffects']:
+        equip_effects = item['definition']['equipEffects']
+        if item['definition']['item']['baseParameters']['itemTypeId'] == 582:
+            for effect in equip_effects:
+                if effect['effect']['definition']['actionId'] in [39]:
+                    fourth_param = effect['effect']['definition']['params'][4]
+                    # if fourth_param not in [121.0]: #type: ignore
+                    print("---------------------")
+                    print(f"Item ID : {item['definition']['item']['id']}")
+                    print(f"Effect : ")
+                    print(f"actionId = {effect['effect']['definition']['actionId']}")
+                    print(f"params = {effect['effect']['definition']['params']}")
+                    print(f"4th param = {effect['effect']['definition']['params'][4]}")
+                    description = effect['effect'].get('description', None)
+                    if description is not None:
+                        print(f"description = {description}")
+                    else:
+                        print("No description available")
+
+
+
+
+
+
 
 # equip_effects_items_params = [
 #     item['definition']['item']['id']
