@@ -12,25 +12,45 @@ def cli():
 
 @click.command()
 def format_items():
-    # Get a list of all JSON files in the current directory
+    current_directory = os.getcwd()
+    formated_data_path = os.path.join(current_directory, "FormatedData")
     json_files = [file for file in os.listdir() if file.endswith('.json')]
+    blacklist = ['items.json', 'formated-items.json', 'actions.json']
+    formated_json_files = []
+
+    def get_prefix(file_name):
+        return file_name.split('_')[0]
+
+    for file in os.listdir(formated_data_path):
+        if file.endswith('.json'):
+            formated_json_files.append(file)
 
     if not json_files:
         click.echo("No JSON files found in the current directory.")
         return
+    
+    click.echo(f"Available files to format: ")
+    for file in json_files:
+        formated_file = re.sub('.json', '_formated.json', file)
+        if (formated_file in formated_json_files) and (file not in blacklist):
+            click.echo(f" - {get_prefix(file)} - !! already exists in FormatedData !!")
+        elif file not in blacklist:
+            click.echo(f" - {get_prefix(file)}")
 
-    click.echo(f"Available files to format: {json_files}")
+    selected_prefix = click.prompt("Enter the prefix of the file to format", 
+                                    type=click.Choice(list(map(get_prefix, json_files)),
+                                    case_sensitive=False), 
+                                    show_choices=False)
+    
+    selected_file = ''
+    for file in json_files:
+        if get_prefix(file) == selected_prefix:
+            selected_file = file
 
-    # Ask the user to input the filename
-    selected_file = click.prompt(
-        "Enter the name of the file to format", type=click.Choice(json_files))
-
-    # Validate if the selected file exists
     if selected_file not in json_files:
         click.echo(f"Error: File '{selected_file}' not found.")
         return
 
-    # Format the selected JSON file
     format_json(selected_file)
     click.echo(f"File '{selected_file}' formatted successfully.")
 
@@ -84,6 +104,7 @@ element_pattern = re.compile(r'\[(el\d+)\]')
 
 
 class FormatedParams:
+    defId:int = 0
     fr:str = ''
     en:str = ''
     property:int = 0
@@ -143,11 +164,11 @@ def format_random_stat(action_id:int, params_list:list[int]) -> FormatedParams:
     strings = {
         1068 : {
             'fr' : '[#1] Maîtrise sur [#2] éléments aléatoires',
-            'en' : '[#1] Mastery of [#2] randoms elements'
+            'en' : '[#1] Mastery with [#2] randoms elements'
         },
         1069 : {
             'fr' : '[#1] Résistance sur [#2] éléments aléatoires',
-            'en' : '[#1] Resistance of [#2] randoms elements'
+            'en' : '[#1] Resistance with [#2] randoms elements'
         }
     }
     formated_params.fr = strings[action_id]['fr'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
@@ -171,6 +192,9 @@ def format_gathering_stat(action_id:int, params_list:list[int]) -> FormatedParam
 
 
 def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams:
+    # only works for Armor, lack the IDs for more stats support
+    # may lead to undesirable behavior
+    # subject to crash
     formated_params = FormatedParams()
     values = check_return_values(params_list)
     formated_params.values = values
@@ -186,7 +210,6 @@ def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams
             'en' : '% Armor received'
         }
     }
-    # only works for Armor, lack the IDs for more stat support
     if fourth_param in {120, 121}: 
         armor_type = "Armure donnée" if fourth_param == 120 else "Armure reçue"
         if params_list[2] is not None:
@@ -202,6 +225,7 @@ def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams
             formated_params.en = f'{formated_params.values}{strings[120]["en"]}'
     return formated_params
     
+gain_flat_ids = [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 162, 166, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063]
 
 def interpret_description(action_id:int, params_list:list[int], stat_description:dict[str, str], type_id:int) -> FormatedParams:
     if type_id == 582:
@@ -209,14 +233,13 @@ def interpret_description(action_id:int, params_list:list[int], stat_description
         return formated_params
     else:
         match int(action_id):
-            # add IDS to a dict
-            case action_id if action_id in [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 162, 166, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063]:
-                # gain flat
+            case action_id if action_id in gain_flat_ids:
+                # flat gain / gain flat
                 formated_params = format_flat_stat_gain(action_id, params_list, stat_description)
                 return formated_params
 
             case action_id if action_id in [21]:
-                # perte / deboost flat
+                # deboost flat / perte
                 formated_params = format_flat_stat_deboost(action_id, params_list, stat_description)
                 return formated_params
             
@@ -226,15 +249,15 @@ def interpret_description(action_id:int, params_list:list[int], stat_description
                 return formated_params
 
             case 2001: 
-                # recolte
+                # gathering / recolte
                 formated_params = format_gathering_stat(action_id, params_list)
                 return formated_params
                 
             case action_id if action_id in [39, 40]:
-                # perte avec custom charac2
+                # custom stat in param
                 formated_params = format_custom_charac(action_id, params_list)
-                fourth_param: int = int(params_list[4])
                 return formated_params
+
     return FormatedParams()
 
 
@@ -279,7 +302,7 @@ def format_json(filename):
                     },
                     "gfxId": int(original_item["definition"]["item"]["graphicParameters"]["gfxId"]),
                     "equipEffects": [],
-                    "item_url": scrapped_item["item_url"]
+                    "item_url": str(scrapped_item["item_url"])
                 }
 
                 if "equipEffects" in original_item["definition"]:
@@ -287,34 +310,22 @@ def format_json(filename):
                         if "effect" in effect_entry:
                             effect_definition = effect_entry["effect"].get(
                                 "definition", {})
-                            params_list = effect_definition.get("params", [])
-                            first_param_value = int(
-                                params_list[0]) if params_list else None
-                            action_id = effect_definition.get("actionId", "")
-                            stat_info = next(
-                                (stat for stat in actions_data if stat["definition"]["id"] == action_id), {})
-                            stat_description_fr = stat_info.get(
-                                "description", {}).get("fr", "")
-                            stat_description = stat_info.get(
-                                "description", {})
                             type_id = int(original_item["definition"]["item"]["baseParameters"]["itemTypeId"])
+                            params_list:list[int] = effect_definition.get("params", [])
+                            action_id:int = effect_definition.get("actionId", "")
+                            action_desc:dict[str, dict] = {}
+                            for action in actions_data:
+                                if action["definition"]["id"] == action_id:
+                                    action_desc = action
+                            stat_description:dict[str, str] = action_desc.get(
+                                "description", {})
+                            def_id = effect_definition.get("id", "")
                             formated_params = interpret_description(action_id, params_list, stat_description, type_id)
-                            stat_description_fr_cleaned = re.sub(
-                                r'[-\[]#(\d+)\]', '', stat_description_fr).strip()
-                            stat_value_fr = f"{first_param_value} {stat_description_fr_cleaned}" if first_param_value else ""
-                            stat_description_en = stat_info.get(
-                                "description", {}).get("en", "")
-                            stat_description_en_cleaned = re.sub(
-                                r'\[#\d+\]', '', stat_description_en).strip()
-                            stat_value_en = f"{first_param_value} {stat_description_en_cleaned}" if first_param_value else ""
-
-                            del effect_entry["effect"]["definition"]["areaShape"]
-                            del effect_entry["effect"]["definition"]["areaSize"]
-                            del effect_entry["effect"]["definition"]["params"]
+                            formated_params.defId = def_id
                             modified_effect_entry = {
                                 "effect": {
                                     "definition": {
-                                        "id": effect_definition.get("id", ""),
+                                        "id": formated_params.defId,
                                     },
                                     "stats": {
                                         "display": {
@@ -326,11 +337,10 @@ def format_json(filename):
                                     }
                                 }
                             }
-                            # print(modified_effect_entry)
-                            new_item_format["equipEffects"].append(
-                                modified_effect_entry)
+                            new_item_format["equipEffects"].append(modified_effect_entry)
                 new_items.append(new_item_format)
 
+    filename = re.sub('.json', '', filename)
     file_path = os.path.join(os.path.dirname(os.path.realpath(
         __file__)), 'FormatedData', f'{filename}_formated.json')
     with open(file_path, 'w', encoding='utf-8') as file:
@@ -338,7 +348,6 @@ def format_json(filename):
 
 
 cli.add_command(format_items)
-# cli.add_command(crawl)
 
 
 if __name__ == '__main__':
