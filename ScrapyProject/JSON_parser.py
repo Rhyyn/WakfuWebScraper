@@ -35,9 +35,9 @@ with open('items.json', 'r', encoding='utf-8') as file:
 #         'id': item['definition']['item']['id'],
 #         'params': effect['effect']['definition']['params']
 #     }
-#     for item in data
-#     for effect in item['definition']['equipEffects']
-#     if effect['effect']['definition']['actionId'] == 39
+#             for item in data
+#                 for effect in item['definition']['equipEffects']
+#                     if effect['effect']['definition']['actionId'] == 39
 # ]
 
 # for item in equip_effects_items:
@@ -67,22 +67,25 @@ with open('items.json', 'r', encoding='utf-8') as file:
 for item in data:
     if item['definition']['equipEffects']:
         equip_effects = item['definition']['equipEffects']
-        if item['definition']['item']['baseParameters']['itemTypeId'] == 582:
-            for effect in equip_effects:
-                if effect['effect']['definition']['actionId'] in [39]:
+        # if item['definition']['item']['baseParameters']['itemTypeId'] == 582:
+        for effect in equip_effects:
+            if effect['effect']['definition']['actionId'] in [21]:
+                fourth_param = None
+                if len(effect['effect']['definition']['params']) >= 5:
                     fourth_param = effect['effect']['definition']['params'][4]
-                    # if fourth_param not in [121.0]: #type: ignore
-                    print("---------------------")
-                    print(f"Item ID : {item['definition']['item']['id']}")
-                    print(f"Effect : ")
-                    print(f"actionId = {effect['effect']['definition']['actionId']}")
-                    print(f"params = {effect['effect']['definition']['params']}")
+                # if fourth_param not in [121.0]: #type: ignore
+                print("---------------------")
+                print(f"Item ID : {item['definition']['item']['id']}")
+                print(f"Effect : ")
+                print(f"actionId = {effect['effect']['definition']['actionId']}")
+                print(f"params = {effect['effect']['definition']['params']}")
+                if fourth_param is not None: 
                     print(f"4th param = {effect['effect']['definition']['params'][4]}")
-                    description = effect['effect'].get('description', None)
-                    if description is not None:
-                        print(f"description = {description}")
-                    else:
-                        print("No description available")
+                description = effect['effect'].get('description', None)
+                if description is not None:
+                    print(f"description = {description}")
+                else:
+                    print("No description available")
 
 
 
