@@ -3,7 +3,7 @@ import json
 import click
 import re
 import typing
-from typing import Any, Union, List, Dict, Type
+from typing import Any, Union, List, Dict, Type, Optional
 
 @click.group()
 def cli():
@@ -88,6 +88,7 @@ class FormatedParams:
     en:str = ''
     property:int = 0
     values:list[int] | int = []
+    job_id:Optional[int]
 
 
 def replace_element(match: re.Match) -> str:
@@ -103,15 +104,14 @@ def starts_with_hyphen(s):
     pattern = re.compile(r'^-')
     return bool(pattern.match(s))
 
-def handle_armor_stat():
-    return
 
 def check_return_values(params_list:list[int]) -> list[int] | int:
     if len(params_list) >= 3 and params_list[2] is not None: 
         return int(params_list[0]) + (int(params_list[1]) * 50)
     else:
         return int(params_list[0])
-    
+
+
 def format_flat_stat_gain(action_id:int, params_list:list[int], stat_description:dict[str, str]) -> FormatedParams:
     formated_params = FormatedParams()
     values = check_return_values(params_list)
@@ -124,6 +124,7 @@ def format_flat_stat_gain(action_id:int, params_list:list[int], stat_description
             setattr(formated_params, lang_key, updated_description)
     return formated_params
 
+
 def format_flat_stat_deboost(action_id:int, params_list:list[int], stat_description:dict[str, str]) -> FormatedParams:
     formated_params = FormatedParams()
     values = check_return_values(params_list)
@@ -132,6 +133,7 @@ def format_flat_stat_deboost(action_id:int, params_list:list[int], stat_descript
     formated_params.fr = f'-{int(params_list[0])} PV'
     formated_params.en = f'-{int(params_list[0])} HP'
     return formated_params
+
 
 def format_random_stat(action_id:int, params_list:list[int]) -> FormatedParams:
     formated_params = FormatedParams()
@@ -152,73 +154,88 @@ def format_random_stat(action_id:int, params_list:list[int]) -> FormatedParams:
     formated_params.en = strings[action_id]['en'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
     return formated_params
 
+
 def format_gathering_stat(action_id:int, params_list:list[int]) -> FormatedParams:
     formated_params = FormatedParams()
-    strings = { 'fr' : '', 'en' : ''}
-
-    
+    values = check_return_values(params_list)
+    formated_params.values = values
+    formated_params.property = action_id
+    if int(params_list[2]):
+        formated_params.job_id = int(params_list[2])
+        formated_params.fr = '[#1]% Quantité Récolte en [#2]'.replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
+        formated_params.en = '[#1]% Harvesting Quantity in [#2]'.replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
+    else:
+        formated_params.fr = '[#1]% Quantité Récolte'.replace('[#1]', str(int(params_list[0])))
+        formated_params.en = '[#1]% Harvesting Quantity'.replace('[#1]', str(int(params_list[0])))    
     return formated_params
-def updated_description_string(stat_description:dict[str, str], values):
-    return result
+
+
+def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams:
+    formated_params = FormatedParams()
+    values = check_return_values(params_list)
+    formated_params.values = values
+    formated_params.property = action_id
+    fourth_param:int = int(params_list[4])
+    strings = {
+        120 : {
+            'fr' : '% Armure donnée',
+            'en' : '% Armor given'
+        },
+        121 : {
+            'fr' : '% Armure reçue',
+            'en' : '% Armor received'
+        }
+    }
+    # only works for Armor, lack the IDs for more stat support
+    if fourth_param in {120, 121}: 
+        armor_type = "Armure donnée" if fourth_param == 120 else "Armure reçue"
+        if params_list[2] is not None:
+            formated_params.values = int(params_list[0]) + int(params_list[1]) * 50
+        else:
+            formated_params.values = int(params_list[0])
+
+        if action_id == 40:
+            formated_params.fr = f'-{formated_params.values}{strings[120]["fr"]}'
+            formated_params.en = f'-{formated_params.values}{strings[120]["en"]}'
+        else:
+            formated_params.fr = f'{formated_params.values}{strings[120]["fr"]}'
+            formated_params.en = f'{formated_params.values}{strings[120]["en"]}'
+    return formated_params
     
 
-def interpret_description(action_id:int, params_list:list[int], stat_description:dict[str, str], type_id:int) -> dict[str, Any]:
+def interpret_description(action_id:int, params_list:list[int], stat_description:dict[str, str], type_id:int) -> FormatedParams:
     if type_id == 582:
-        return result
+        formated_params = format_flat_stat_gain(action_id, params_list, stat_description)
+        return formated_params
     else:
         match int(action_id):
             # add IDS to a dict
             case action_id if action_id in [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 162, 166, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063]:
                 # gain flat
                 formated_params = format_flat_stat_gain(action_id, params_list, stat_description)
-                return result
+                return formated_params
 
             case action_id if action_id in [21]:
                 # perte / deboost flat
                 formated_params = format_flat_stat_deboost(action_id, params_list, stat_description)
-                return result
+                return formated_params
             
             case action_id if action_id in [1068, 1069]:
                 # random mastery / resists
                 formated_params = format_random_stat(action_id, params_list)
-                return result
+                return formated_params
 
             case 2001: 
                 # recolte
-                result['values'] = [int(params_list[0])]
-                if int(params_list[2]):
-                    result['jobs_id'] = [int(params_list[2])]
-                    result["display"]["fr"] = '[#1]% Quantité Récolte en [#2]'.replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
-                    result["display"]["en"] = '[#1]% Harvesting Quantity in [#2]'.replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
-                else:
-                    result["display"]["fr"] = '[#1]% Quantité Récolte'
-                    result["display"]["en"] = '[#1]% Harvesting Quantity'
-                return result
+                formated_params = format_gathering_stat(action_id, params_list)
+                return formated_params
                 
             case action_id if action_id in [39, 40]:
                 # perte avec custom charac2
-                result['values'] = [int(params_list[0])]
-                stat_str: str = result["display"]["fr"]
+                formated_params = format_custom_charac(action_id, params_list)
                 fourth_param: int = int(params_list[4])
-
-                if fourth_param in {120, 121}:  # Check if fourth_param is 120.0 or 121.0
-                    armor_type = "Armure donnée" if fourth_param == 120 else "Armure reçue"
-                    
-                    if params_list[2] is not None:
-                        value = int(params_list[0]) + int(params_list[1]) * 50
-                    else:
-                        value = int(params_list[0])
-
-                    value_str = f"{value}% {armor_type}"
-
-                    if action_id == 40:
-                        value_str = f"-{value_str}"
-
-                    result["display"]["fr"] = value_str
-                    result["display"]["en"] = f"{value}% Armor received"
-
-
-        return result
+                return formated_params
+    return FormatedParams()
 
 
 def format_json(filename):
@@ -281,7 +298,7 @@ def format_json(filename):
                             stat_description = stat_info.get(
                                 "description", {})
                             type_id = int(original_item["definition"]["item"]["baseParameters"]["itemTypeId"])
-                            stat_description = interpret_description(action_id, params_list, stat_description, type_id)
+                            formated_params = interpret_description(action_id, params_list, stat_description, type_id)
                             stat_description_fr_cleaned = re.sub(
                                 r'[-\[]#(\d+)\]', '', stat_description_fr).strip()
                             stat_value_fr = f"{first_param_value} {stat_description_fr_cleaned}" if first_param_value else ""
@@ -301,11 +318,11 @@ def format_json(filename):
                                     },
                                     "stats": {
                                         "display": {
-                                            "fr": stat_description["display"]["fr"],
-                                            "en": stat_description["display"]["en"]  
+                                            "fr": formated_params.fr,
+                                            "en": formated_params.en  
                                         },
-                                        "property": stat_description["property"],
-                                        "values": stat_description["values"],
+                                        "property": formated_params.property,
+                                        "values": formated_params.values,
                                     }
                                 }
                             }
