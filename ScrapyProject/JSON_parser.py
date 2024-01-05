@@ -6,6 +6,12 @@ import re
 with open('items.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
+with open('./Output/monsters_IDs.json', 'r' , encoding='utf-8') as monsters_ids_file:
+    monsters_id = json.load(monsters_ids_file)
+
+with open('./ScrappedData/amulette_scrapped_data.json', 'r' , encoding='utf-8') as item_data_file:
+    item_data = json.load(item_data_file)
+
 
 # Filter items with definition.item.baseParameters.itemTypeId equal to 120
 # filtered_items = [item['definition']['item']['id'] for item in data if
@@ -62,30 +68,41 @@ with open('items.json', 'r', encoding='utf-8') as file:
 # for item in equip_effects_items:
 #     print(item)
 
+# monsters_id_list = []
+# for id in monsters_id:
+#     monsters_id_list.append(id)
+
+# for item in item_data:
+#     droprates = item.get('droprates', {})
+#     for monster_name, monster_data in droprates.items():
+#         monster_id = monster_data.get('monster_id')
+#         if monster_id is not None and monster_id not in monsters_id_list:
+#             print(f"Monster ID {monster_id} is missing from monsters_id file.")
 
 
-for item in data:
-    if item['definition']['equipEffects']:
-        equip_effects = item['definition']['equipEffects']
-        # if item['definition']['item']['baseParameters']['itemTypeId'] == 582:
-        for effect in equip_effects:
-            if effect['effect']['definition']['actionId'] in [21]:
-                fourth_param = None
-                if len(effect['effect']['definition']['params']) >= 5:
-                    fourth_param = effect['effect']['definition']['params'][4]
-                # if fourth_param not in [121.0]: #type: ignore
-                print("---------------------")
-                print(f"Item ID : {item['definition']['item']['id']}")
-                print(f"Effect : ")
-                print(f"actionId = {effect['effect']['definition']['actionId']}")
-                print(f"params = {effect['effect']['definition']['params']}")
-                if fourth_param is not None: 
-                    print(f"4th param = {effect['effect']['definition']['params'][4]}")
-                description = effect['effect'].get('description', None)
-                if description is not None:
-                    print(f"description = {description}")
-                else:
-                    print("No description available")
+
+# for item in data:
+#     if item['definition']['equipEffects']:
+#         equip_effects = item['definition']['equipEffects']
+#         # if item['definition']['item']['baseParameters']['itemTypeId'] == 582:
+#         for effect in equip_effects:
+#             if effect['effect']['definition']['actionId'] in [21]:
+#                 fourth_param = None
+#                 if len(effect['effect']['definition']['params']) >= 5:
+#                     fourth_param = effect['effect']['definition']['params'][4]
+#                 # if fourth_param not in [121.0]: #type: ignore
+#                 print("---------------------")
+#                 print(f"Item ID : {item['definition']['item']['id']}")
+#                 print(f"Effect : ")
+#                 print(f"actionId = {effect['effect']['definition']['actionId']}")
+#                 print(f"params = {effect['effect']['definition']['params']}")
+#                 if fourth_param is not None: 
+#                     print(f"4th param = {effect['effect']['definition']['params'][4]}")
+#                 description = effect['effect'].get('description', None)
+#                 if description is not None:
+#                     print(f"description = {description}")
+#                 else:
+#                     print("No description available")
 
 
 
