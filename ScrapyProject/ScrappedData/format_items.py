@@ -110,6 +110,7 @@ class FormatedParams:
     property:int = 0
     values:list[int] | int = []
     job_id:Optional[int]
+    droprates:Optional[dict]
 
 
 def replace_element(match: re.Match) -> str:
@@ -163,16 +164,33 @@ def format_random_stat(action_id:int, params_list:list[int]) -> FormatedParams:
     formated_params.property = action_id
     strings = {
         1068 : {
-            'fr' : '[#1] Maîtrise sur [#2] éléments aléatoires',
-            'en' : '[#1] Mastery with [#2] randoms elements'
+            0: {
+                'fr' : '[#1] Maîtrise dans [#2] élément aléatoire',
+                'en' : '[#1] Mastery in [#2] random element'
+            },
+            1: {
+                'fr' : '[#1] Maîtrise dans [#2] éléments aléatoires',
+                'en' : '[#1] Mastery in [#2] randoms elements'
+            }
         },
         1069 : {
-            'fr' : '[#1] Résistance sur [#2] éléments aléatoires',
-            'en' : '[#1] Resistance with [#2] randoms elements'
+            0: {
+                'fr' : '[#1] Résistance dans [#2] élément aléatoire',
+                'en' : '[#1] Resistance in [#2] random element'
+            }, 
+            1 : {
+                'fr' : '[#1] Résistance dans [#2] éléments aléatoires',
+                'en' : '[#1] Resistance in [#2] randoms elements'
+            }
         }
     }
-    formated_params.fr = strings[action_id]['fr'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
-    formated_params.en = strings[action_id]['en'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
+
+    if int(params_list[2]) == 1 :
+        formated_params.fr = strings[action_id][0]['fr'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
+        formated_params.en = strings[action_id][0]['en'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
+    else :
+        formated_params.fr = strings[action_id][1]['fr'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
+        formated_params.en = strings[action_id][1]['en'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
     return formated_params
 
 
@@ -260,6 +278,26 @@ def interpret_description(action_id:int, params_list:list[int], stat_description
 
     return FormatedParams()
 
+def format_droprates(en_monsters_data, scrapped_droprates):
+    formated_params = FormatedParams  
+    droprates = {"fr": {}, "en": {}}
+    en_monsters_dict = {str(monster.get('monster_id')): monster for monster in en_monsters_data}
+
+    for fr_monster_name, fr_data in scrapped_droprates.items():
+        drop_rate = fr_data.get("drop_rate")
+        monster_id = str(fr_data.get("monster_id", None)) 
+        droprates["fr"][fr_monster_name] = {"drop_rate": drop_rate, "monster_id": monster_id}
+        en_monster = en_monsters_dict.get(monster_id)
+        if en_monster:
+            en_monster_name = en_monster.get('monster_name', fr_monster_name)
+        else:
+            en_monster_name = fr_monster_name
+
+        droprates["en"][en_monster_name] = {"drop_rate": drop_rate, "monster_id": monster_id}
+
+    formated_params.droprates = droprates
+    return formated_params
+
 
 def format_json(filename):
     with open(filename, 'r', encoding='utf-8') as scrapped_file:
@@ -270,6 +308,11 @@ def format_json(filename):
 
     with open('actions.json', 'r', encoding='utf-8') as stats_file:
         actions_data = json.load(stats_file)
+
+    with open('../Output/en_monsters_stats_data.json', 'r', encoding='utf-8') as monster_file:
+        en_monsters_data = json.load(monster_file)
+
+    
 
     new_items = []
     
@@ -304,6 +347,12 @@ def format_json(filename):
                     "equipEffects": [],
                     "item_url": str(scrapped_item["item_url"])
                 }
+
+
+                scrapped_droprates = scrapped_item["droprates"]
+                drop_rates = format_droprates(en_monsters_data,scrapped_droprates)
+                new_item_format["droprates"] = drop_rates.droprates
+
 
                 if "equipEffects" in original_item["definition"]:
                     for effect_entry in original_item["definition"]["equipEffects"]:
