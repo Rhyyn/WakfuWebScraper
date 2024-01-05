@@ -46,15 +46,20 @@ class MonstersDataSpider(scrapy.Spider):
     def construct_start_urls(self):
         current_dir = os.path.dirname(os.path.realpath(__file__))
         parent_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
-        monster_IDs_path = os.path.join(parent_dir, 'monsters_IDs.json')
+        monster_IDs_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'Output', 'monsters_IDs.json')
 
         with open(monster_IDs_path, 'r') as file:
             monsters_IDs = json.load(file)
 
-        return [
-            'https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/{}'.format(id) for id in monsters_IDs
-        ]
 
+        # FR
+        # return [
+        #     'https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/{}'.format(id) for id in monsters_IDs
+        # ]
+        # EN
+        return [
+            'https://www.wakfu.com/en/mmorpg/encyclopedia/monsters/{}'.format(id) for id in monsters_IDs
+        ]
 
     def parse(self, response):
         if response.status == 200:
@@ -199,7 +204,7 @@ class MonstersDataSpider(scrapy.Spider):
 
 
     def closed(self, reason):
-        file_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'Output', 'monsters_stats_data.json')
+        file_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'Output', 'en_monsters_stats_data.json')
         # save the scraped data
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(self.results, file, ensure_ascii=False, indent=2)  # type: ignore
