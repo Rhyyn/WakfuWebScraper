@@ -33,6 +33,7 @@ class MonstersIdsSpider(scrapy.Spider):
             href = tr.css('td:nth-child(2) span a::attr(href)').get()
             # Extract the monster ID from the URL
             monster_id = int(href.rsplit('/', 1)[-1].split('-', 1)[0])
+            self.logger.info(monster_id)
             self.items.append(monster_id)
 
         # Calculate the next page number
@@ -40,7 +41,7 @@ class MonstersIdsSpider(scrapy.Spider):
         next_page = current_page + 1
 
         # Follow the link to the next page if not exceeding the total number of pages (34)
-        if next_page <= 5:
+        if next_page <= 35:
             yield response.follow(self.start_url.format(next_page), callback=self.parse)
 
 
