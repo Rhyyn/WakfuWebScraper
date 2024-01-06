@@ -91,9 +91,13 @@ def crawl_armes():
     arme_category = click.prompt('What type of armes do you want to crawl?', type=click.Choice(list(map(str, ARMES_CATEGORIES.keys()))))
     
     category_id = ARMES_CATEGORIES.get(arme_category)
+    
+
 
     if category_id is not None:
-        execute(['scrapy', 'crawl', 'items_data', '-a', f'category_id={category_id}'])
+        id = category_id[0]
+        print("type of id inside my cli is : ", type(id))
+        execute(['scrapy', 'crawl', 'items_data', '-a', f'category_id={id}'])
     else:
         click.echo(f"Invalid selection: {arme_category}")
 
