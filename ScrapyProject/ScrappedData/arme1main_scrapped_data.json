@@ -1,0 +1,919 @@
+[
+  {
+    "item": {
+      "name": "Boufcartes",
+      "id": "3812"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/3812"
+  },
+  {
+    "item": {
+      "name": "Cartes de Fidélité",
+      "id": "3833"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/3833"
+  },
+  {
+    "item": {
+      "name": "Cartes de Boisaille",
+      "id": "3941"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/3941"
+  },
+  {
+    "item": {
+      "name": "Cartes d'Uresto",
+      "id": "6556"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/6556"
+  },
+  {
+    "item": {
+      "name": "Cartes Ysloth",
+      "id": "9243"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/9243"
+  },
+  {
+    "item": {
+      "name": "Cartes Lamitées",
+      "id": "9963"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/9963"
+  },
+  {
+    "item": {
+      "name": "Cartes Makabra",
+      "id": "12187"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12187"
+  },
+  {
+    "item": {
+      "name": "Cartes Poilues",
+      "id": "12836"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12836"
+  },
+  {
+    "item": {
+      "name": "Foudres",
+      "id": "14279"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14279"
+  },
+  {
+    "item": {
+      "name": "Cartes d'Hush",
+      "id": "14656"
+    },
+    "rarity": "7",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14656"
+  },
+  {
+    "item": {
+      "name": "Carte Halgar",
+      "id": "14881"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14881"
+  },
+  {
+    "item": {
+      "name": "Cartes du Chaos",
+      "id": "15031"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/15031"
+  },
+  {
+    "item": {
+      "name": "Cartes de Freezell",
+      "id": "16119"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16119"
+  },
+  {
+    "item": {
+      "name": "Carte de Plage",
+      "id": "16821"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bilbyboy Framboise": {
+        "drop_rate": "0.8%",
+        "monster_id": 2465
+      },
+      "Bilbygirl Menthe": {
+        "drop_rate": "0.8%",
+        "monster_id": 2466
+      },
+      "Bilbyboy Fraise": {
+        "drop_rate": "0.8%",
+        "monster_id": 2467
+      },
+      "Bilbygirl Citron": {
+        "drop_rate": "0.8%",
+        "monster_id": 2468
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16821"
+  },
+  {
+    "item": {
+      "name": "Kunald",
+      "id": "17243"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Lin Shi, Empeleul Lenald": {
+        "drop_rate": "1.8%",
+        "monster_id": 2556
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17243"
+  },
+  {
+    "item": {
+      "name": "Cawtes Otées",
+      "id": "17347"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Wabbit Tados": {
+        "drop_rate": "0.08%",
+        "monster_id": 2604
+      },
+      "Ti Wabbit Tados": {
+        "drop_rate": "0.08%",
+        "monster_id": 2606
+      },
+      "Gwand Pa Zwombbit Bandé": {
+        "drop_rate": "0.08%",
+        "monster_id": 2607
+      },
+      "Wo Zwombbit": {
+        "drop_rate": "0.08%",
+        "monster_id": 2608
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17347"
+  },
+  {
+    "item": {
+      "name": "Cartes Effigies",
+      "id": "17733"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17733"
+  },
+  {
+    "item": {
+      "name": "Cartus Shushu",
+      "id": "18448"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Mihmol l'Empaleur": {
+        "drop_rate": "0.45%",
+        "monster_id": 3048
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18448"
+  },
+  {
+    "item": {
+      "name": "Carte Bancaire",
+      "id": "18561"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18561"
+  },
+  {
+    "item": {
+      "name": "Carte des Merveilles",
+      "id": "19141"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Saunic le Supersonique": {
+        "drop_rate": "1.4%",
+        "monster_id": 4356
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19141"
+  },
+  {
+    "item": {
+      "name": "Les Cartes du Rat Moddeur",
+      "id": "19246"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19246"
+  },
+  {
+    "item": {
+      "name": "Plaquettes de Frein",
+      "id": "19454"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19454"
+  },
+  {
+    "item": {
+      "name": "Les Cartashians",
+      "id": "20198"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20198"
+  },
+  {
+    "item": {
+      "name": "Cartes à Crocs",
+      "id": "20222"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20222"
+  },
+  {
+    "item": {
+      "name": "Cartes Smarrantes",
+      "id": "20978"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Smarmot": {
+        "drop_rate": "0.8%",
+        "monster_id": 4228
+      },
+      "Gros Smare": {
+        "drop_rate": "0.8%",
+        "monster_id": 4229
+      },
+      "Smare Couatique": {
+        "drop_rate": "0.8%",
+        "monster_id": 4230
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20978"
+  },
+  {
+    "item": {
+      "name": "Cartes Ensanglantées",
+      "id": "21169"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21169"
+  },
+  {
+    "item": {
+      "name": "Cartes Smarrantes",
+      "id": "21480"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Smarmot": {
+        "drop_rate": "0.1%",
+        "monster_id": 4228
+      },
+      "Gros Smare": {
+        "drop_rate": "0.1%",
+        "monster_id": 4229
+      },
+      "Smare Couatique": {
+        "drop_rate": "0.1%",
+        "monster_id": 4230
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21480"
+  },
+  {
+    "item": {
+      "name": "Cartes Smarrantes",
+      "id": "21497"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Smarmot": {
+        "drop_rate": "0.05%",
+        "monster_id": 4228
+      },
+      "Gros Smare": {
+        "drop_rate": "0.05%",
+        "monster_id": 4229
+      },
+      "Smare Couatique": {
+        "drop_rate": "0.05%",
+        "monster_id": 4230
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21497"
+  },
+  {
+    "item": {
+      "name": "Ourou Cartes",
+      "id": "21928"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bolrag du Dor'Mor": {
+        "drop_rate": "0.4%",
+        "monster_id": 4324
+      },
+      "Gulnaz du Dor'Mor": {
+        "drop_rate": "0.4%",
+        "monster_id": 4325
+      },
+      "War'Hg Magmatique": {
+        "drop_rate": "0.4%",
+        "monster_id": 4326
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21928"
+  },
+  {
+    "item": {
+      "name": "Ourou Cartes",
+      "id": "21929"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bolrag du Dor'Mor": {
+        "drop_rate": "0.05%",
+        "monster_id": 4324
+      },
+      "Gulnaz du Dor'Mor": {
+        "drop_rate": "0.05%",
+        "monster_id": 4325
+      },
+      "War'Hg Magmatique": {
+        "drop_rate": "0.05%",
+        "monster_id": 4326
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21929"
+  },
+  {
+    "item": {
+      "name": "Ourou Cartes",
+      "id": "21930"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Bolrag du Dor'Mor": {
+        "drop_rate": "0.03%",
+        "monster_id": 4324
+      },
+      "Gulnaz du Dor'Mor": {
+        "drop_rate": "0.03%",
+        "monster_id": 4325
+      },
+      "War'Hg Magmatique": {
+        "drop_rate": "0.03%",
+        "monster_id": 4326
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21930"
+  },
+  {
+    "item": {
+      "name": "Les Cartashians",
+      "id": "22243"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Croc-Môssieur, le Dandy": {
+        "drop_rate": "1.2%",
+        "monster_id": 3972
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22243"
+  },
+  {
+    "item": {
+      "name": "Cartes à Crocs",
+      "id": "22246"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Croc-Môssieur, le Dandy": {
+        "drop_rate": "1.2%",
+        "monster_id": 3972
+      },
+      "Alecro Crocro": {
+        "drop_rate": "1.2%",
+        "monster_id": 4352
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22246"
+  },
+  {
+    "item": {
+      "name": "Carte des Merveilles",
+      "id": "22394"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22394"
+  },
+  {
+    "item": {
+      "name": "Carte Bancaire",
+      "id": "22662"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22662"
+  },
+  {
+    "item": {
+      "name": "Carte Bancaire",
+      "id": "22663"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22663"
+  },
+  {
+    "item": {
+      "name": "Cawtes Otées",
+      "id": "22719"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Wabbit Tados": {
+        "drop_rate": "0.042%",
+        "monster_id": 2604
+      },
+      "Ti Wabbit Tados": {
+        "drop_rate": "0.042%",
+        "monster_id": 2606
+      },
+      "Gwand Pa Zwombbit Bandé": {
+        "drop_rate": "0.042%",
+        "monster_id": 2607
+      },
+      "Wo Zwombbit": {
+        "drop_rate": "0.042%",
+        "monster_id": 2608
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22719"
+  },
+  {
+    "item": {
+      "name": "Cawtes Otées",
+      "id": "22720"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Wabbit Tados": {
+        "drop_rate": "0.64%",
+        "monster_id": 2604
+      },
+      "Ti Wabbit Tados": {
+        "drop_rate": "0.64%",
+        "monster_id": 2606
+      },
+      "Gwand Pa Zwombbit Bandé": {
+        "drop_rate": "0.64%",
+        "monster_id": 2607
+      },
+      "Wo Zwombbit": {
+        "drop_rate": "0.64%",
+        "monster_id": 2608
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22720"
+  },
+  {
+    "item": {
+      "name": "Kunald",
+      "id": "22910"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Lin Shi, Empeleul Lenald": {
+        "drop_rate": "0.45%",
+        "monster_id": 2556
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22910"
+  },
+  {
+    "item": {
+      "name": "Cartes de Freezell",
+      "id": "23071"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23071"
+  },
+  {
+    "item": {
+      "name": "Cartes de Freezell",
+      "id": "23072"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23072"
+  },
+  {
+    "item": {
+      "name": "Carte de Plage",
+      "id": "23300"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bilbyboy Framboise": {
+        "drop_rate": "0.1%",
+        "monster_id": 2465
+      },
+      "Bilbygirl Menthe": {
+        "drop_rate": "0.1%",
+        "monster_id": 2466
+      },
+      "Bilbyboy Fraise": {
+        "drop_rate": "0.1%",
+        "monster_id": 2467
+      },
+      "Bilbygirl Citron": {
+        "drop_rate": "0.1%",
+        "monster_id": 2468
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23300"
+  },
+  {
+    "item": {
+      "name": "Cartes Effigies",
+      "id": "23353"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23353"
+  },
+  {
+    "item": {
+      "name": "Cartes d'Ecaflip",
+      "id": "24010"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": {
+        "drop_rate": "2%",
+        "monster_id": 4378
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24010"
+  },
+  {
+    "item": {
+      "name": "Cartes d'Ecaflip",
+      "id": "24024"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": {
+        "drop_rate": "0.5%",
+        "monster_id": 4378
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24024"
+  },
+  {
+    "item": {
+      "name": "Cartes d'Hush",
+      "id": "24051"
+    },
+    "rarity": "7",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24051"
+  },
+  {
+    "item": {
+      "name": "Les Mécanes",
+      "id": "24631"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24631"
+  },
+  {
+    "item": {
+      "name": "Les Mécanes",
+      "id": "24632"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24632"
+  },
+  {
+    "item": {
+      "name": "Les Cartes du Rat Moddeur",
+      "id": "24649"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24649"
+  },
+  {
+    "item": {
+      "name": "Les Octarines",
+      "id": "24692"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24692"
+  },
+  {
+    "item": {
+      "name": "Les Krtes",
+      "id": "24693"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24693"
+  },
+  {
+    "item": {
+      "name": "Les Krtes",
+      "id": "24694"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24694"
+  },
+  {
+    "item": {
+      "name": "Page du Vendredi",
+      "id": "25326"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25326"
+  },
+  {
+    "item": {
+      "name": "Cartes Truchesques",
+      "id": "25403"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Hongrue, Haute Truche": {
+        "drop_rate": "2%",
+        "monster_id": 4871
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25403"
+  },
+  {
+    "item": {
+      "name": "Cartes Ilage",
+      "id": "25458"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chafer Dominant": {
+        "drop_rate": "2%",
+        "monster_id": 5020
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25458"
+  },
+  {
+    "item": {
+      "name": "Cartes Roses",
+      "id": "26988"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Fantôme Pandit": {
+        "drop_rate": "0.4%",
+        "monster_id": 5053
+      },
+      "Fantôme Pandule": {
+        "drop_rate": "0.4%",
+        "monster_id": 5054
+      },
+      "Fantôme Tanuki-Chan": {
+        "drop_rate": "0.4%",
+        "monster_id": 5055
+      },
+      "Fantôme Yokaï": {
+        "drop_rate": "0.4%",
+        "monster_id": 5056
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26988"
+  },
+  {
+    "item": {
+      "name": "Cartes Roses",
+      "id": "26989"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Fantôme Pandit": {
+        "drop_rate": "0.05%",
+        "monster_id": 5053
+      },
+      "Fantôme Pandule": {
+        "drop_rate": "0.05%",
+        "monster_id": 5054
+      },
+      "Fantôme Tanuki-Chan": {
+        "drop_rate": "0.05%",
+        "monster_id": 5055
+      },
+      "Fantôme Yokaï": {
+        "drop_rate": "0.05%",
+        "monster_id": 5056
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26989"
+  },
+  {
+    "item": {
+      "name": "Cartes Roses",
+      "id": "26990"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Fantôme Pandit": {
+        "drop_rate": "0.03%",
+        "monster_id": 5053
+      },
+      "Fantôme Pandule": {
+        "drop_rate": "0.03%",
+        "monster_id": 5054
+      },
+      "Fantôme Tanuki-Chan": {
+        "drop_rate": "0.03%",
+        "monster_id": 5055
+      },
+      "Fantôme Yokaï": {
+        "drop_rate": "0.03%",
+        "monster_id": 5056
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26990"
+  },
+  {
+    "item": {
+      "name": "Cartes du Monde",
+      "id": "27299"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27299"
+  },
+  {
+    "item": {
+      "name": "Cartes du Monde",
+      "id": "27300"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27300"
+  },
+  {
+    "item": {
+      "name": "Cartes And",
+      "id": "27377"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Hibourg Dominant": {
+        "drop_rate": "1%",
+        "monster_id": 5138
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27377"
+  },
+  {
+    "item": {
+      "name": "Cartes And",
+      "id": "27378"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27378"
+  },
+  {
+    "item": {
+      "name": "Cartes rasoir",
+      "id": "27741"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Tigris": {
+        "drop_rate": "0.05%",
+        "monster_id": 5185
+      },
+      "Loupin": {
+        "drop_rate": "0.05%",
+        "monster_id": 5186
+      },
+      "Renard Valo": {
+        "drop_rate": "0.05%",
+        "monster_id": 5187
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27741"
+  },
+  {
+    "item": {
+      "name": "Cartes rasoir",
+      "id": "27742"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Tigris": {
+        "drop_rate": "0.03%",
+        "monster_id": 5185
+      },
+      "Loupin": {
+        "drop_rate": "0.03%",
+        "monster_id": 5186
+      },
+      "Renard Valo": {
+        "drop_rate": "0.03%",
+        "monster_id": 5187
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27742"
+  },
+  {
+    "item": {
+      "name": "Cartes séculaires",
+      "id": "29638"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": {
+        "drop_rate": "2%",
+        "monster_id": 4378
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29638"
+  },
+  {
+    "item": {
+      "name": "Cartes séculaires",
+      "id": "29639"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": {
+        "drop_rate": "0.5%",
+        "monster_id": 4378
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29639"
+  },
+  {
+    "item": {
+      "name": "Cartus Shushu",
+      "id": "29823"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mihmol l'Empaleur": {
+        "drop_rate": "1.6%",
+        "monster_id": 3048
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29823"
+  }
+]
