@@ -1862,5 +1862,2110 @@
       }
     },
     "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30922"
+  },
+  {
+    "item": {
+      "name": "Bouflier",
+      "id": "2057"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/2057"
+  },
+  {
+    "item": {
+      "name": "Bouclier du Tofu",
+      "id": "2090"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/2090"
+  },
+  {
+    "item": {
+      "name": "Le Bouclier Taverne",
+      "id": "3976"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/3976"
+  },
+  {
+    "item": {
+      "name": "Le Beau-Reflet",
+      "id": "4192"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Abraknyde Dominant": {
+        "drop_rate": "2%",
+        "monster_id": 4094
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/4192"
+  },
+  {
+    "item": {
+      "name": "Bouclier Etoilé",
+      "id": "5945"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/5945"
+  },
+  {
+    "item": {
+      "name": "Bouflier Royal",
+      "id": "9254"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/9254"
+  },
+  {
+    "item": {
+      "name": "Bouclier en Slip",
+      "id": "9927"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/9927"
+  },
+  {
+    "item": {
+      "name": "L'Encaisseur",
+      "id": "9930"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/9930"
+  },
+  {
+    "item": {
+      "name": "Bouclier Necropete",
+      "id": "9975"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/9975"
+  },
+  {
+    "item": {
+      "name": "Bouclier du Déni",
+      "id": "9976"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/9976"
+  },
+  {
+    "item": {
+      "name": "Le Demimoune",
+      "id": "10100"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mulou": {
+        "drop_rate": "0.8%",
+        "monster_id": 5111
+      },
+      "Muloune": {
+        "drop_rate": "0.8%",
+        "monster_id": 5112
+      },
+      "Milimulou": {
+        "drop_rate": "0.8%",
+        "monster_id": 5113
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/10100"
+  },
+  {
+    "item": {
+      "name": "Booclier",
+      "id": "10563"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/10563"
+  },
+  {
+    "item": {
+      "name": "Bouclibarre",
+      "id": "10817"
+    },
+    "rarity": "1",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/10817"
+  },
+  {
+    "item": {
+      "name": "Bougligli",
+      "id": "11030"
+    },
+    "rarity": "1",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/11030"
+  },
+  {
+    "item": {
+      "name": "Bouclivore",
+      "id": "11393"
+    },
+    "rarity": "1",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/11393"
+  },
+  {
+    "item": {
+      "name": "Bouclier Dlamoule",
+      "id": "12057"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12057"
+  },
+  {
+    "item": {
+      "name": "Porte Etoile Bleu",
+      "id": "12481"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Corbac": {
+        "drop_rate": "0.8%",
+        "monster_id": 1152
+      },
+      "Corbic": {
+        "drop_rate": "0.8%",
+        "monster_id": 1153
+      },
+      "Corbac Chef": {
+        "drop_rate": "0.8%",
+        "monster_id": 1155
+      },
+      "Corbacassin": {
+        "drop_rate": "0.8%",
+        "monster_id": 1784
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12481"
+  },
+  {
+    "item": {
+      "name": "La Paroisse",
+      "id": "12604"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Raymond Garden": {
+        "drop_rate": "0.8%",
+        "monster_id": 1777
+      },
+      "Grimm Beurguen": {
+        "drop_rate": "0.8%",
+        "monster_id": 1778
+      },
+      "Gros Nambourg": {
+        "drop_rate": "0.8%",
+        "monster_id": 1779
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/12604"
+  },
+  {
+    "item": {
+      "name": "Mogmatique",
+      "id": "14121"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Magmog le Boufrog": {
+        "drop_rate": "1%",
+        "monster_id": 42
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14121"
+  },
+  {
+    "item": {
+      "name": "Targe du Défenseur Impérial",
+      "id": "14631"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14631"
+  },
+  {
+    "item": {
+      "name": "L'égide de Khiel",
+      "id": "14736"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chuchen l'Indépendant": {
+        "drop_rate": "2%",
+        "monster_id": 2134
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14736"
+  },
+  {
+    "item": {
+      "name": "Bouclier Abraknyde Ancestral",
+      "id": "14851"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/14851"
+  },
+  {
+    "item": {
+      "name": "Bouclier Ktoplasme",
+      "id": "15037"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/15037"
+  },
+  {
+    "item": {
+      "name": "Pétra-Pack",
+      "id": "15158"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Craqueleur Royal": {
+        "drop_rate": "2%",
+        "monster_id": 4519
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/15158"
+  },
+  {
+    "item": {
+      "name": "Le Résidu",
+      "id": "15404"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ratachouille": {
+        "drop_rate": "0.5%",
+        "monster_id": 2313
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/15404"
+  },
+  {
+    "item": {
+      "name": "Le Vailoup",
+      "id": "15739"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Griffu l'Acéré": {
+        "drop_rate": "2%",
+        "monster_id": 4101
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/15739"
+  },
+  {
+    "item": {
+      "name": "Pavois Givré",
+      "id": "16026"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Corbamouth": {
+        "drop_rate": "0.8%",
+        "monster_id": 2364
+      },
+      "Cormoune": {
+        "drop_rate": "0.8%",
+        "monster_id": 2365
+      },
+      "Mulmoune": {
+        "drop_rate": "0.8%",
+        "monster_id": 2366
+      },
+      "Mulmouth Enragé": {
+        "drop_rate": "0.8%",
+        "monster_id": 2367
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16026"
+  },
+  {
+    "item": {
+      "name": "Bouclier Chaferisé",
+      "id": "16049"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Brute du Nord": {
+        "drop_rate": "0.1%",
+        "monster_id": 2344
+      },
+      "Garde du Nord": {
+        "drop_rate": "0.1%",
+        "monster_id": 2345
+      },
+      "Archer du Nord": {
+        "drop_rate": "0.1%",
+        "monster_id": 2346
+      },
+      "Traqueur du Nord": {
+        "drop_rate": "0.1%",
+        "monster_id": 2347
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16049"
+  },
+  {
+    "item": {
+      "name": "Bouclier du comte Harebourg",
+      "id": "16146"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Image du Comte Harebourg": {
+        "drop_rate": "2%",
+        "monster_id": 4480
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16146"
+  },
+  {
+    "item": {
+      "name": "Rondelle de Citron",
+      "id": "16767"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gelée Framboise": {
+        "drop_rate": "0.1%",
+        "monster_id": 1339
+      },
+      "Gelée Menthe": {
+        "drop_rate": "0.1%",
+        "monster_id": 1340
+      },
+      "Gelée Fraise": {
+        "drop_rate": "0.1%",
+        "monster_id": 1341
+      },
+      "Gelée Citron": {
+        "drop_rate": "0.1%",
+        "monster_id": 1358
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16767"
+  },
+  {
+    "item": {
+      "name": "Planche de Nage",
+      "id": "16795"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Moulstacho": {
+        "drop_rate": "0.1%",
+        "monster_id": 2460
+      },
+      "Requin Moularteau": {
+        "drop_rate": "0.1%",
+        "monster_id": 2461
+      },
+      "Ver Moulé Immature": {
+        "drop_rate": "0.1%",
+        "monster_id": 2462
+      },
+      "Ver Moulé Vorace": {
+        "drop_rate": "0.1%",
+        "monster_id": 2463
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16795"
+  },
+  {
+    "item": {
+      "name": "Bouclier Nuancé",
+      "id": "16800"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Bilbymoule Nacrée": {
+        "drop_rate": "8%",
+        "monster_id": 2464
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16800"
+  },
+  {
+    "item": {
+      "name": "Bouclier Gonflable",
+      "id": "16827"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bilby Queen": {
+        "drop_rate": "2%",
+        "monster_id": 2469
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16827"
+  },
+  {
+    "item": {
+      "name": "Egide d'El Pochito",
+      "id": "16899"
+    },
+    "rarity": "2",
+    "droprates": {
+      "El Pochito": {
+        "drop_rate": "8%",
+        "monster_id": 2443
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/16899"
+  },
+  {
+    "item": {
+      "name": "Bouclier de l'Apprenti",
+      "id": "17210"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17210"
+  },
+  {
+    "item": {
+      "name": "Le Wompifeste",
+      "id": "17257"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Black Ti Wabbit": {
+        "drop_rate": "0.09%",
+        "monster_id": 2559
+      },
+      "Black Wabbit": {
+        "drop_rate": "0.09%",
+        "monster_id": 2560
+      },
+      "Black Wo Wabbit": {
+        "drop_rate": "0.09%",
+        "monster_id": 2561
+      },
+      "Black Gwand Pa Wabbit": {
+        "drop_rate": "0.09%",
+        "monster_id": 2562
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17257"
+  },
+  {
+    "item": {
+      "name": "Bouclier Pompon",
+      "id": "17291"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17291"
+  },
+  {
+    "item": {
+      "name": "Wo Bouclier",
+      "id": "17317"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Wobot en Chef": {
+        "drop_rate": "1.6%",
+        "monster_id": 2581
+      },
+      "Wa Wabbit": {
+        "drop_rate": "1.6%",
+        "monster_id": 2582
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17317"
+  },
+  {
+    "item": {
+      "name": "Bouclier GG de Troyle",
+      "id": "17744"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17744"
+  },
+  {
+    "item": {
+      "name": "Le Foulmoune",
+      "id": "17747"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mulou-Garou Roux Grisonnant": {
+        "drop_rate": "2%",
+        "monster_id": 5126
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17747"
+  },
+  {
+    "item": {
+      "name": "Bouclier de l'Initié",
+      "id": "17782"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17782"
+  },
+  {
+    "item": {
+      "name": "Bouclier du Sage",
+      "id": "17783"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17783"
+  },
+  {
+    "item": {
+      "name": "La Montre",
+      "id": "17794"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17794"
+  },
+  {
+    "item": {
+      "name": "Bouclier Bwork",
+      "id": "17819"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mineur Bwork": {
+        "drop_rate": "0.8%",
+        "monster_id": 2770
+      },
+      "Bomber Bwork": {
+        "drop_rate": "0.8%",
+        "monster_id": 2771
+      },
+      "Guerrier Bwork": {
+        "drop_rate": "0.8%",
+        "monster_id": 2772
+      },
+      "Cybwork": {
+        "drop_rate": "0.8%",
+        "monster_id": 2773
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/17819"
+  },
+  {
+    "item": {
+      "name": "Bouclier Pikpik",
+      "id": "18175"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18175"
+  },
+  {
+    "item": {
+      "name": "Bouclier du débutant",
+      "id": "18285"
+    },
+    "rarity": "1",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18285"
+  },
+  {
+    "item": {
+      "name": "Bouclier d'Asse",
+      "id": "18388"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Spectrex le Tourmenteur": {
+        "drop_rate": "0.1%",
+        "monster_id": 2827
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18388"
+  },
+  {
+    "item": {
+      "name": "Dombre Tombant",
+      "id": "18559"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Disciple de Raval": {
+        "drop_rate": "1.6%",
+        "monster_id": 3098
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18559"
+  },
+  {
+    "item": {
+      "name": "Bouclier Fort Blindé",
+      "id": "18564"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/18564"
+  },
+  {
+    "item": {
+      "name": "Bouclier Dimensionnel",
+      "id": "19121"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19121"
+  },
+  {
+    "item": {
+      "name": "Bouclier Durable",
+      "id": "19143"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Saunic le Supersonique": {
+        "drop_rate": "0.4284%",
+        "monster_id": 4356
+      },
+      "Poz": {
+        "drop_rate": "0.042%",
+        "monster_id": 3392
+      },
+      "Lairdavan": {
+        "drop_rate": "0.042%",
+        "monster_id": 3393
+      },
+      "Syclick": {
+        "drop_rate": "0.042%",
+        "monster_id": 3394
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19143"
+  },
+  {
+    "item": {
+      "name": "L'Hextatique",
+      "id": "19244"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19244"
+  },
+  {
+    "item": {
+      "name": "Passerrok",
+      "id": "19337"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19337"
+  },
+  {
+    "item": {
+      "name": "Couvercle Remisé",
+      "id": "19449"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19449"
+  },
+  {
+    "item": {
+      "name": "Boucle mort",
+      "id": "19508"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19508"
+  },
+  {
+    "item": {
+      "name": "Rempart Aplui",
+      "id": "19883"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19883"
+  },
+  {
+    "item": {
+      "name": "Rempart Siramparla",
+      "id": "19898"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/19898"
+  },
+  {
+    "item": {
+      "name": "Egide de Moon",
+      "id": "20367"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20367"
+  },
+  {
+    "item": {
+      "name": "Petite Coquille",
+      "id": "20933"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Dragoeu'r": {
+        "drop_rate": "0.4%",
+        "monster_id": 4208
+      },
+      "Dragoeuf à la coque": {
+        "drop_rate": "0.4%",
+        "monster_id": 4209
+      },
+      "Dragoeuf Guerrier": {
+        "drop_rate": "0.4%",
+        "monster_id": 4210
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20933"
+  },
+  {
+    "item": {
+      "name": "Bouclier Ventaille",
+      "id": "20957"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Oeuf Antique": {
+        "drop_rate": "0.1%",
+        "monster_id": 4400
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/20957"
+  },
+  {
+    "item": {
+      "name": "Le Fiskouale",
+      "id": "21166"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21166"
+  },
+  {
+    "item": {
+      "name": "L'Ecu M'Demer",
+      "id": "21170"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21170"
+  },
+  {
+    "item": {
+      "name": "Bouclier Prisonnier",
+      "id": "21245"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21245"
+  },
+  {
+    "item": {
+      "name": "Le Fiskouale",
+      "id": "21444"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21444"
+  },
+  {
+    "item": {
+      "name": "Petite Coquille",
+      "id": "21831"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Dragoeu'r": {
+        "drop_rate": "0.05%",
+        "monster_id": 4208
+      },
+      "Dragoeuf à la coque": {
+        "drop_rate": "0.05%",
+        "monster_id": 4209
+      },
+      "Dragoeuf Guerrier": {
+        "drop_rate": "0.05%",
+        "monster_id": 4210
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21831"
+  },
+  {
+    "item": {
+      "name": "Petite Coquille",
+      "id": "21849"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Dragoeu'r": {
+        "drop_rate": "0.03%",
+        "monster_id": 4208
+      },
+      "Dragoeuf à la coque": {
+        "drop_rate": "0.03%",
+        "monster_id": 4209
+      },
+      "Dragoeuf Guerrier": {
+        "drop_rate": "0.03%",
+        "monster_id": 4210
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21849"
+  },
+  {
+    "item": {
+      "name": "Écu de Frêne",
+      "id": "21936"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21936"
+  },
+  {
+    "item": {
+      "name": "Écu de Frêne",
+      "id": "21937"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21937"
+  },
+  {
+    "item": {
+      "name": "Écu de Frêne",
+      "id": "21938"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/21938"
+  },
+  {
+    "item": {
+      "name": "Rempart Aplui",
+      "id": "22166"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Hem Kokora": {
+        "drop_rate": "1.2%",
+        "monster_id": 3867
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22166"
+  },
+  {
+    "item": {
+      "name": "Rempart Siramparla",
+      "id": "22168"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Hem Kokora": {
+        "drop_rate": "1.2%",
+        "monster_id": 3867
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22168"
+  },
+  {
+    "item": {
+      "name": "Egide de Moon",
+      "id": "22453"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22453"
+  },
+  {
+    "item": {
+      "name": "Dombre Tombant",
+      "id": "22591"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22591"
+  },
+  {
+    "item": {
+      "name": "Bouclier Fort Blindé",
+      "id": "22665"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22665"
+  },
+  {
+    "item": {
+      "name": "Wo Bouclier",
+      "id": "22765"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Wobot en Chef": {
+        "drop_rate": "0.042%",
+        "monster_id": 2581
+      },
+      "Wa Wabbit": {
+        "drop_rate": "0.042%",
+        "monster_id": 2582
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22765"
+  },
+  {
+    "item": {
+      "name": "Bouclier GG de Troyle",
+      "id": "22843"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Igow le Souffwe-Douleuw": {
+        "drop_rate": "1.6%",
+        "monster_id": 4386
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22843"
+  },
+  {
+    "item": {
+      "name": "Bouclier Pompon",
+      "id": "22877"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22877"
+  },
+  {
+    "item": {
+      "name": "Bouclier Pompon",
+      "id": "22878"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22878"
+  },
+  {
+    "item": {
+      "name": "Le Wompifeste",
+      "id": "22933"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Black Ti Wabbit": {
+        "drop_rate": "0.046%",
+        "monster_id": 2559
+      },
+      "Black Wabbit": {
+        "drop_rate": "0.046%",
+        "monster_id": 2560
+      },
+      "Black Wo Wabbit": {
+        "drop_rate": "0.046%",
+        "monster_id": 2561
+      },
+      "Black Gwand Pa Wabbit": {
+        "drop_rate": "0.046%",
+        "monster_id": 2562
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22933"
+  },
+  {
+    "item": {
+      "name": "Le Wompifeste",
+      "id": "22934"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Black Ti Wabbit": {
+        "drop_rate": "0.72%",
+        "monster_id": 2559
+      },
+      "Black Wabbit": {
+        "drop_rate": "0.72%",
+        "monster_id": 2560
+      },
+      "Black Wo Wabbit": {
+        "drop_rate": "0.72%",
+        "monster_id": 2561
+      },
+      "Black Gwand Pa Wabbit": {
+        "drop_rate": "0.72%",
+        "monster_id": 2562
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22934"
+  },
+  {
+    "item": {
+      "name": "Bouclier du Sage",
+      "id": "22977"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/22977"
+  },
+  {
+    "item": {
+      "name": "Bouclier Chaferisé",
+      "id": "23052"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Brute du Nord": {
+        "drop_rate": "0.05%",
+        "monster_id": 2344
+      },
+      "Garde du Nord": {
+        "drop_rate": "0.05%",
+        "monster_id": 2345
+      },
+      "Archer du Nord": {
+        "drop_rate": "0.05%",
+        "monster_id": 2346
+      },
+      "Traqueur du Nord": {
+        "drop_rate": "0.05%",
+        "monster_id": 2347
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23052"
+  },
+  {
+    "item": {
+      "name": "Bouclier Chaferisé",
+      "id": "23053"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Brute du Nord": {
+        "drop_rate": "0.8%",
+        "monster_id": 2344
+      },
+      "Garde du Nord": {
+        "drop_rate": "0.8%",
+        "monster_id": 2345
+      },
+      "Archer du Nord": {
+        "drop_rate": "0.8%",
+        "monster_id": 2346
+      },
+      "Traqueur du Nord": {
+        "drop_rate": "0.8%",
+        "monster_id": 2347
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23053"
+  },
+  {
+    "item": {
+      "name": "Bouclier de l'Initié",
+      "id": "23073"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23073"
+  },
+  {
+    "item": {
+      "name": "Bouclier Pikpik",
+      "id": "23148"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23148"
+  },
+  {
+    "item": {
+      "name": "Bouclier du comte Harebourg",
+      "id": "23170"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23170"
+  },
+  {
+    "item": {
+      "name": "Mogmatique",
+      "id": "23191"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Magmog le Boufrog": {
+        "drop_rate": "4%",
+        "monster_id": 42
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23191"
+  },
+  {
+    "item": {
+      "name": "Pavois Givré",
+      "id": "23274"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Corbamouth": {
+        "drop_rate": "0.1%",
+        "monster_id": 2364
+      },
+      "Cormoune": {
+        "drop_rate": "0.1%",
+        "monster_id": 2365
+      },
+      "Mulmoune": {
+        "drop_rate": "0.1%",
+        "monster_id": 2366
+      },
+      "Mulmouth Enragé": {
+        "drop_rate": "0.1%",
+        "monster_id": 2367
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23274"
+  },
+  {
+    "item": {
+      "name": "Pavois Givré",
+      "id": "23275"
+    },
+    "rarity": "1",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23275"
+  },
+  {
+    "item": {
+      "name": "Rondelle de Citron",
+      "id": "23317"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Gelée Framboise": {
+        "drop_rate": "0.8%",
+        "monster_id": 1339
+      },
+      "Gelée Menthe": {
+        "drop_rate": "0.8%",
+        "monster_id": 1340
+      },
+      "Gelée Fraise": {
+        "drop_rate": "0.8%",
+        "monster_id": 1341
+      },
+      "Gelée Citron": {
+        "drop_rate": "0.8%",
+        "monster_id": 1358
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23317"
+  },
+  {
+    "item": {
+      "name": "La Paroisse",
+      "id": "23343"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Raymond Garden": {
+        "drop_rate": "0.1%",
+        "monster_id": 1777
+      },
+      "Grimm Beurguen": {
+        "drop_rate": "0.1%",
+        "monster_id": 1778
+      },
+      "Gros Nambourg": {
+        "drop_rate": "0.1%",
+        "monster_id": 1779
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23343"
+  },
+  {
+    "item": {
+      "name": "La Paroisse",
+      "id": "23344"
+    },
+    "rarity": "1",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23344"
+  },
+  {
+    "item": {
+      "name": "Egide d'El Pochito",
+      "id": "23406"
+    },
+    "rarity": "3",
+    "droprates": {
+      "El Pochito": {
+        "drop_rate": "1%",
+        "monster_id": 2443
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23406"
+  },
+  {
+    "item": {
+      "name": "Planche de Nage",
+      "id": "23422"
+    },
+    "rarity": "2",
+    "droprates": {
+      "El Moulstacho": {
+        "drop_rate": "0.8%",
+        "monster_id": 2460
+      },
+      "Requin Moularteau": {
+        "drop_rate": "0.8%",
+        "monster_id": 2461
+      },
+      "Ver Moulé Immature": {
+        "drop_rate": "0.8%",
+        "monster_id": 2462
+      },
+      "Ver Moulé Vorace": {
+        "drop_rate": "0.8%",
+        "monster_id": 2463
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23422"
+  },
+  {
+    "item": {
+      "name": "Bouclier Nuancé",
+      "id": "23425"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Bilbymoule Nacrée": {
+        "drop_rate": "1%",
+        "monster_id": 2464
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23425"
+  },
+  {
+    "item": {
+      "name": "Porte Etoile Bleu",
+      "id": "23492"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Corbac": {
+        "drop_rate": "0.1%",
+        "monster_id": 1152
+      },
+      "Corbic": {
+        "drop_rate": "0.1%",
+        "monster_id": 1153
+      },
+      "Corbac Chef": {
+        "drop_rate": "0.1%",
+        "monster_id": 1155
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23492"
+  },
+  {
+    "item": {
+      "name": "Le Résidu",
+      "id": "23535"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ratachouille": {
+        "drop_rate": "2%",
+        "monster_id": 2313
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23535"
+  },
+  {
+    "item": {
+      "name": "Le Demimoune",
+      "id": "23548"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mulou": {
+        "drop_rate": "0.1%",
+        "monster_id": 5111
+      },
+      "Muloune": {
+        "drop_rate": "0.1%",
+        "monster_id": 5112
+      },
+      "Milimulou": {
+        "drop_rate": "0.1%",
+        "monster_id": 5113
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23548"
+  },
+  {
+    "item": {
+      "name": "Bouclier Bwork",
+      "id": "23627"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Mineur Bwork": {
+        "drop_rate": "0.1%",
+        "monster_id": 2770
+      },
+      "Bomber Bwork": {
+        "drop_rate": "0.1%",
+        "monster_id": 2771
+      },
+      "Guerrier Bwork": {
+        "drop_rate": "0.1%",
+        "monster_id": 2772
+      },
+      "Cybwork": {
+        "drop_rate": "0.1%",
+        "monster_id": 2773
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23627"
+  },
+  {
+    "item": {
+      "name": "La Montre",
+      "id": "23633"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23633"
+  },
+  {
+    "item": {
+      "name": "Bouclier Ktoplasme",
+      "id": "23665"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/23665"
+  },
+  {
+    "item": {
+      "name": "Bouclier de Féca",
+      "id": "24004"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Ogrest": {
+        "drop_rate": "2%",
+        "monster_id": 4378
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24004"
+  },
+  {
+    "item": {
+      "name": "Bouclier de Féca",
+      "id": "24018"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Ogrest": {
+        "drop_rate": "0.5%",
+        "monster_id": 4378
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24018"
+  },
+  {
+    "item": {
+      "name": "Bouclier Eliotrope",
+      "id": "24160"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24160"
+  },
+  {
+    "item": {
+      "name": "Le Durrr!!",
+      "id": "24308"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Agonie la Déterrée": {
+        "drop_rate": "2%",
+        "monster_id": 4651
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24308"
+  },
+  {
+    "item": {
+      "name": "Le Ryfé",
+      "id": "24639"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24639"
+  },
+  {
+    "item": {
+      "name": "Le Ryfé",
+      "id": "24640"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24640"
+  },
+  {
+    "item": {
+      "name": "L'Azailé",
+      "id": "24657"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24657"
+  },
+  {
+    "item": {
+      "name": "L'Azailé",
+      "id": "24658"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24658"
+  },
+  {
+    "item": {
+      "name": "Le Rapport",
+      "id": "24675"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24675"
+  },
+  {
+    "item": {
+      "name": "Le Rapport",
+      "id": "24676"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24676"
+  },
+  {
+    "item": {
+      "name": "Le Rapport",
+      "id": "24677"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24677"
+  },
+  {
+    "item": {
+      "name": "L'Hextatique",
+      "id": "24687"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24687"
+  },
+  {
+    "item": {
+      "name": "Le Boclida",
+      "id": "24703"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24703"
+  },
+  {
+    "item": {
+      "name": "Le Boclida",
+      "id": "24704"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24704"
+  },
+  {
+    "item": {
+      "name": "Macchabouclier",
+      "id": "24719"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Agonie Coeur-Cristal": {
+        "drop_rate": "1.25%",
+        "monster_id": 4664
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24719"
+  },
+  {
+    "item": {
+      "name": "Bouclier du comte Harebourg",
+      "id": "24800"
+    },
+    "rarity": "6",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/24800"
+  },
+  {
+    "item": {
+      "name": "Bouclier du Mont Kipou",
+      "id": "25165"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25165"
+  },
+  {
+    "item": {
+      "name": "Bouclier du Mont Kipou",
+      "id": "25166"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25166"
+  },
+  {
+    "item": {
+      "name": "Bouclier Collant",
+      "id": "25344"
+    },
+    "rarity": "1",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25344"
+  },
+  {
+    "item": {
+      "name": "Bouclier Collant",
+      "id": "25345"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Gros Boo": {
+        "drop_rate": "0.8%",
+        "monster_id": 4915
+      },
+      "Moskito": {
+        "drop_rate": "0.8%",
+        "monster_id": 4916
+      },
+      "Sangsuce Tsu Tsu": {
+        "drop_rate": "0.8%",
+        "monster_id": 4917
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25345"
+  },
+  {
+    "item": {
+      "name": "Bouclier Collant",
+      "id": "25346"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Gros Boo": {
+        "drop_rate": "0.1%",
+        "monster_id": 4915
+      },
+      "Moskito": {
+        "drop_rate": "0.1%",
+        "monster_id": 4916
+      },
+      "Sangsuce Tsu Tsu": {
+        "drop_rate": "0.1%",
+        "monster_id": 4917
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25346"
+  },
+  {
+    "item": {
+      "name": "Targe à Truche",
+      "id": "25393"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Truche": {
+        "drop_rate": "0.8%",
+        "monster_id": 4867
+      },
+      "Truchon": {
+        "drop_rate": "0.8%",
+        "monster_id": 4868
+      },
+      "Truchemuche": {
+        "drop_rate": "0.8%",
+        "monster_id": 4869
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25393"
+  },
+  {
+    "item": {
+      "name": "Targe à Truche",
+      "id": "25394"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Truche": {
+        "drop_rate": "0.1%",
+        "monster_id": 4867
+      },
+      "Truchon": {
+        "drop_rate": "0.1%",
+        "monster_id": 4868
+      },
+      "Truchemuche": {
+        "drop_rate": "0.1%",
+        "monster_id": 4869
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25394"
+  },
+  {
+    "item": {
+      "name": "Bougligli",
+      "id": "25446"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25446"
+  },
+  {
+    "item": {
+      "name": "Bougligli",
+      "id": "25447"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25447"
+  },
+  {
+    "item": {
+      "name": "Bouclier Chafer",
+      "id": "25475"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Chafer Archer": {
+        "drop_rate": "0.8%",
+        "monster_id": 4740
+      },
+      "Chafer Elite": {
+        "drop_rate": "0.8%",
+        "monster_id": 4741
+      },
+      "Chafer Lancier": {
+        "drop_rate": "0.8%",
+        "monster_id": 4742
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25475"
+  },
+  {
+    "item": {
+      "name": "Bouclier Chafer",
+      "id": "25476"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Chafer Archer": {
+        "drop_rate": "0.1%",
+        "monster_id": 4740
+      },
+      "Chafer Elite": {
+        "drop_rate": "0.1%",
+        "monster_id": 4741
+      },
+      "Chafer Lancier": {
+        "drop_rate": "0.1%",
+        "monster_id": 4742
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25476"
+  },
+  {
+    "item": {
+      "name": "Bouclier Riktus",
+      "id": "25550"
+    },
+    "rarity": "1",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25550"
+  },
+  {
+    "item": {
+      "name": "Bouclier Riktus",
+      "id": "25551"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Maluss": {
+        "drop_rate": "0.8%",
+        "monster_id": 1166
+      },
+      "Malopo": {
+        "drop_rate": "0.8%",
+        "monster_id": 1167
+      },
+      "Malobouc": {
+        "drop_rate": "0.8%",
+        "monster_id": 1168
+      },
+      "Malocac": {
+        "drop_rate": "0.8%",
+        "monster_id": 1169
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25551"
+  },
+  {
+    "item": {
+      "name": "Bouclier Riktus",
+      "id": "25552"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Maluss": {
+        "drop_rate": "0.1%",
+        "monster_id": 1166
+      },
+      "Malopo": {
+        "drop_rate": "0.1%",
+        "monster_id": 1167
+      },
+      "Malobouc": {
+        "drop_rate": "0.1%",
+        "monster_id": 1168
+      },
+      "Malocac": {
+        "drop_rate": "0.1%",
+        "monster_id": 1169
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25552"
+  },
+  {
+    "item": {
+      "name": "Bouclivore",
+      "id": "25920"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25920"
+  },
+  {
+    "item": {
+      "name": "Bouclivore",
+      "id": "25921"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25921"
+  },
+  {
+    "item": {
+      "name": "Bouclivore",
+      "id": "25922"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/25922"
+  },
+  {
+    "item": {
+      "name": "Bouclier Riktus Elite",
+      "id": "26055"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26055"
+  },
+  {
+    "item": {
+      "name": "Bouclier Riktus Elite",
+      "id": "26056"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26056"
+  },
+  {
+    "item": {
+      "name": "Bouclier Riktus Elite",
+      "id": "26057"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26057"
+  },
+  {
+    "item": {
+      "name": "L'égide Léjone",
+      "id": "26864"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Pandore": {
+        "drop_rate": "1.2%",
+        "monster_id": 5046
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26864"
+  },
+  {
+    "item": {
+      "name": "L'égide Léjone",
+      "id": "26865"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Pandore": {
+        "drop_rate": "0.35%",
+        "monster_id": 5046
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/26865"
+  },
+  {
+    "item": {
+      "name": "Bouclier de la tortue noire",
+      "id": "27036"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Fléorripilant le Fantôme Fléopard": {
+        "drop_rate": "0.3996%",
+        "monster_id": 5058
+      },
+      "Fantôme Tanukouï-San": {
+        "drop_rate": "0.3996%",
+        "monster_id": 5059
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27036"
+  },
+  {
+    "item": {
+      "name": "Carapace Thèque",
+      "id": "27629"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Scorpiétineur": {
+        "drop_rate": "0.25%",
+        "monster_id": 5176
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27629"
+  },
+  {
+    "item": {
+      "name": "L'égide belle époque",
+      "id": "27738"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Tigris": {
+        "drop_rate": "0.4%",
+        "monster_id": 5185
+      },
+      "Loupin": {
+        "drop_rate": "0.4%",
+        "monster_id": 5186
+      },
+      "Renard Valo": {
+        "drop_rate": "0.4%",
+        "monster_id": 5187
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27738"
+  },
+  {
+    "item": {
+      "name": "L'égide belle époque",
+      "id": "27739"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Tigris": {
+        "drop_rate": "0.05%",
+        "monster_id": 5185
+      },
+      "Loupin": {
+        "drop_rate": "0.05%",
+        "monster_id": 5186
+      },
+      "Renard Valo": {
+        "drop_rate": "0.05%",
+        "monster_id": 5187
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27739"
+  },
+  {
+    "item": {
+      "name": "L'égide belle époque",
+      "id": "27740"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Tigris": {
+        "drop_rate": "0.03%",
+        "monster_id": 5185
+      },
+      "Loupin": {
+        "drop_rate": "0.03%",
+        "monster_id": 5186
+      },
+      "Renard Valo": {
+        "drop_rate": "0.03%",
+        "monster_id": 5187
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27740"
+  },
+  {
+    "item": {
+      "name": "Bouclier du Capitaine Amakna",
+      "id": "27816"
+    },
+    "rarity": "5",
+    "droprates": {
+      "Scorpiétineur": {
+        "drop_rate": "0.1%",
+        "monster_id": 5176
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/27816"
+  },
+  {
+    "item": {
+      "name": "Egide de la fin des temps",
+      "id": "29489"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Rushu": {
+        "drop_rate": "1%",
+        "monster_id": 5306
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29489"
+  },
+  {
+    "item": {
+      "name": "Egide de la fin des temps",
+      "id": "29490"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Rushu": {
+        "drop_rate": "0.25%",
+        "monster_id": 5306
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29490"
+  },
+  {
+    "item": {
+      "name": "Le Constant",
+      "id": "29589"
+    },
+    "rarity": "3",
+    "droprates": {
+      "Constant l'Éternel": {
+        "drop_rate": "1%",
+        "monster_id": 5303
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29589"
+  },
+  {
+    "item": {
+      "name": "Le Constant",
+      "id": "29590"
+    },
+    "rarity": "4",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/29590"
+  },
+  {
+    "item": {
+      "name": "Bouclier du grand solide",
+      "id": "30275"
+    },
+    "rarity": "7",
+    "droprates": {
+      "Sir Comte Flex": {
+        "drop_rate": "0.4%",
+        "monster_id": 5400
+      },
+      "Stork l'Ingénieux": {
+        "drop_rate": "0.4%",
+        "monster_id": 5402
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30275"
+  },
+  {
+    "item": {
+      "name": "Bouclier de Jim",
+      "id": "30438"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30438"
+  },
+  {
+    "item": {
+      "name": "Bouclier de Jim",
+      "id": "30439"
+    },
+    "rarity": "3",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30439"
+  },
+  {
+    "item": {
+      "name": "Pelta Rabiscotée",
+      "id": "30923"
+    },
+    "rarity": "4",
+    "droprates": {
+      "Erpel": {
+        "drop_rate": "1%",
+        "monster_id": 5447
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/30923"
   }
 ]

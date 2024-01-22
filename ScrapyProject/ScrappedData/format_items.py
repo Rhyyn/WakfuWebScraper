@@ -243,7 +243,7 @@ def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams
             formated_params.en = f'{formated_params.values}{strings[120]["en"]}'
     return formated_params
     
-gain_flat_ids = [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 162, 166, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063]
+gain_flat_ids = [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 162, 166, 168, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063]
 
 def interpret_description(action_id:int, params_list:list[int], stat_description:dict[str, str], type_id:int) -> FormatedParams:
     if type_id == 582:

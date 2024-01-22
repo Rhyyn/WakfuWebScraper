@@ -1,0 +1,157 @@
+{
+    "definition": {
+        "item": {
+            "id": 24146,
+            "level": 155,
+            "baseParameters": {
+                "itemTypeId": 120,
+                "itemSetId": 0,
+                "rarity": 4,
+                "bindType": 0,
+                "minimumShardSlotNumber": 1,
+                "maximumShardSlotNumber": 4
+            },
+            "useParameters": {
+                "useCostAp": 0,
+                "useCostMp": 0,
+                "useCostWp": 0,
+                "useRangeMin": 0,
+                "useRangeMax": 0,
+                "useTestFreeCell": false,
+                "useTestLos": false,
+                "useTestOnlyLine": false,
+                "useTestNoBorderCell": false,
+                "useWorldTarget": 0
+            },
+            "graphicParameters": {
+                "gfxId": 12011410,
+                "femaleGfxId": 12011410
+            },
+            "properties": []
+        },
+        "useEffects": [],
+        "useCriticalEffects": [],
+        "equipEffects": [
+            {
+                "effect": {
+                    "definition": {
+                        "id": 239971,
+                        "actionId": 31,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            1.0,
+                            0.0,
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 239975,
+                        "actionId": 1068,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            118.0,
+                            0.0,
+                            3.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 239974,
+                        "actionId": 168,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            5.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 239973,
+                        "actionId": 173,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            30.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 239972,
+                        "actionId": 20,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            163.0,
+                            0.0,
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 239977,
+                        "actionId": 80,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            25.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 239976,
+                        "actionId": 1052,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            54.0,
+                            0.0
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    "title": {
+        "fr": "Amulette du Zinit",
+        "en": "Zinit Amulet",
+        "es": "Amuleto del Zinit",
+        "pt": "Amuleto do Zinit"
+    },
+    "description": {
+        "fr": "Autrefois la sagesse était d\u0027or.\r\nElle dort maintenant profondément dans cette amulette.  ",
+        "en": "Many moons ago, people used to say that wisdom was golden.\nNow the only wisdom left in this World is embedded deep inside this amulet.  ",
+        "es": "En otros tiempos, la sabiduría era oro.\nAhora duerme profundamente en este amuleto.  ",
+        "pt": "Há muitas luas, as pessoas diziam que a sabedoria era preciosa.\nAgora, a única sabedoria que resta no Mundo está presa nas profundezas desse amuleto.  "
+    }
+}

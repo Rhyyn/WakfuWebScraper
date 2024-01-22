@@ -6,25 +6,28 @@
 from scrapy import signals
 from scrapy.downloadermiddlewares.useragent import UserAgentMiddleware
 import random
-
+import logging
 # useful for handling different item types with a single interface
 from itemadapter import is_item, ItemAdapter # type: ignore
 
 class RotateUserAgentMiddleware(UserAgentMiddleware):
-    def __init__(self, user_agents_file_path):
-        with open(user_agents_file_path, 'r') as file:
-            self.user_agents = [line.strip() for line in file]
+    def __init__(self, user_agents_list):
+        logging.info("RotateUserAgentMiddleware initialized")
+        self.user_agents = user_agents_list
+        # with open(user_agents_file_path, 'r') as file:
+        #     self.user_agents = [line.strip() for line in file]
 
     @classmethod
     def from_crawler(cls, crawler):
         return cls(
-            user_agents_file_path=crawler.settings.get('USER_AGENTS_FILE_PATH')
+            user_agents_list=crawler.settings.get('USER_AGENT_LIST')
         )
 
     def process_request(self, request, spider):
         # Set a random user agent in the request header
         user_agent = random.choice(self.user_agents)
-        request.headers['User-Agent'] = user_agent
+        request.headers.setdefault('User-Agent', user_agent)
+        # logging.info(f"User-Agent used for {request.url}: {user_agent}")
 
 
 class ScrapyProjectSpiderMiddleware:

@@ -6,12 +6,17 @@ import re
 with open('items.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
-with open('./Output/monsters_IDs.json', 'r' , encoding='utf-8') as monsters_ids_file:
+with open('./Output/monsters_IDs.json', 'r', encoding='utf-8') as monsters_ids_file:
     monsters_id = json.load(monsters_ids_file)
 
-with open('./ScrappedData/amulette_scrapped_data.json', 'r' , encoding='utf-8') as item_data_file:
+with open('./ScrappedData/amulette_scrapped_data.json', 'r', encoding='utf-8') as item_data_file:
     item_data = json.load(item_data_file)
 
+with open('./ScrappedData/actions.json', 'r', encoding='utf-8') as actions_file:
+    actions = json.load(actions_file)
+
+with open('./ScrappedData/FormatedData/secondemain_scrapped_data_formated.json', 'r', encoding='utf-8') as item_data_formated_file:
+    item_data_formated = json.load(item_data_formated_file)
 
 # Filter items with definition.item.baseParameters.itemTypeId equal to 120
 # filtered_items = [item['definition']['item']['id'] for item in data if
@@ -21,7 +26,7 @@ with open('./ScrappedData/amulette_scrapped_data.json', 'r' , encoding='utf-8') 
 # filtered_items = [item['definition']['item']['id'] for item in data if
 #                   any('equipEffects' in item['definition'] and any('actionId' in effect['effect']['definition'] and effect['effect']['definition']['actionId'] == 1083 for effect in item['definition']['equipEffects']) for item in data)]
 
-# print equip_effect based on ID 
+# print equip_effect based on ID
 # equip_effects_items = [
 #     item['definition']['item']['id']
 #     for item in data
@@ -34,25 +39,104 @@ with open('./ScrappedData/amulette_scrapped_data.json', 'r' , encoding='utf-8') 
 # print(equip_effects_items)
 
 
-# same as above but different 
-
+### Easy way to print anything for orignal DATA ###
+# myActionID = 21
 # equip_effects_items = [
 #     {
 #         'id': item['definition']['item']['id'],
+#         'title': item['title']['fr'],
+#         'typeID': item['definition']['item']['baseParameters']['itemTypeId'],
 #         'params': effect['effect']['definition']['params']
 #     }
-#             for item in data
-#                 for effect in item['definition']['equipEffects']
-#                     if effect['effect']['definition']['actionId'] == 39
+#     for item in data
+#     for effect in item['definition']['equipEffects']
+#     if effect['effect']['definition']['actionId'] == myActionID
 # ]
 
 # for item in equip_effects_items:
+#     print("--ORIGINAL DATA--")
+#     print(f"Item NAME: {item['title']}")
+#     print(f"Item TypeID: {item['typeID']}")
 #     print(f"Item ID: {item['id']}")
 #     print(f"Params: {item['params']}")
-#     print()
+
+# ### Easy way to print anything for FORMATED DATA ###
+# equip_effects_items = [
+#     {
+#         'id': item['id'],
+#         'title': item['title']['fr'],
+#         'typeID': item['baseParams']['itemTypeId'],
+#         'params': item['equipEffects']
+#     }
+#     for item in item_data_formated
+#     for effect in item['equipEffects']
+#     if effect['effect']['stats']['property'] == myActionID
+# ]
+
+# for item in equip_effects_items:
+#     print("--FORMATED DATA--")
+#     print(f"Item NAME: {item['title']}")
+#     print(f"Item TypeID: {item['typeID']}")
+#     print(f"Item ID: {item['id']}")
+    # print(f"Params: {item['params']}")
+
+
+# Items :
+# Armes :
+# Arme a 1 main : 254, 108, 110, 115, 113
+# Arme a 2 main : 223, 114, 101, 111, 253, 117
+# Seconde main : 112, 189
+# Armures :
+# Amulette : 120
+# Anneau : 103
+# Bottes : 119
+# Cape : 132
+# Casque : 134
+# Ceinture : 133
+# Epaulettes : 138
+# Plastron : 136
+# Sublimation : 812
+# Emblemes : 646
+# Familier : 582
+# Montures : 611
+# Torches : 480
+# Costumes : 647
+# Outils : 537
+
+
+formated_ids = []
+original_ids = []
+for item in item_data_formated:
+    formated_ids.append(item['id'])
+
+for item in data:
+    if item['definition']['item']['baseParameters']['itemTypeId'] in [112, 189]:
+        original_ids.append(item['definition']['item']['id'])
+
+for id in original_ids:
+    if id not in formated_ids:
+        print(f"{id} not found in formated_ids")
+        for item in data:
+            if item['definition']['item']['id'] == id:
+                print(item['title']['fr'])
+print('done')
+# print(formated_ids)
+# print(original_ids)
     
 
-## LEVLE
+
+#### Check for Missing IDS ####
+# gain_flat_ids = [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 162, 166, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063]
+# missing_ids = []
+
+# for action in actions:
+#     if action["definition"]["id"] not in gain_flat_ids:
+#         missing_ids.append(action["definition"]["id"])
+
+# print(f"The ids {missing_ids} are not present in gain_flat_ids.")
+
+
+# LEVLE
 # equip_effects_items = [
 #     {
 #         'id': item.get('definition', {}).get('item', {}).get('id', ''),
@@ -80,7 +164,6 @@ with open('./ScrappedData/amulette_scrapped_data.json', 'r' , encoding='utf-8') 
 #             print(f"Monster ID {monster_id} is missing from monsters_id file.")
 
 
-
 # for item in data:
 #     if item['definition']['equipEffects']:
 #         equip_effects = item['definition']['equipEffects']
@@ -96,18 +179,13 @@ with open('./ScrappedData/amulette_scrapped_data.json', 'r' , encoding='utf-8') 
 #                 print(f"Effect : ")
 #                 print(f"actionId = {effect['effect']['definition']['actionId']}")
 #                 print(f"params = {effect['effect']['definition']['params']}")
-#                 if fourth_param is not None: 
+#                 if fourth_param is not None:
 #                     print(f"4th param = {effect['effect']['definition']['params'][4]}")
 #                 description = effect['effect'].get('description', None)
 #                 if description is not None:
 #                     print(f"description = {description}")
 #                 else:
 #                     print("No description available")
-
-
-
-
-
 
 
 # equip_effects_items_params = [
@@ -155,11 +233,6 @@ with open('./ScrappedData/amulette_scrapped_data.json', 'r' , encoding='utf-8') 
 #     json.dump(monsters_ids, json_file)
 
 # print(monsters_ids)
-
-
-
-
-
 
 
 # filtered_ids = [item
@@ -222,5 +295,3 @@ with open('./ScrappedData/amulette_scrapped_data.json', 'r' , encoding='utf-8') 
 # Torches : 480
 # Costumes : 647
 # Outils : 537
-
-
