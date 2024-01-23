@@ -1,8 +1,12 @@
+from unicodedata import category
 import click
 from scrapy.cmdline import execute
 from ScrapyProject.spiders.items_data import ItemDataSpider
 from ScrapyProject.spiders.monsters_ids_spider import MonstersIdsSpider
 from ScrapyProject.spiders.monsters_data_spider import MonstersDataSpider
+from ScrapyProject.spiders.test_spider import TestScrapSpider
+
+from ScrapyProject.Scripts import run_tests
 import sys
 
 # Define the available item types
@@ -40,11 +44,18 @@ SPIDERS = {
     'items_data': ItemDataSpider,
     'monsters_ids': MonstersIdsSpider,
     'monsters_data': MonstersDataSpider,
+    'tests': TestScrapSpider,
+
 }
 
 @click.group()
 def cli():
     pass
+
+# @click.command() Maybe?
+# def select_language():
+#     """Available languages"""
+#     click.echo("Available Spiders:")
 
 @click.command()
 def list_spiders():
@@ -62,6 +73,15 @@ def crawl(spider_name):
         crawl_items_data()
     else:
         execute(['scrapy', 'crawl', spider_name])
+
+
+@click.command()
+def test_scrap():
+    """Run a a single scrap test"""
+    category_id = 120
+    execute(['scrapy', 'crawl', 'tests', '-a', f'category_id={category_id}'])
+    return
+
 
 # Define a separate function for crawling items_data
 def crawl_items_data():
@@ -111,6 +131,8 @@ def crawl_autres():
 
 cli.add_command(list_spiders)
 cli.add_command(crawl)
+# cli.add_command(select_language)
+cli.add_command(test_scrap)
 
 if __name__ == '__main__':
     cli()
