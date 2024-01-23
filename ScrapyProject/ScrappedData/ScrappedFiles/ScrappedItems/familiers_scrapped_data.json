@@ -1,0 +1,1179 @@
+[
+  {
+    "item": {
+      "name": "Chachagora",
+      "id": "12127"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/12127"
+  },
+  {
+    "item": {
+      "name": "Chacha",
+      "id": "12128"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mimic Domestique": {
+        "drop_rate": "2.5%",
+        "monster_id": 4195
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/12128"
+  },
+  {
+    "item": {
+      "name": "Tofu",
+      "id": "12129"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/12129"
+  },
+  {
+    "item": {
+      "name": "Tofu Touffu",
+      "id": "12130"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/12130"
+  },
+  {
+    "item": {
+      "name": "Chacha Tigré",
+      "id": "12131"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/12131"
+  },
+  {
+    "item": {
+      "name": "Dot",
+      "id": "12237"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/12237"
+  },
+  {
+    "item": {
+      "name": "Bébé Slek",
+      "id": "12804"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Le Slek Sy": {
+        "drop_rate": "0.3%",
+        "monster_id": 4280
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/12804"
+  },
+  {
+    "item": {
+      "name": "KoinKoin",
+      "id": "13637"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/13637"
+  },
+  {
+    "item": {
+      "name": "Milimeulou",
+      "id": "14147"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Milkar le Meulou": {
+        "drop_rate": "1.333%",
+        "monster_id": 1987
+      },
+      "Mimic Domestique": {
+        "drop_rate": "0.25%",
+        "monster_id": 4195
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/14147"
+  },
+  {
+    "item": {
+      "name": "Arakne",
+      "id": "14152"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/14152"
+  },
+  {
+    "item": {
+      "name": "Tourtobot",
+      "id": "14157"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/14157"
+  },
+  {
+    "item": {
+      "name": "Krosmunster Eau",
+      "id": "14335"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mimic Domestique": {
+        "drop_rate": "0.5%",
+        "monster_id": 4195
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/14335"
+  },
+  {
+    "item": {
+      "name": "Krosmunster Terre",
+      "id": "14525"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mimic Domestique": {
+        "drop_rate": "0.5%",
+        "monster_id": 4195
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/14525"
+  },
+  {
+    "item": {
+      "name": "Krosmunster Air",
+      "id": "14526"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mimic Domestique": {
+        "drop_rate": "0.5%",
+        "monster_id": 4195
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/14526"
+  },
+  {
+    "item": {
+      "name": "Krosmunster Feu",
+      "id": "14527"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mimic Domestique": {
+        "drop_rate": "0.5%",
+        "monster_id": 4195
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/14527"
+  },
+  {
+    "item": {
+      "name": "Peroucan",
+      "id": "14887"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/14887"
+  },
+  {
+    "item": {
+      "name": "Snouffle",
+      "id": "15098"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/15098"
+  },
+  {
+    "item": {
+      "name": "Wapin",
+      "id": "15099"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/15099"
+  },
+  {
+    "item": {
+      "name": "Moomouche",
+      "id": "15100"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/15100"
+  },
+  {
+    "item": {
+      "name": "Jambes de Chafer",
+      "id": "15388"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mimic Domestique": {
+        "drop_rate": "1%",
+        "monster_id": 4195
+      },
+      "Chaferfu, roi Chafer": {
+        "drop_rate": "0.5%",
+        "monster_id": 4739
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/15388"
+  },
+  {
+    "item": {
+      "name": "Chacha des Glaces",
+      "id": "15818"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/15818"
+  },
+  {
+    "item": {
+      "name": "Araknomeka",
+      "id": "15819"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/15819"
+  },
+  {
+    "item": {
+      "name": "Yech'ti’Wawa",
+      "id": "15820"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Yech'Ti'Wawa": {
+        "drop_rate": "0.25%",
+        "monster_id": 2368
+      },
+      "Mimic Domestique": {
+        "drop_rate": "0.25%",
+        "monster_id": 4195
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/15820"
+  },
+  {
+    "item": {
+      "name": "Caillasse",
+      "id": "16697"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mimic Domestique": {
+        "drop_rate": "1%",
+        "monster_id": 4195
+      },
+      "Craqueleur Ancestral": {
+        "drop_rate": "0.1%",
+        "monster_id": 4510
+      },
+      "Craqueleur": {
+        "drop_rate": "0.1%",
+        "monster_id": 4511
+      },
+      "Craqueboule": {
+        "drop_rate": "0.1%",
+        "monster_id": 4512
+      },
+      "Craqueleur de la Mine Ancestral": {
+        "drop_rate": "0.1%",
+        "monster_id": 4878
+      },
+      "Craqueleur de la Mine": {
+        "drop_rate": "0.1%",
+        "monster_id": 4879
+      },
+      "Craqueboule de la Mine": {
+        "drop_rate": "0.1%",
+        "monster_id": 4880
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/16697"
+  },
+  {
+    "item": {
+      "name": "Marcassinet",
+      "id": "16708"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/16708"
+  },
+  {
+    "item": {
+      "name": "Scarafon",
+      "id": "16719"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mimic Domestique": {
+        "drop_rate": "1%",
+        "monster_id": 4195
+      },
+      "Scaraboss": {
+        "drop_rate": "0.1%",
+        "monster_id": 4909
+      },
+      "Scarafon": {
+        "drop_rate": "0.1%",
+        "monster_id": 4910
+      },
+      "Scaramel": {
+        "drop_rate": "0.1%",
+        "monster_id": 4911
+      },
+      "Scarabruni": {
+        "drop_rate": "0.1%",
+        "monster_id": 4912
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/16719"
+  },
+  {
+    "item": {
+      "name": "Surimi",
+      "id": "16730"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Mimic Domestique": {
+        "drop_rate": "1%",
+        "monster_id": 4195
+      },
+      "Cwalbator": {
+        "drop_rate": "0.1%",
+        "monster_id": 4749
+      },
+      "Père Cwabtor": {
+        "drop_rate": "0.1%",
+        "monster_id": 4750
+      },
+      "Salbatroce": {
+        "drop_rate": "0.1%",
+        "monster_id": 4751
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/16730"
+  },
+  {
+    "item": {
+      "name": "Fotome",
+      "id": "16736"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/16736"
+  },
+  {
+    "item": {
+      "name": "Caillasse d'Or",
+      "id": "16850"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/16850"
+  },
+  {
+    "item": {
+      "name": "Scarafon d'Or",
+      "id": "16852"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/16852"
+  },
+  {
+    "item": {
+      "name": "Marcassinet d'Or",
+      "id": "16854"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/16854"
+  },
+  {
+    "item": {
+      "name": "Surimi d'Or",
+      "id": "16855"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/16855"
+  },
+  {
+    "item": {
+      "name": "Chienchien",
+      "id": "16929"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/16929"
+  },
+  {
+    "item": {
+      "name": "Bilby",
+      "id": "17021"
+    },
+    "rarity": "2",
+    "droprates": {
+      "Empereur Gelax": {
+        "drop_rate": "0.3%",
+        "monster_id": 1345
+      },
+      "Mimic Domestique": {
+        "drop_rate": "0.25%",
+        "monster_id": 4195
+      }
+    },
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/17021"
+  },
+  {
+    "item": {
+      "name": "Croum",
+      "id": "17026"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/17026"
+  },
+  {
+    "item": {
+      "name": "Dragoune",
+      "id": "17037"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/17037"
+  },
+  {
+    "item": {
+      "name": "Phénix",
+      "id": "17577"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/17577"
+  },
+  {
+    "item": {
+      "name": "Abomination Apprivoisée",
+      "id": "18049"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/18049"
+  },
+  {
+    "item": {
+      "name": "Boufton",
+      "id": "18389"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/18389"
+  },
+  {
+    "item": {
+      "name": "Chacha d'Or",
+      "id": "18736"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/18736"
+  },
+  {
+    "item": {
+      "name": "Chienchien d'Or",
+      "id": "18737"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/18737"
+  },
+  {
+    "item": {
+      "name": "Drakopin",
+      "id": "19111"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/19111"
+  },
+  {
+    "item": {
+      "name": "Corbac",
+      "id": "19266"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/19266"
+  },
+  {
+    "item": {
+      "name": "Chauffe-Souris",
+      "id": "19577"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/19577"
+  },
+  {
+    "item": {
+      "name": "Aboon",
+      "id": "19739"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/19739"
+  },
+  {
+    "item": {
+      "name": "Pupuce",
+      "id": "20045"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/20045"
+  },
+  {
+    "item": {
+      "name": "Tirubim",
+      "id": "20274"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/20274"
+  },
+  {
+    "item": {
+      "name": "Petit Citrouillé",
+      "id": "20548"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/20548"
+  },
+  {
+    "item": {
+      "name": "Dragounga Loragran",
+      "id": "20809"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/20809"
+  },
+  {
+    "item": {
+      "name": "Dauge",
+      "id": "22034"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/22034"
+  },
+  {
+    "item": {
+      "name": "Gobgob",
+      "id": "22551"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/22551"
+  },
+  {
+    "item": {
+      "name": "Noxine",
+      "id": "23881"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23881"
+  },
+  {
+    "item": {
+      "name": "Tofu Mesuré",
+      "id": "23886"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23886"
+  },
+  {
+    "item": {
+      "name": "Tofu Ventru",
+      "id": "23887"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23887"
+  },
+  {
+    "item": {
+      "name": "Tofu Poisseux",
+      "id": "23888"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23888"
+  },
+  {
+    "item": {
+      "name": "Tofu Bontarien",
+      "id": "23889"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23889"
+  },
+  {
+    "item": {
+      "name": "Tofu Charmant",
+      "id": "23890"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23890"
+  },
+  {
+    "item": {
+      "name": "Tofu Brâkmarien",
+      "id": "23891"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23891"
+  },
+  {
+    "item": {
+      "name": "Chacha Mesuré",
+      "id": "23892"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23892"
+  },
+  {
+    "item": {
+      "name": "Chacha Ventru",
+      "id": "23893"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23893"
+  },
+  {
+    "item": {
+      "name": "Chacha Poisseux",
+      "id": "23894"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23894"
+  },
+  {
+    "item": {
+      "name": "Chacha Bontarien",
+      "id": "23895"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23895"
+  },
+  {
+    "item": {
+      "name": "Chacha Charmant",
+      "id": "23896"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23896"
+  },
+  {
+    "item": {
+      "name": "Chacha Brâkmarien",
+      "id": "23897"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23897"
+  },
+  {
+    "item": {
+      "name": "Boune Mesuré",
+      "id": "23898"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23898"
+  },
+  {
+    "item": {
+      "name": "Boune Ventru",
+      "id": "23899"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23899"
+  },
+  {
+    "item": {
+      "name": "Boune Poisseux",
+      "id": "23900"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23900"
+  },
+  {
+    "item": {
+      "name": "Boune Bontarien",
+      "id": "23901"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23901"
+  },
+  {
+    "item": {
+      "name": "Boune Charmant",
+      "id": "23902"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23902"
+  },
+  {
+    "item": {
+      "name": "Boune Brâkmarien",
+      "id": "23903"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23903"
+  },
+  {
+    "item": {
+      "name": "Bébé Phorreur",
+      "id": "23958"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/23958"
+  },
+  {
+    "item": {
+      "name": "Yugofu le Tofugo",
+      "id": "24031"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/24031"
+  },
+  {
+    "item": {
+      "name": "Pingwii",
+      "id": "24245"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/24245"
+  },
+  {
+    "item": {
+      "name": "Godron Charmant",
+      "id": "24259"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/24259"
+  },
+  {
+    "item": {
+      "name": "Godron Bontarien",
+      "id": "24260"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/24260"
+  },
+  {
+    "item": {
+      "name": "Godron Brâkmarien",
+      "id": "24261"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/24261"
+  },
+  {
+    "item": {
+      "name": "Godron Mesuré",
+      "id": "24262"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/24262"
+  },
+  {
+    "item": {
+      "name": "Godron Poisseux",
+      "id": "24263"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/24263"
+  },
+  {
+    "item": {
+      "name": "Godron Ventru",
+      "id": "24264"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/24264"
+  },
+  {
+    "item": {
+      "name": "Tofu Trépamort",
+      "id": "24837"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/24837"
+  },
+  {
+    "item": {
+      "name": "Cocodrille",
+      "id": "24859"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/24859"
+  },
+  {
+    "item": {
+      "name": "Pitistro",
+      "id": "25051"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/25051"
+  },
+  {
+    "item": {
+      "name": "Téléflix",
+      "id": "25052"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/25052"
+  },
+  {
+    "item": {
+      "name": "Shushu Mineur",
+      "id": "26284"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/26284"
+  },
+  {
+    "item": {
+      "name": "Drathrosk",
+      "id": "26382"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/26382"
+  },
+  {
+    "item": {
+      "name": "Gélutin Combattant",
+      "id": "26673"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/26673"
+  },
+  {
+    "item": {
+      "name": "Gélutin Soigneur",
+      "id": "26674"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/26674"
+  },
+  {
+    "item": {
+      "name": "Gélutin Chasseur",
+      "id": "26675"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/26675"
+  },
+  {
+    "item": {
+      "name": "Gélutin Berserker",
+      "id": "26676"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/26676"
+  },
+  {
+    "item": {
+      "name": "Gélutin Aventurier",
+      "id": "26677"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/26677"
+  },
+  {
+    "item": {
+      "name": "Kometh",
+      "id": "26716"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/26716"
+  },
+  {
+    "item": {
+      "name": "Kokulte",
+      "id": "27077"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27077"
+  },
+  {
+    "item": {
+      "name": "Bébé Pandawa",
+      "id": "27205"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27205"
+  },
+  {
+    "item": {
+      "name": "Minithar",
+      "id": "27206"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27206"
+  },
+  {
+    "item": {
+      "name": "Boufrogounet",
+      "id": "27207"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27207"
+  },
+  {
+    "item": {
+      "name": "Titcham",
+      "id": "27208"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27208"
+  },
+  {
+    "item": {
+      "name": "Picar",
+      "id": "27310"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27310"
+  },
+  {
+    "item": {
+      "name": "Geist",
+      "id": "27311"
+    },
+    "rarity": "1",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27311"
+  },
+  {
+    "item": {
+      "name": "Kalypsor",
+      "id": "27540"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27540"
+  },
+  {
+    "item": {
+      "name": "Sakoch",
+      "id": "27541"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27541"
+  },
+  {
+    "item": {
+      "name": "Gerbichon",
+      "id": "27895"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27895"
+  },
+  {
+    "item": {
+      "name": "Krapidon",
+      "id": "27896"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27896"
+  },
+  {
+    "item": {
+      "name": "Wabajoie",
+      "id": "27897"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27897"
+  },
+  {
+    "item": {
+      "name": "Gargoule",
+      "id": "27898"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27898"
+  },
+  {
+    "item": {
+      "name": "Raklure",
+      "id": "27899"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27899"
+  },
+  {
+    "item": {
+      "name": "Keunotte",
+      "id": "27972"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27972"
+  },
+  {
+    "item": {
+      "name": "Salar",
+      "id": "27973"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27973"
+  },
+  {
+    "item": {
+      "name": "Rafal",
+      "id": "27974"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27974"
+  },
+  {
+    "item": {
+      "name": "Brial",
+      "id": "27975"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27975"
+  },
+  {
+    "item": {
+      "name": "Dakal",
+      "id": "27976"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27976"
+  },
+  {
+    "item": {
+      "name": "Kourial",
+      "id": "27977"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27977"
+  },
+  {
+    "item": {
+      "name": "Mikhal",
+      "id": "27978"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/27978"
+  },
+  {
+    "item": {
+      "name": "Bourrasque",
+      "id": "28368"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/28368"
+  },
+  {
+    "item": {
+      "name": "Moellon",
+      "id": "28369"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/28369"
+  },
+  {
+    "item": {
+      "name": "Drache",
+      "id": "28370"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/28370"
+  },
+  {
+    "item": {
+      "name": "Fournaise",
+      "id": "28371"
+    },
+    "rarity": "2",
+    "droprates": {},
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/familiers/28371"
+  }
+]
