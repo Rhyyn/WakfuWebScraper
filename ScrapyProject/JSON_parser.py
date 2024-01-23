@@ -2,6 +2,14 @@ import json
 import math
 import re
 
+### This file is used for various little scripts to check
+### data and stuff
+### it also has scripts to validate data
+### TODO : separate in functions and add cli prompts
+### Include in format so we can verify while formatting
+
+
+
 # Load the items JSON file
 with open('items.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
@@ -15,7 +23,7 @@ with open('./ScrappedData/amulette_scrapped_data.json', 'r', encoding='utf-8') a
 with open('./ScrappedData/actions.json', 'r', encoding='utf-8') as actions_file:
     actions = json.load(actions_file)
 
-with open('./ScrappedData/FormatedData/secondemain_scrapped_data_formated.json', 'r', encoding='utf-8') as item_data_formated_file:
+with open('./ScrappedData/FormatedData/amulette_scrapped_data_formated.json', 'r', encoding='utf-8') as item_data_formated_file:
     item_data_formated = json.load(item_data_formated_file)
 
 # Filter items with definition.item.baseParameters.itemTypeId equal to 120
@@ -103,6 +111,14 @@ with open('./ScrappedData/FormatedData/secondemain_scrapped_data_formated.json',
 # Costumes : 647
 # Outils : 537
 
+# - arme1main
+# 3812 not found in formated_ids
+# Boufcartes
+    
+# - arme2main
+# 2869 not found in formated_ids
+# Epée Ricklès
+
 
 formated_ids = []
 original_ids = []
@@ -110,7 +126,7 @@ for item in item_data_formated:
     formated_ids.append(item['id'])
 
 for item in data:
-    if item['definition']['item']['baseParameters']['itemTypeId'] in [112, 189]:
+    if item['definition']['item']['baseParameters']['itemTypeId'] in [120]:
         original_ids.append(item['definition']['item']['id'])
 
 for id in original_ids:
