@@ -120,7 +120,8 @@ class ItemDataSpider(scrapy.Spider):
         self.start_url = self.get_starting_url(self.category_id, url_mapping)
         current_dir = os.path.dirname(os.path.realpath(__file__))
         parent_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
-        items_json_path = os.path.join(parent_dir, 'items.json')
+        static_data_dir_path = os.path.join(parent_dir, 'StaticData')
+        items_json_path = os.path.join(static_data_dir_path, 'items.json')
         with open(items_json_path, 'r', encoding='utf-8') as file:
             items_data = json.load(file)
 
@@ -236,7 +237,7 @@ class ItemDataSpider(scrapy.Spider):
     def closed(self, reason):
         current_category_name = self.get_category_name(self.category_id)
         file_path = os.path.join(os.path.dirname(os.path.realpath(
-            __file__)), '..', 'ScrappedData', f'{current_category_name}_scrapped_data.json')
+            __file__)), '..', 'ScrappedData', 'ScrappedFiles', 'ScrappedItems', f'{current_category_name}_scrapped_data.json')
         # save the scraped data
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(self.results, file, ensure_ascii=False,

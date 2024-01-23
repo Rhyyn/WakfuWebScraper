@@ -2,6 +2,7 @@ import scrapy
 import json
 import os
 
+
 class MonstersIdsSpider(scrapy.Spider):
     """
     -INFO-
@@ -17,7 +18,7 @@ class MonstersIdsSpider(scrapy.Spider):
     name = "monsters_ids"
     allowed_domains = ["wakfu.com"]
     start_url = 'https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres?page={}'
-    
+
     def __init__(self, name=None, **kwargs):
         super().__init__(name=name, **kwargs)
         self.items = []
@@ -25,7 +26,6 @@ class MonstersIdsSpider(scrapy.Spider):
     def start_requests(self):
         # Start from page 1
         yield scrapy.Request(url=self.start_url.format(1), callback=self.parse)
-
 
     def parse(self, response):
         # Extract href from the second td in each tr
@@ -44,10 +44,11 @@ class MonstersIdsSpider(scrapy.Spider):
         if next_page <= 35:
             yield response.follow(self.start_url.format(next_page), callback=self.parse)
 
-
     def closed(self, reason):
-        file_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'Output', 'monsters_IDs.json')
+        file_path = os.path.join(os.path.dirname(os.path.realpath(
+            __file__)), '..', 'ScrappedData', 'ScrappedFiles', 'ScrappedMonsters', 'monsters_IDs.json')
         print(file_path)
         # save the scraped data
         with open(file_path, 'w', encoding='utf-8') as file:
-            json.dump(self.items, file, ensure_ascii=False, indent=2)  # type: ignore
+            json.dump(self.items, file, ensure_ascii=False,
+                      indent=2)  # type: ignore
