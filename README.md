@@ -87,20 +87,20 @@ cd .\ScrapyProject\ScrapedData\
 python format_items.py
 ```
 + Formatting Preview for Items :
-[Before](https://github.com/Rhyyn/WakfuWebScrapper/blob/main/ScrapyProject/FormattingPreview/old_format.json) || [After](https://github.com/Rhyyn/WakfuWebScrapper/blob/main/ScrapyProject/FormattingPreview/new_format.json)
+[Before](https://github.com/Rhyyn/WakfuWebScraper/blob/main/ScrapyProject/FormattingPreview/old_format.json) || [After](https://github.com/Rhyyn/WakfuWebScraper/blob/main/ScrapyProject/FormattingPreview/new_format.json)
 
 + Preview for Monster_IDs :
-[Monster_IDs_Preview](https://github.com/Rhyyn/WakfuWebScrapper/blob/main/ScrapyProject/FormattingPreview/monsters_IDs_preview.json)
+[Monster_IDs_Preview](https://github.com/Rhyyn/WakfuWebScraper/blob/main/ScrapyProject/FormattingPreview/monsters_IDs_preview.json)
 
 + Preview for Monsters_data :
-[Monster_IDs_Preview](https://github.com/Rhyyn/WakfuWebScrapper/blob/main/ScrapyProject/FormattingPreview/monsters_data_preview.json)
+[Monster_IDs_Preview](https://github.com/Rhyyn/WakfuWebScraper/blob/main/ScrapyProject/FormattingPreview/monsters_data_preview.json)
 
 ONLY TO BE USED FOR EDUCATIONAL / DEMONSTRATIONAL PURPOSES AND NON-COMMERCIAL PURPOSES
 
 
 
 # Bugs ? Data missing ?
-[Start an issue here](https://github.com/Rhyyn/WakfuWebScrapper/issues)
+[Start an issue here](https://github.com/Rhyyn/WakfuWebScraper/issues)
 
 ## TODO : 
 
