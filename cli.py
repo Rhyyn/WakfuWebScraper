@@ -62,6 +62,8 @@ def list_spiders():
     """List available spiders and their purposes."""
     click.echo("Available Spiders:")
     for spider_name, spider_class in SPIDERS.items():
+        if spider_name == 'tests':
+            pass
         purpose = spider_class.__doc__.strip() if spider_class.__doc__ else "No description"
         click.echo(f"{spider_name}: {purpose}")
 
@@ -78,8 +80,9 @@ def crawl(spider_name):
 @click.command()
 def test_scrap():
     """Run a a single scrap test"""
-    category_id = 120
-    execute(['scrapy', 'crawl', 'tests', '-a', f'category_id={category_id}'])
+    category_id:int = 120
+    wanted_amount:int = 10
+    execute(['scrapy', 'crawl', 'tests', '-a', f'category_id={category_id}', '-a', f'wanted_amount={wanted_amount}'])
     return
 
 
@@ -131,8 +134,8 @@ def crawl_autres():
 
 cli.add_command(list_spiders)
 cli.add_command(crawl)
-# cli.add_command(select_language)
 cli.add_command(test_scrap)
+# cli.add_command(select_language)
 
 if __name__ == '__main__':
     cli()
