@@ -82,14 +82,16 @@ class ItemDataSpider(scrapy.Spider):
             582: 'familiers',
         }
         return url_mapping
-
-    def construct_urls(self, categories_to_scrap: list[int], start_url: str, items_data):
+    
+    def get_ids_list(self, categories_to_scrap: list[int], items_data):
         new_ids: list[int] = []
         for category_id in categories_to_scrap:
             for item in items_data:
                 if item['definition']['item']['baseParameters']['itemTypeId'] == category_id:
                     new_ids.append(item['definition']['item']['id'])
+        return new_ids
 
+    def construct_urls(self, start_url: str, new_ids:list[int]):
         scrap_per_min = 16
         self.print_estimated_time(new_ids, scrap_per_min)
         start_urls = [f'{start_url}/{id}' for id in new_ids]
@@ -125,8 +127,8 @@ class ItemDataSpider(scrapy.Spider):
         with open(items_json_path, 'r', encoding='utf-8') as file:
             items_data = json.load(file)
 
-        urls = self.construct_urls(
-            categories_to_scrap, self.start_url, items_data)
+        self.new_ids = self.get_ids_list(categories_to_scrap, items_data)
+        urls = self.construct_urls(self.start_url, self.new_ids)
         self.start_urls = urls
         print(self.start_urls)
         # DEBUG DO NOT UNCOMMENT
@@ -236,6 +238,16 @@ class ItemDataSpider(scrapy.Spider):
 
     def closed(self, reason):
         current_category_name = self.get_category_name(self.category_id)
+        selected_ids_length = len(self.new_ids)
+        results_length = len(self.results)
+        missing_ids = []
+        if results_length < selected_ids_length:
+            print("Some items seems to be missing :")
+            for res_id in self.results:
+                if res_id not in self.new_ids:
+                    missing_ids.append(res_id)
+            print(missing_ids) 
+
         file_path = os.path.join(os.path.dirname(os.path.realpath(
             __file__)), '..', 'ScrappedData', 'ScrappedFiles', 'ScrappedItems', f'{current_category_name}_scrapped_data.json')
         # save the scraped data

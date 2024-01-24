@@ -47,7 +47,6 @@ class MonstersIdsSpider(scrapy.Spider):
     def closed(self, reason):
         file_path = os.path.join(os.path.dirname(os.path.realpath(
             __file__)), '..', 'ScrappedData', 'ScrappedFiles', 'ScrappedMonsters', 'monsters_IDs.json')
-        print(file_path)
         # save the scraped data
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(self.items, file, ensure_ascii=False,

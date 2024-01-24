@@ -85,10 +85,12 @@ class TestScrapSpider(scrapy.Spider):
 
     def get_ids_list(self, categories_to_scrap: list[int], items_data, wanted_amount:int):
         new_ids: list[int] = []
+        wanted_amount = int(wanted_amount)
         for category_id in categories_to_scrap:
-            for item in items_data[wanted_amount]:
-                if item['definition']['item']['baseParameters']['itemTypeId'] == category_id:
-                    new_ids.append(item['definition']['item']['id'])
+            for item in items_data:
+                if len(new_ids) < wanted_amount:
+                    if item['definition']['item']['baseParameters']['itemTypeId'] == int(category_id):
+                        new_ids.append(item['definition']['item']['id'])
         return new_ids
 
     def construct_urls(self, start_url: str, new_ids:list[int]):
@@ -116,8 +118,8 @@ class TestScrapSpider(scrapy.Spider):
         # param gets converted to str for some reason
         # need to convert it back to int | :)
         self.wanted_amount = 10
-        if wanted_amount and wanted_amount < 100:
-            self.wanted_amount = wanted_amount
+        if wanted_amount and int(wanted_amount) < 100:
+            self.wanted_amount = int(wanted_amount)
         elif wanted_amount > 100:
             print(f"{wanted_amount} is too much, use less than 100 please, otherwise use the specific needed spider")
             return 
@@ -133,6 +135,7 @@ class TestScrapSpider(scrapy.Spider):
             items_data = json.load(file)
 
         self.new_ids = self.get_ids_list(categories_to_scrap, items_data, wanted_amount)
+        print(self.new_ids)
         urls = self.construct_urls(self.start_url, self.new_ids)
         self.start_urls = urls
         print(f"Starting URLS : {self.start_urls}")

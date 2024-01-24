@@ -34,9 +34,10 @@ class MonstersDataSpider(scrapy.Spider):
         super(MonstersDataSpider, self).__init__(*args, **kwargs)
         project_dir = os.path.abspath(os.getcwd())
         scrapped_monster_dir = os.path.join(project_dir, 'ScrapyProject', 'ScrappedData', 'ScrappedFiles', 'ScrappedMonsters')
-        monster_IDs_path = os.path.join(scrapped_monster_dir, 'monsters_IDs.json')
+        self.monster_IDs_path = os.path.join(scrapped_monster_dir, 'monsters_IDs.json')
         monsters_scrapped_data_path = os.path.join(scrapped_monster_dir, 'en_monsters_stats_data.json')
-        self.start_urls = self.construct_start_urls(monster_IDs_path)
+        self.start_urls = self.construct_start_urls()
+        self.monsters_IDs:list[int] = []
 
         
         # # TESTING
@@ -44,9 +45,9 @@ class MonstersDataSpider(scrapy.Spider):
         # self.start_urls = [
         #     'https://www.wakfu.com/fr/mmorpg/encyclopedie/monstres/{}'.format(id) for id in test_IDS]
 
-    def construct_start_urls(self, monster_IDs_path):
-        with open(monster_IDs_path, 'r') as file:
-            monsters_IDs = json.load(file)
+    def construct_start_urls(self):
+        with open(self.monster_IDs_path, 'r') as file:
+            self.monsters_IDs = json.load(file)
 
         # FR
         # return [
@@ -54,7 +55,7 @@ class MonstersDataSpider(scrapy.Spider):
         # ]
         # EN
         return [
-            'https://www.wakfu.com/en/mmorpg/encyclopedia/monsters/{}'.format(id) for id in monsters_IDs
+            'https://www.wakfu.com/en/mmorpg/encyclopedia/monsters/{}'.format(id) for id in self.monsters_IDs
         ]
 
     def parse(self, response):
@@ -204,9 +205,17 @@ class MonstersDataSpider(scrapy.Spider):
             return
 
     def closed(self, reason):
-        file_path = os.path.join(os.path.dirname(os.path.realpath(
-            __file__)), '..', 'ScrappedData', 'ScrappedFiles', 'ScrappedMonsters', 'en_monsters_stats_data.json')
+        selected_monsters_ids_length = len(self.monsters_IDs)
+        results_length = len(self.results)
+        missing_ids =[]
+        if results_length < selected_monsters_ids_length:
+            print("Some monsters seems to be missing : ")
+            for res_id in self.results:
+                if res_id not in self.monsters_IDs:
+                    missing_ids.append(res_id)
+            print(missing_ids)
+
+        file_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'ScrappedData', 'ScrappedFiles', 'ScrappedMonsters', 'en_monsters_stats_data.json')
         # save the scraped data
         with open(file_path, 'w', encoding='utf-8') as file:
-            json.dump(self.results, file, ensure_ascii=False,
-                      indent=2)  # type: ignore
+            json.dump(self.results, file, ensure_ascii=False, indent=2)  # type: ignore
