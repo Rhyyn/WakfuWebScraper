@@ -33,7 +33,7 @@ class MonstersDataSpider(scrapy.Spider):
     def __init__(self, *args, **kwargs):
         super(MonstersDataSpider, self).__init__(*args, **kwargs)
         project_dir = os.path.abspath(os.getcwd())
-        scrapped_monster_dir = os.path.join(project_dir, 'ScrapyProject', 'ScrappedData', 'ScrappedFiles', 'ScrappedMonsters')
+        scrapped_monster_dir = os.path.join(project_dir, 'ScrapyProject', 'ScrapedData', 'ScrappedFiles', 'ScrappedMonsters')
         self.monster_IDs_path = os.path.join(scrapped_monster_dir, 'monsters_IDs.json')
         monsters_scrapped_data_path = os.path.join(scrapped_monster_dir, 'en_monsters_stats_data.json')
         self.start_urls = self.construct_start_urls()
@@ -215,7 +215,7 @@ class MonstersDataSpider(scrapy.Spider):
                     missing_ids.append(res_id)
             print(missing_ids)
 
-        file_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'ScrappedData', 'ScrappedFiles', 'ScrappedMonsters', 'en_monsters_stats_data.json')
+        file_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'ScrapedData', 'ScrappedFiles', 'ScrappedMonsters', 'en_monsters_stats_data.json')
         # save the scraped data
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(self.results, file, ensure_ascii=False, indent=2)  # type: ignore
