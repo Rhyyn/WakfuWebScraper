@@ -12,15 +12,17 @@ def cli():
 
 @click.command()
 def format_items():
+    blacklist = ['items.json', 'formated-items.json', 'actions.json']
     current_directory = os.getcwd()
     formated_data_path = os.path.join(current_directory, "FormatedData")
-    json_files = [file for file in os.listdir() if file.endswith('.json')]
-    blacklist = ['items.json', 'formated-items.json', 'actions.json']
+    scraped_items_data_path = os.path.join(current_directory, "ScrapedFiles", "ScrapedItems")
+    json_files = []
+    for file in os.listdir(scraped_items_data_path):
+        if file.endswith('.json'):
+            json_files.append(file)
+
+
     formated_json_files = []
-
-    def get_prefix(file_name):
-        return file_name.split('_')[0]
-
     for file in os.listdir(formated_data_path):
         if file.endswith('.json'):
             formated_json_files.append(file)
@@ -28,6 +30,9 @@ def format_items():
     if not json_files:
         click.echo("No JSON files found in the current directory.")
         return
+    
+    def get_prefix(file_name):
+        return file_name.split('_')[0]
     
     click.echo(f"Available files to format: ")
     for file in json_files:
@@ -51,8 +56,14 @@ def format_items():
         click.echo(f"Error: File '{selected_file}' not found.")
         return
 
-    format_json(selected_file)
-    click.echo(f"File '{selected_file}' formatted successfully.")
+
+    try:
+        format_json(selected_file)
+        click.echo(f"File '{selected_file}' formatted successfully.")
+    except Exception as e:
+        click.echo(f"Error while formatting File '{selected_file}' :")
+        click.echo(str(e))
+
 
 
 patterns = ["{[>1]?s:}",
@@ -300,16 +311,21 @@ def format_droprates(en_monsters_data, scraped_droprates):
 
 
 def format_json(filename):
-    with open(filename, 'r', encoding='utf-8') as scraped_file:
+    current_directory = os.getcwd()
+    scraped_items_data_path = os.path.join(current_directory, "ScrapedFiles", "ScrapedItems", f'{filename}')
+    scraped_monsters_data_path = os.path.join(current_directory, "ScrapedFiles", "ScrapedMonsters", "en_monsters_stats_data.json")
+    static_items = os.path.join(current_directory, "..","StaticData", "items.json")
+    static_actions = os.path.join(current_directory, "..","StaticData", "actions.json")
+    with open(scraped_items_data_path, 'r', encoding='utf-8') as scraped_file:
         scraped_data = json.load(scraped_file)
 
-    with open("items.json", 'r', encoding='utf-8') as all_items_file:
+    with open(static_items, 'r', encoding='utf-8') as all_items_file:
         all_items_data = json.load(all_items_file)
 
-    with open('actions.json', 'r', encoding='utf-8') as stats_file:
+    with open(static_actions, 'r', encoding='utf-8') as stats_file:
         actions_data = json.load(stats_file)
 
-    with open('../Output/en_monsters_stats_data.json', 'r', encoding='utf-8') as monster_file:
+    with open(scraped_monsters_data_path, 'r', encoding='utf-8') as monster_file:
         en_monsters_data = json.load(monster_file)
 
     
