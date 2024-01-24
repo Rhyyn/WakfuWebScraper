@@ -8,6 +8,7 @@ As the creator, I am not liable for any misuse or violation of terms by users. U
 This project is not affiliated with or endorsed by Ankama Studio.
 If Ankama Studio has any concerns regarding this project, please contact me directly and I will have it removed shortly.
 
+### ONLY TO BE USED FOR EDUCATIONAL / DEMONSTRATIONAL PURPOSES AND NON-COMMERCIAL PURPOSES
 
 # Explanation
 
@@ -95,12 +96,12 @@ python format_items.py
 + Preview for Monsters_data :
 [Monster_IDs_Preview](https://github.com/Rhyyn/WakfuWebScraper/blob/main/ScrapyProject/FormattingPreview/monsters_data_preview.json)
 
-ONLY TO BE USED FOR EDUCATIONAL / DEMONSTRATIONAL PURPOSES AND NON-COMMERCIAL PURPOSES
-
 
 
 # Bugs ? Data missing ?
 [Start an issue here](https://github.com/Rhyyn/WakfuWebScraper/issues)
+
+
 
 ## TODO : 
 
