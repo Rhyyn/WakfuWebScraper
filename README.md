@@ -20,7 +20,7 @@ First we need to scrap the list of monsters to get a list with every monster ID,
 
 But why do we need to scrap Monsters before anything else you ask ?
 
-Well because we want the Items drop rates, and the only way to get them is to scrap the monster drops on their pages!
+Well because we want the Items drop rates, and the only way to get them is to scrap the monster drops from their pages!
 
 ![drops list example](https://i.imgur.com/wClnI3M.png)
 
