@@ -1,0 +1,157 @@
+{
+    "definition": {
+        "item": {
+            "id": 30885,
+            "level": 52,
+            "baseParameters": {
+                "itemTypeId": 120,
+                "itemSetId": 0,
+                "rarity": 2,
+                "bindType": 0,
+                "minimumShardSlotNumber": 1,
+                "maximumShardSlotNumber": 4
+            },
+            "useParameters": {
+                "useCostAp": 0,
+                "useCostMp": 0,
+                "useCostWp": 0,
+                "useRangeMin": 0,
+                "useRangeMax": 0,
+                "useTestFreeCell": false,
+                "useTestLos": true,
+                "useTestOnlyLine": false,
+                "useTestNoBorderCell": false,
+                "useWorldTarget": 0
+            },
+            "graphicParameters": {
+                "gfxId": 12030885,
+                "femaleGfxId": 12030885
+            },
+            "properties": []
+        },
+        "useEffects": [],
+        "useCriticalEffects": [],
+        "equipEffects": [
+            {
+                "effect": {
+                    "definition": {
+                        "id": 352557,
+                        "actionId": 20,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            38.0,
+                            0.0,
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 352556,
+                        "actionId": 31,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            1.0,
+                            0.0,
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 352559,
+                        "actionId": 1068,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            12.0,
+                            0.0,
+                            2.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 352558,
+                        "actionId": 175,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            5.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 352561,
+                        "actionId": 82,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            14.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 352560,
+                        "actionId": 180,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            8.0,
+                            0.0
+                        ]
+                    }
+                }
+            },
+            {
+                "effect": {
+                    "definition": {
+                        "id": 352562,
+                        "actionId": 84,
+                        "areaShape": 32767,
+                        "areaSize": [],
+                        "params": [
+                            14.0,
+                            0.0
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    "title": {
+        "fr": "Porte-Bonheur d\u0027Eenca",
+        "en": "Enca\u0027s Lucky Charm",
+        "es": "Amuleto de Enca",
+        "pt": "Amuleto da Sorte de Enca"
+    },
+    "description": {
+        "fr": "Une véritable preuve que ce n’est pas à sa robe, à son parfum ou à sa beauté que l’on reconnaît une princesse, mais à la noblesse de ses actions.",
+        "en": "Proof that a princess is recognized not by her dress, her perfume, or her beauty, but by the nobility of her actions.",
+        "es": "Una auténtica prueba de que a una princesa no se la reconoce por su vestido, su perfume ni su belleza, sino por la nobleza de sus actos.",
+        "pt": "A prova de que não é pelo vestido, perfume ou beleza que se reconhece uma princesa, mas sim pela nobreza de seus atos."
+    }
+}

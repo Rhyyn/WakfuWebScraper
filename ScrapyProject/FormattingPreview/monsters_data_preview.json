@@ -1,0 +1,124 @@
+{
+    "monster_name": "Royal Puddly",
+    "monster_id": "4720",
+    "monster_famille": "Puddly",
+    "monster_level": "Level : 128 to 133",
+    "is_monster_capturable": "No",
+    "monster_charas": [
+        {
+            "Health Points :": "13348"
+        },
+        {
+            "Action Points :": "9"
+        },
+        {
+            "MP :": "6"
+        },
+        {
+            "WAKFU Points :": "3"
+        },
+        {
+            "Initiative :": "310"
+        },
+        {
+            "Lock :": "240"
+        },
+        {
+            "Dodge :": "240"
+        },
+        {
+            "Block :": "6"
+        },
+        {
+            "Critical Hit :": "21"
+        }
+    ],
+    "monster_resists": [
+        {
+            "Water": {
+                "monster_attack_boost": "1257%",
+                "monster_resist": "461%"
+            }
+        },
+        {
+            "Earth": {
+                "monster_attack_boost": "1257%",
+                "monster_resist": "504%"
+            }
+        },
+        {
+            "Air": {
+                "monster_attack_boost": "0%",
+                "monster_resist": "547%"
+            }
+        },
+        {
+            "Fire": {
+                "monster_attack_boost": "0%",
+                "monster_resist": "504%"
+            }
+        }
+    ],
+    "drops": {
+        "Durable Token": {
+            "item_drop_chance": "100%",
+            "item_drop_rarity": "1",
+            "item_drop_level": "125",
+            "item_id": "21005"
+        },
+        "Durable Transmutation": {
+            "item_drop_chance": "100%",
+            "item_drop_rarity": "1",
+            "item_drop_level": "1",
+            "item_id": "18873"
+        },
+        "Puddle Royale": {
+            "item_drop_chance": "10%",
+            "item_drop_rarity": "1",
+            "item_drop_level": "111",
+            "item_id": "26454"
+        },
+        "Royal Puddly Cloak": {
+            "item_drop_chance": "0.5%",
+            "item_drop_rarity": "1",
+            "item_drop_level": "125",
+            "item_id": "25633"
+        },
+        "Royal Puddly Epaulettes": {
+            "item_drop_chance": "0.5%",
+            "item_drop_rarity": "1",
+            "item_drop_level": "125",
+            "item_id": "25636"
+        },
+        "Puddly Poniard": {
+            "item_drop_chance": "0.5%",
+            "item_drop_rarity": "1",
+            "item_drop_level": "125",
+            "item_id": "25643"
+        },
+        "Royal Puddulet": {
+            "item_drop_chance": "0.5%",
+            "item_drop_rarity": "1",
+            "item_drop_level": "125",
+            "item_id": "25638"
+        },
+        "Squelchers": {
+            "item_drop_chance": "0.5%",
+            "item_drop_rarity": "1",
+            "item_drop_level": "125",
+            "item_id": "25645"
+        },
+        "Royal Puddly Belt": {
+            "item_drop_chance": "0.5%",
+            "item_drop_rarity": "1",
+            "item_drop_level": "125",
+            "item_id": "25640"
+        },
+        "Speed Stone": {
+            "item_drop_chance": "0.025%",
+            "item_drop_rarity": "1",
+            "item_drop_level": "1",
+            "item_id": "29849"
+        }
+    }
+}

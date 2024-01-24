@@ -1,0 +1,147 @@
+{
+    "title": {
+        "fr": "Porte-Bonheur d'Eenca",
+        "en": "Enca's Lucky Charm"
+    },
+    "description": {
+        "fr": "Une véritable preuve que ce n’est pas à sa robe, à son parfum ou à sa beauté que l’on reconnaît une princesse, mais à la noblesse de ses actions.",
+        "en": "Proof that a princess is recognized not by her dress, her perfume, or her beauty, but by the nobility of her actions."
+    },
+    "droprates": {
+        "fr": {
+            "Erpel": {
+                "drop_rate": "1%",
+                "monster_id": "5447"
+            }
+        },
+        "en": {
+            "Ysorpel": {
+                "drop_rate": "1%",
+                "monster_id": "5447"
+            }
+        }
+    },
+    "id": 30886,
+    "level": 57,
+    "baseParams": {
+        "itemTypeId": 120,
+        "itemSetId": 0,
+        "rarity": 3
+    },
+    "useParams": {
+        "useCostAp": 0,
+        "useCostMp": 0,
+        "useCostWp": 0,
+        "useRangeMin": 0,
+        "useRangeMax": 0
+    },
+    "gfxId": 12030885,
+    "equipEffects": [
+        {
+            "effect": {
+                "definition": {
+                    "id": 352565
+                },
+                "stats": {
+                    "display": {
+                        "fr": "7 Esquive",
+                        "en": "7 Dodge"
+                    },
+                    "property": 175,
+                    "values": 7
+                }
+            }
+        },
+        {
+            "effect": {
+                "definition": {
+                    "id": 352564
+                },
+                "stats": {
+                    "display": {
+                        "fr": "52 PV",
+                        "en": "52 HP"
+                    },
+                    "property": 20,
+                    "values": 52
+                }
+            }
+        },
+        {
+            "effect": {
+                "definition": {
+                    "id": 352567
+                },
+                "stats": {
+                    "display": {
+                        "fr": "11 Maîtrise Dos",
+                        "en": "11 Rear Mastery"
+                    },
+                    "property": 180,
+                    "values": 11
+                }
+            }
+        },
+        {
+            "effect": {
+                "definition": {
+                    "id": 352566
+                },
+                "stats": {
+                    "display": {
+                        "fr": "18 Maîtrise dans 2 éléments aléatoires",
+                        "en": "18 Mastery in 2 randoms elements"
+                    },
+                    "property": 1068,
+                    "values": 18
+                }
+            }
+        },
+        {
+            "effect": {
+                "definition": {
+                    "id": 352563
+                },
+                "stats": {
+                    "display": {
+                        "fr": "1 PA",
+                        "en": "1 AP"
+                    },
+                    "property": 31,
+                    "values": 1
+                }
+            }
+        },
+        {
+            "effect": {
+                "definition": {
+                    "id": 352569
+                },
+                "stats": {
+                    "display": {
+                        "fr": "14 Résistance Terre",
+                        "en": "14 Terre Resistance"
+                    },
+                    "property": 84,
+                    "values": 14
+                }
+            }
+        },
+        {
+            "effect": {
+                "definition": {
+                    "id": 352568
+                },
+                "stats": {
+                    "display": {
+                        "fr": "14 Résistance Feu",
+                        "en": "14 Feu Resistance"
+                    },
+                    "property": 82,
+                    "values": 14
+                }
+            }
+        }
+    ],
+    "item_url": "https://www.wakfu.com/fr/mmorpg/encyclopedie/armures/30886"
+}
