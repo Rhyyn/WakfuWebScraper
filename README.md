@@ -105,7 +105,7 @@ python format_items.py
 
 ## TODO : 
 
-+ Add language support for categories names, currently categories are display in FR because we don't actually need to scrap any localized strings, only values that we use to match the data Ankama is giving us to create both the FR/EN version with the scrapped values.
++ Add language support for categories names, currently categories are display in FR because we don't actually need to scrap any localized strings, only values that we use to match the data Ankama is giving us to create both the FR/EN version with the scraped values.
 + Refactor JSON_parser, contains a lot of for loops for debug/testing of the data, need to extract them to separate functions for readability 
 + Refactor start of scrap spider with more arguments, like a specific ID / name would be great
 + Adding support for tab completion / arrows keys movement for the CLI prompts
