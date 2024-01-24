@@ -278,12 +278,12 @@ def interpret_description(action_id:int, params_list:list[int], stat_description
 
     return FormatedParams()
 
-def format_droprates(en_monsters_data, scrapped_droprates):
+def format_droprates(en_monsters_data, scraped_droprates):
     formated_params = FormatedParams  
     droprates = {"fr": {}, "en": {}}
     en_monsters_dict = {str(monster.get('monster_id')): monster for monster in en_monsters_data}
 
-    for fr_monster_name, fr_data in scrapped_droprates.items():
+    for fr_monster_name, fr_data in scraped_droprates.items():
         drop_rate = fr_data.get("drop_rate")
         monster_id = str(fr_data.get("monster_id", None)) 
         droprates["fr"][fr_monster_name] = {"drop_rate": drop_rate, "monster_id": monster_id}
@@ -300,8 +300,8 @@ def format_droprates(en_monsters_data, scrapped_droprates):
 
 
 def format_json(filename):
-    with open(filename, 'r', encoding='utf-8') as scrapped_file:
-        scrapped_data = json.load(scrapped_file)
+    with open(filename, 'r', encoding='utf-8') as scraped_file:
+        scraped_data = json.load(scraped_file)
 
     with open("items.json", 'r', encoding='utf-8') as all_items_file:
         all_items_data = json.load(all_items_file)
@@ -316,9 +316,9 @@ def format_json(filename):
 
     new_items = []
     
-    for scrapped_item in scrapped_data:
+    for scraped_item in scraped_data:
         for original_item in all_items_data:
-            if int(scrapped_item["item"]["id"]) == int(original_item["definition"]["item"]["id"]):
+            if int(scraped_item["item"]["id"]) == int(original_item["definition"]["item"]["id"]):
                 new_item_format = {
                     "title": {
                         "fr": original_item["title"]["fr"],
@@ -328,7 +328,7 @@ def format_json(filename):
                         "fr": original_item.get("description", {}).get("fr", ""),
                         "en": original_item.get("description", {}).get("en", "")
                     },
-                    "droprates": scrapped_item["droprates"],
+                    "droprates": scraped_item["droprates"],
                     "id": int(original_item["definition"]["item"]["id"]),
                     "level": int(original_item["definition"]["item"]["level"]),
                     "baseParams": {
@@ -345,12 +345,12 @@ def format_json(filename):
                     },
                     "gfxId": int(original_item["definition"]["item"]["graphicParameters"]["gfxId"]),
                     "equipEffects": [],
-                    "item_url": str(scrapped_item["item_url"])
+                    "item_url": str(scraped_item["item_url"])
                 }
 
 
-                scrapped_droprates = scrapped_item["droprates"]
-                drop_rates = format_droprates(en_monsters_data,scrapped_droprates)
+                scraped_droprates = scraped_item["droprates"]
+                drop_rates = format_droprates(en_monsters_data,scraped_droprates)
                 new_item_format["droprates"] = drop_rates.droprates
 
 

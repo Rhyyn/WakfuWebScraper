@@ -249,7 +249,7 @@ class ItemDataSpider(scrapy.Spider):
             print(missing_ids) 
 
         file_path = os.path.join(os.path.dirname(os.path.realpath(
-            __file__)), '..', 'ScrapedData', 'ScrappedFiles', 'ScrappedItems', f'{current_category_name}_scrapped_data.json')
+            __file__)), '..', 'ScrapedData', 'ScrapedFiles', 'ScrapedItems', f'{current_category_name}_scraped_data.json')
         # save the scraped data
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(self.results, file, ensure_ascii=False,

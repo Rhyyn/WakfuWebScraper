@@ -7,7 +7,7 @@ project_dir = os.path.abspath(os.getcwd())
 static_data_dir_path = os.path.join(project_dir, '..', 'StaticData')
 subset_data_dir_path = os.path.join(project_dir, '..', 'SubsetDataForTests')
 items_data_file_path = os.path.join(static_data_dir_path, 'items.json')
-monsters_data_file_path = os.path.join(project_dir, '..', 'ScrapedData', 'ScrappedFiles', 'ScrappedMonsters', 'en_monsters_stats_data.json')
+monsters_data_file_path = os.path.join(project_dir, '..', 'ScrapedData', 'ScrapedFiles', 'ScrapedMonsters', 'en_monsters_stats_data.json')
 
 def get_subset_items_data(amountWanted):
     with open(items_data_file_path, 'r', encoding='utf-8') as file:

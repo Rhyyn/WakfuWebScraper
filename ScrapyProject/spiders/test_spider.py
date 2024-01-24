@@ -15,7 +15,7 @@ class TestScrapSpider(scrapy.Spider):
     python -m cli crawl tests
     -------
     -OUTPUT-
-    /ScrappedFiles/ScrapTests
+    /ScrapedFiles/ScrapTests
     --------
     """
     name = 'tests'
@@ -258,7 +258,7 @@ class TestScrapSpider(scrapy.Spider):
 
         
         file_path = os.path.join(os.path.dirname(os.path.realpath(
-            __file__)), '..', 'ScrapedData', 'ScrappedFiles', 'ScrapTests', f'test_scrapped_data.json')
+            __file__)), '..', 'ScrapedData', 'ScrapedFiles', 'ScrapTests', f'test_Scraped_data.json')
         # save the scraped data
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(self.results, file, ensure_ascii=False, indent=2)  # type: ignore

@@ -17,13 +17,13 @@ with open('items.json', 'r', encoding='utf-8') as file:
 with open('./Output/monsters_IDs.json', 'r', encoding='utf-8') as monsters_ids_file:
     monsters_id = json.load(monsters_ids_file)
 
-with open('./ScrapedData/amulette_scrapped_data.json', 'r', encoding='utf-8') as item_data_file:
+with open('./ScrapedData/amulette_scraped_data.json', 'r', encoding='utf-8') as item_data_file:
     item_data = json.load(item_data_file)
 
 with open('./ScrapedData/actions.json', 'r', encoding='utf-8') as actions_file:
     actions = json.load(actions_file)
 
-with open('./ScrapedData/FormatedData/amulette_scrapped_data_formated.json', 'r', encoding='utf-8') as item_data_formated_file:
+with open('./ScrapedData/FormatedData/amulette_scraped_data_formated.json', 'r', encoding='utf-8') as item_data_formated_file:
     item_data_formated = json.load(item_data_formated_file)
 
 # Filter items with definition.item.baseParameters.itemTypeId equal to 120
