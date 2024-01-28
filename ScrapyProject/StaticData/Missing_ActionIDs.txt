@@ -1,0 +1,10 @@
+Amulette: 304, 1020
+arme1main : 304
+bottes: 304
+cape: 304
+casque: 304
+ceinture: 304
+embleme : 304
+epaulettes : 304
+montures : 400
+plastron: 304
