@@ -5,6 +5,11 @@ import re
 import typing
 from typing import Any, Union, List, Dict, Type, Optional
 
+
+# TODO : fix :
+#             "familiers : Quantité Récolte"
+#             "pluriels"
+
 @click.group()
 def cli():
     pass
@@ -124,12 +129,10 @@ class FormatedParams:
     droprates:Optional[dict]
 
 
-def replace_element(match: re.Match) -> str:
+def replace_element(match: re.Match, lang_key) -> str:
     element_key = match.group(1)
-    
     if element_key in element_mapping:
-        language = 'fr'
-        return element_mapping[element_key][language]
+        return element_mapping[element_key][lang_key]
     
     return match.group(0)
 
@@ -153,7 +156,7 @@ def format_flat_stat_gain(action_id:int, params_list:list[int], stat_description
     for lang_key, lang_description in stat_description.items():
         if lang_key in ['fr', 'en'] and isinstance(lang_description, str):
             updated_description = re.sub(r'\[#1\]', str(values), lang_description)
-            updated_description = element_pattern.sub(lambda match: replace_element(match), updated_description)
+            updated_description = element_pattern.sub(lambda match: replace_element(match, lang_key), updated_description)
             setattr(formated_params, lang_key, updated_description)
     return formated_params
 
@@ -254,7 +257,7 @@ def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams
             formated_params.en = f'{formated_params.values}{strings[120]["en"]}'
     return formated_params
     
-gain_flat_ids = [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 162, 166, 168, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063]
+gain_flat_ids = [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 162, 166, 168, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063, 979]
 
 def interpret_description(action_id:int, params_list:list[int], stat_description:dict[str, str], type_id:int) -> FormatedParams:
     if type_id == 582:
@@ -286,6 +289,8 @@ def interpret_description(action_id:int, params_list:list[int], stat_description
                 # custom stat in param
                 formated_params = format_custom_charac(action_id, params_list)
                 return formated_params
+            case _:
+                print(action_id, " not supported")
 
     return FormatedParams()
 
