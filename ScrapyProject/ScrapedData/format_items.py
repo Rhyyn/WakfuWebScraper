@@ -7,7 +7,6 @@ from typing import Any, Union, List, Dict, Type, Optional
 
 
 # TODO : fix :
-#             "familiers : Quantité Récolte"
 #             "pluriels"
 
 @click.group()
@@ -184,17 +183,17 @@ def format_random_stat(action_id:int, params_list:list[int]) -> FormatedParams:
             },
             1: {
                 'fr' : '[#1] Maîtrise dans [#2] éléments aléatoires',
-                'en' : '[#1] Mastery in [#2] randoms elements'
+                'en' : '[#1] Mastery in [#2] random elements'
             }
         },
         1069 : {
             0: {
-                'fr' : '[#1] Résistance dans [#2] élément aléatoire',
+                'fr' : '[#1] Résistances dans [#2] élément aléatoire',
                 'en' : '[#1] Resistance in [#2] random element'
             }, 
             1 : {
                 'fr' : '[#1] Résistance dans [#2] éléments aléatoires',
-                'en' : '[#1] Resistance in [#2] randoms elements'
+                'en' : '[#1] Resistance in [#2] random elements'
             }
         }
     }
@@ -209,17 +208,31 @@ def format_random_stat(action_id:int, params_list:list[int]) -> FormatedParams:
 
 
 def format_gathering_stat(action_id:int, params_list:list[int]) -> FormatedParams:
+    # 2% + (niv du familier + multiplicateur) = total %
+    # 2% + (25 * 0.16 )% = 6%
     formated_params = FormatedParams()
     values = check_return_values(params_list)
     formated_params.values = values
     formated_params.property = action_id
     if int(params_list[2]):
         formated_params.job_id = int(params_list[2])
-        formated_params.fr = '[#1]% Quantité Récolte en [#2]'.replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
-        formated_params.en = '[#1]% Harvesting Quantity in [#2]'.replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
+        formated_params.fr = '[#1]% Quantité Récolte en [#2]'.replace('[#1]', str(int(params_list[0]))).replace('[#2]', jobs[str(formated_params.job_id)]['fr'])
+        formated_params.en = '[#1]% Harvesting Quantity in [#2]'.replace('[#1]', str(int(params_list[0]))).replace('[#2]', jobs[str(formated_params.job_id)]['en'])
     else:
         formated_params.fr = '[#1]% Quantité Récolte'.replace('[#1]', str(int(params_list[0])))
         formated_params.en = '[#1]% Harvesting Quantity'.replace('[#1]', str(int(params_list[0])))    
+    return formated_params
+
+
+def format_old_deboost(action_id:int, params_list:list[int]) -> FormatedParams:
+    formated_params = FormatedParams()
+    values = check_return_values(params_list)
+    match int(action_id):
+        case action_id if action_id in [42]:
+            formated_params.values = values
+            formated_params.fr = '-[#1] PM max'.replace('[#1]', str(values))
+            formated_params.en = '-[#1] max MP'.replace('[#1]', str(values))
+            formated_params.property = 57
     return formated_params
 
 
@@ -257,10 +270,10 @@ def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams
             formated_params.en = f'{formated_params.values}{strings[120]["en"]}'
     return formated_params
     
-gain_flat_ids = [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 162, 166, 168, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063, 979]
+gain_flat_ids = [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 161, 162, 166, 168, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063, 979]
 
-def interpret_description(action_id:int, params_list:list[int], stat_description:dict[str, str], type_id:int) -> FormatedParams:
-    if type_id == 582:
+def interpret_description(action_id:int, params_list:list[int], stat_description:dict[str, str], type_id:int, name) -> FormatedParams:
+    if type_id == 582 and int(action_id) != 2001:
         formated_params = format_flat_stat_gain(action_id, params_list, stat_description)
         return formated_params
     else:
@@ -289,8 +302,15 @@ def interpret_description(action_id:int, params_list:list[int], stat_description
                 # custom stat in param
                 formated_params = format_custom_charac(action_id, params_list)
                 return formated_params
+            case action_id if action_id in [42]:
+                formated_params = format_old_deboost(action_id, params_list)
+                return formated_params
             case _:
                 print(action_id, " not supported")
+                print(name)
+                print(stat_description)
+                print(params_list)
+
 
     return FormatedParams()
 
@@ -390,7 +410,7 @@ def format_json(filename):
                             stat_description:dict[str, str] = action_desc.get(
                                 "description", {})
                             def_id = effect_definition.get("id", "")
-                            formated_params = interpret_description(action_id, params_list, stat_description, type_id)
+                            formated_params = interpret_description(action_id, params_list, stat_description, type_id, original_item["title"]["fr"])
                             formated_params.defId = def_id
                             modified_effect_entry = {
                                 "effect": {
