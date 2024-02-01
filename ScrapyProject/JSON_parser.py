@@ -2,28 +2,27 @@ import json
 import math
 import re
 
-### This file is used for various little scripts to check
-### data and stuff
-### it also has scripts to validate data
-### TODO : separate in functions and add cli prompts
-### Include in format so we can verify while formatting
-
+# This file is used for various little scripts to check
+# data and stuff
+# it also has scripts to validate data
+# TODO : separate in functions and add cli prompts
+# Include in format so we can verify while formatting
 
 
 # Load the items JSON file
-with open('items.json', 'r', encoding='utf-8') as file:
+with open('./StaticData/items.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
-with open('./Output/monsters_IDs.json', 'r', encoding='utf-8') as monsters_ids_file:
+with open('./ScrapedData/ScrapedFiles/ScrapedMonsters/monsters_IDs.json', 'r', encoding='utf-8') as monsters_ids_file:
     monsters_id = json.load(monsters_ids_file)
 
-with open('./ScrapedData/amulette_scraped_data.json', 'r', encoding='utf-8') as item_data_file:
+with open('./ScrapedData/ScrapedFiles/ScrapedItems/amulette_scraped_data.json', 'r', encoding='utf-8') as item_data_file:
     item_data = json.load(item_data_file)
 
-with open('./ScrapedData/actions.json', 'r', encoding='utf-8') as actions_file:
+with open('./StaticData/actions.json', 'r', encoding='utf-8') as actions_file:
     actions = json.load(actions_file)
 
-with open('./ScrapedData/FormatedData/amulette_scraped_data_formated.json', 'r', encoding='utf-8') as item_data_formated_file:
+with open('./ScrapedData/FormatedData/anneau_scraped_data_formated.json', 'r', encoding='utf-8') as item_data_formated_file:
     item_data_formated = json.load(item_data_formated_file)
 
 # Filter items with definition.item.baseParameters.itemTypeId equal to 120
@@ -114,31 +113,113 @@ with open('./ScrapedData/FormatedData/amulette_scraped_data_formated.json', 'r',
 # - arme1main
 # 3812 not found in formated_ids
 # Boufcartes
-    
+
 # - arme2main
 # 2869 not found in formated_ids
 # Epée Ricklès
 
+def check_for_missing_Items():
+    formated_ids = []
+    original_ids = []
+    for item in item_data_formated:
+        formated_ids.append(item['id'])
 
-formated_ids = []
-original_ids = []
-for item in item_data_formated:
-    formated_ids.append(item['id'])
+    for item in data:
+        if item['definition']['item']['baseParameters']['itemTypeId'] in [120]:
+            original_ids.append(item['definition']['item']['id'])
 
-for item in data:
-    if item['definition']['item']['baseParameters']['itemTypeId'] in [120]:
-        original_ids.append(item['definition']['item']['id'])
+    for id in original_ids:
+        if id not in formated_ids:
+            print(f"{id} not found in formated_ids")
+            for item in data:
+                if item['definition']['item']['id'] == id:
+                    print(item['title']['fr'])
+    print('done')
+    # print(formated_ids)
+    # print(original_ids)
 
-for id in original_ids:
-    if id not in formated_ids:
-        print(f"{id} not found in formated_ids")
-        for item in data:
-            if item['definition']['item']['id'] == id:
-                print(item['title']['fr'])
-print('done')
-# print(formated_ids)
-# print(original_ids)
-    
+# check_for_missing_Items()
+
+
+def check_formated_items_based_on_EffectTypeId(myActionID):
+    wanted_param = []
+    equip_effects_items = [
+        {
+            'id': item['id'],
+            'title': item['title']['fr'],
+            'typeID': item['baseParams']['itemTypeId'],
+            'params': [effect['effect'] 
+                        for effect in item['equipEffects'] 
+                            if effect['effect']['stats']['property'] == myActionID]
+        }
+        for item in item_data_formated
+        if any(effect['effect']['stats']['property'] == myActionID 
+            for effect in item['equipEffects'])
+    ]
+
+    for item in equip_effects_items:
+        print("--FORMATED DATA--")
+        print(f"Item NAME: {item['title']}")
+        print(f"Item TypeID: {item['typeID']}")
+        print(f"Item ID: {item['id']}")
+        print(f"Wanted Params: {item['params']}")
+
+# check_formated_items_based_on_EffectTypeId(2001)
+
+
+def check_original_items_based_on_EffectTypeId(myActionID):
+    wanted_param = []
+    equip_effects_items = [
+        {
+            'id': item['definition']['item']['id'],
+            'title': item['title']['fr'],
+            'typeID': item['definition']['item']['baseParameters']['itemTypeId'],
+            'params': [effect['effect'] 
+                    for effect in item['definition']['equipEffects'] 
+                    if effect['effect']['definition']['actionId'] == myActionID]
+        }
+        for item in data
+        if any(effect['effect']['definition']['actionId'] == myActionID 
+            for effect in item['definition']['equipEffects'])
+    ]
+
+    for item in equip_effects_items:
+        print("--FORMATED DATA--")
+        print(f"Item NAME: {item['title']}")
+        print(f"Item TypeID: {item['typeID']}")
+        print(f"Item ID: {item['id']}")
+        print(f"Wanted Params: {item['params']}")
+
+# check_original_items_based_on_EffectTypeId(42)
+
+
+### Used to check the first value of each effect inside paramslist is negative
+def check_original_items_based_on_EffectTypeId_and_effectValue(myActionID):
+    wanted_param = []
+    equip_effects_items = [
+        {
+            'id': item['definition']['item']['id'],
+            'title': item['title']['fr'],
+            'typeID': item['definition']['item']['baseParameters']['itemTypeId'],
+            'params': [effect['effect'] 
+                    for effect in item['definition']['equipEffects'] 
+                    if effect['effect']['definition']['actionId'] == myActionID and effect['effect']['definition']['params'][0] < 0]
+        }
+        for item in data
+        if any(effect['effect']['definition']['actionId'] == myActionID 
+            for effect in item['definition']['equipEffects'])
+                and any(effect['effect']['definition']['params'][0] < 0 
+                    for effect in item['definition']['equipEffects'])
+    ]
+
+    for item in equip_effects_items:
+        print("--FORMATED DATA--")
+        print(f"Item NAME: {item['title']}")
+        print(f"Item TypeID: {item['typeID']}")
+        print(f"Item ID: {item['id']}")
+        print(f"Wanted Params: {item['params']}")
+# check_original_items_based_on_EffectTypeId_and_effectValue(40)
+
 
 
 #### Check for Missing IDS ####
