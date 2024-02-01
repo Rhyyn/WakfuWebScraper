@@ -111,4 +111,6 @@ python format_items.py
 + Adding support for tab completion / arrows keys movement for the CLI prompts
 + Adds Logs for errors
 + Add a formatting option to format ALL files in the ScrapedItems folder
++ Fix actionId 304 
++ Fix mounts (montures.json) support for scaling stats
 
