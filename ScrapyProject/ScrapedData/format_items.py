@@ -70,16 +70,6 @@ def format_items():
 
 
 
-patterns = ["{[>1]?s:}",
-            "{[~2]?%:}",
-            "{[~2]?([#2]%):}",
-            "{[99>3]?:{[0<3]?:{[~3]?([#3]%):}}}",
-            "{[~3]?[#1] Résistance [#3]:[#1] Résistance sur [#2] élément{[>2]?s:} aléatoire{[>2]?s:}}",
-            "{[~3]?[#1] Resistance [#3]:[#1] Resistance to [#2] random element{[>2]?s:}}" <
-            "{[~3]?[#1] Maîtrise [#3]:[#1] Maîtrise sur [#2] élément{[>2]?s:} aléatoire{[>2]?s:}}",
-            "{[~3]?[#1] Mastery [#3]:[#1] Mastery of [#2] random{[=2]?:} element{[=2]?:s}}",
-            "{[~2]? en [#2]:}"]
-
 jobs = {
     '75' : {'fr': 'Pêcheur', 'en' : "Fisherman"},
     '71' : {'fr': 'Forestier', 'en' : "Lumberjack"},
@@ -107,16 +97,7 @@ element_mapping = {
     'el6': {'fr': 'Lumière', 'en': 'Light'},
 }
 
-result =  {
-                "display": {
-                    "fr": '',
-                    "en": ''
-                },
-                "property": "",
-                "values": ''
-            }
 element_pattern = re.compile(r'\[(el\d+)\]')
-
 
 class FormatedParams:
     defId:int = 0
@@ -126,6 +107,11 @@ class FormatedParams:
     values:int = 0
     job_id:Optional[int]
     droprates:Optional[dict]
+    value:int = 0
+    random_element:Optional[int] = 0
+    stat_string_fr:str = ''
+    stat_string_en:str = ''
+    stat_string_value:str = ''
 
 
 def replace_element(match: re.Match, lang_key) -> str:
@@ -149,31 +135,59 @@ def check_return_values(params_list:list[int]) -> int:
 
 def format_flat_stat_gain(action_id:int, params_list:list[int], stat_description:dict[str, str]) -> FormatedParams:
     formated_params = FormatedParams()
-    values = check_return_values(params_list)
-    formated_params.values = values
+    value = check_return_values(params_list)
+    formated_params.value = value
     formated_params.property = action_id
     for lang_key, lang_description in stat_description.items():
         if lang_key in ['fr', 'en'] and isinstance(lang_description, str):
-            updated_description = re.sub(r'\[#1\]', str(values), lang_description)
+            updated_description = re.sub(r'\[#1\]', str(value), lang_description)
             updated_description = element_pattern.sub(lambda match: replace_element(match, lang_key), updated_description)
-            setattr(formated_params, lang_key, updated_description)
+
+            # This separates the value from the stat string
+            # Aswell as separating the special characters such as - or % 
+            # From the value 
+            match = re.search(r'([^\d]?)' + re.escape(str(value)) + r'([^\d]?)', updated_description)
+            
+            if match:
+                prefix, suffix = match.groups()
+                value_str = f"{prefix}{value}{suffix}"
+                new_value = value
+                if prefix:
+                    new_value = (value) - (value * 2)
+                
+                updated_description_without_value = updated_description.replace(value_str, "").strip()
+                
+                setattr(formated_params, 'stat_string_' + lang_key, updated_description_without_value)
+                setattr(formated_params, 'value', new_value)
+                setattr(formated_params, 'stat_string_value', value_str.strip())
+                setattr(formated_params, lang_key, updated_description)
+            else:
+                setattr(formated_params, 'stat_string_' + lang_key, 'Error parsing flat_stat_gain')
+                setattr(formated_params, 'value', None)
+                setattr(formated_params, lang_key, updated_description.strip())
+
     return formated_params
 
 
 def format_flat_stat_deboost(action_id:int, params_list:list[int], stat_description:dict[str, str]) -> FormatedParams:
     formated_params = FormatedParams()
-    values = check_return_values(params_list)
-    formated_params.values = values
+    value = check_return_values(params_list)
+    value = (value) - (value * 2)
+    formated_params.value = value
     formated_params.property = action_id
     formated_params.fr = f'-{int(params_list[0])} PV'
     formated_params.en = f'-{int(params_list[0])} HP'
+    formated_params.stat_string_fr = 'PV'
+    formated_params.stat_string_en = 'HP'
+    formated_params.stat_string_value = f'-{str(int(params_list[0]))}'
     return formated_params
 
 
 def format_random_stat(action_id:int, params_list:list[int]) -> FormatedParams:
     formated_params = FormatedParams()
-    values = check_return_values(params_list)
-    formated_params.values = values
+    value = check_return_values(params_list)
+    formated_params.value = value
+    formated_params.stat_string_value = str(value)
     formated_params.property = action_id
     strings = {
         1068 : {
@@ -197,13 +211,18 @@ def format_random_stat(action_id:int, params_list:list[int]) -> FormatedParams:
             }
         }
     }
-
     if int(params_list[2]) == 1 :
         formated_params.fr = strings[action_id][0]['fr'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
         formated_params.en = strings[action_id][0]['en'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
+        formated_params.stat_string_fr = formated_params.fr.split(' ', 1)[1]
+        formated_params.stat_string_en = formated_params.en.split(' ', 1)[1]
+        formated_params.random_element = int(params_list[2])
     else :
         formated_params.fr = strings[action_id][1]['fr'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
         formated_params.en = strings[action_id][1]['en'].replace('[#1]', str(int(params_list[0]))).replace('[#2]', str(int(params_list[2])))
+        formated_params.stat_string_fr = formated_params.fr.split(' ', 1)[1]
+        formated_params.stat_string_en = formated_params.en.split(' ', 1)[1]
+        formated_params.random_element = int(params_list[2])
     return formated_params
 
 
@@ -211,27 +230,36 @@ def format_gathering_stat(action_id:int, params_list:list[int]) -> FormatedParam
     # 2% + (niv du familier + multiplicateur) = total %
     # 2% + (25 * 0.16 )% = 6%
     formated_params = FormatedParams()
-    values = check_return_values(params_list)
-    formated_params.values = values
+    value = check_return_values(params_list)
+    formated_params.value = value
+    formated_params.stat_string_value = str(value) + "%"
     formated_params.property = action_id
     if int(params_list[2]):
         formated_params.job_id = int(params_list[2])
         formated_params.fr = '[#1]% Quantité Récolte en [#2]'.replace('[#1]', str(int(params_list[0]))).replace('[#2]', jobs[str(formated_params.job_id)]['fr'])
         formated_params.en = '[#1]% Harvesting Quantity in [#2]'.replace('[#1]', str(int(params_list[0]))).replace('[#2]', jobs[str(formated_params.job_id)]['en'])
+        formated_params.stat_string_fr = formated_params.fr.split(' ', 1)[1]
+        formated_params.stat_string_en = formated_params.en.split(' ', 1)[1]
     else:
         formated_params.fr = '[#1]% Quantité Récolte'.replace('[#1]', str(int(params_list[0])))
-        formated_params.en = '[#1]% Harvesting Quantity'.replace('[#1]', str(int(params_list[0])))    
+        formated_params.en = '[#1]% Harvesting Quantity'.replace('[#1]', str(int(params_list[0])))
+        formated_params.stat_string_fr = formated_params.fr.split(' ', 1)[1]
+        formated_params.stat_string_en = formated_params.en.split(' ', 1)[1]
     return formated_params
 
 
 def format_old_deboost(action_id:int, params_list:list[int]) -> FormatedParams:
     formated_params = FormatedParams()
-    values = check_return_values(params_list)
+    value = check_return_values(params_list)
+    newValue = (value) - (value * 2)
     match int(action_id):
         case action_id if action_id in [42]:
-            formated_params.values = values
-            formated_params.fr = '-[#1] PM max'.replace('[#1]', str(values))
-            formated_params.en = '-[#1] max MP'.replace('[#1]', str(values))
+            formated_params.value = newValue
+            formated_params.stat_string_value = str(newValue)
+            formated_params.fr = '-[#1] PM max'.replace('[#1]', str(value))
+            formated_params.en = '-[#1] max MP'.replace('[#1]', str(value))
+            formated_params.stat_string_fr = formated_params.fr.split(' ', 1)[1].strip()
+            formated_params.stat_string_en = formated_params.en.split(' ', 1)[1].strip()
             formated_params.property = 57
     return formated_params
 
@@ -241,8 +269,8 @@ def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams
     # may lead to undesirable behavior
     # subject to crash
     formated_params = FormatedParams()
-    values = check_return_values(params_list)
-    formated_params.values = values
+    value = check_return_values(params_list)
+    formated_params.value = value
     formated_params.property = action_id
     fourth_param:int = int(params_list[4])
     strings = {
@@ -257,16 +285,22 @@ def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams
     }
     if fourth_param in {120, 121}: 
         if params_list[2] is not None:
-            formated_params.values = int(params_list[0]) + int(params_list[1]) * 50
+            formated_params.value = int(params_list[0]) + int(params_list[1]) * 50
         else:
-            formated_params.values = int(params_list[0])
+            formated_params.value = int(params_list[0])
 
         if action_id == 40:
-            formated_params.fr = f'-{formated_params.values}{strings[fourth_param]["fr"]}'
-            formated_params.en = f'-{formated_params.values}{strings[fourth_param]["en"]}'
+            formated_params.fr = f'-{formated_params.value}{strings[fourth_param]["fr"]}'
+            formated_params.en = f'-{formated_params.value}{strings[fourth_param]["en"]}'
+            formated_params.stat_string_fr = formated_params.fr.split(' ', 1)[1].strip()
+            formated_params.stat_string_en = formated_params.en.split(' ', 1)[1].strip()
+            formated_params.value = value - (value * 2)
         else:
-            formated_params.fr = f'{formated_params.values}{strings[fourth_param]["fr"]}'
-            formated_params.en = f'{formated_params.values}{strings[fourth_param]["en"]}'
+            formated_params.fr = f'{formated_params.value}{strings[fourth_param]["fr"]}'
+            formated_params.en = f'{formated_params.value}{strings[fourth_param]["en"]}'
+            formated_params.stat_string_fr = formated_params.fr.split(' ', 1)[1].strip()
+            formated_params.stat_string_en = formated_params.en.split(' ', 1)[1].strip()
+    formated_params.stat_string_value = str(formated_params.value) + "%"
     return formated_params
     
 gain_flat_ids = [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 161, 162, 166, 168, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063, 979]
@@ -310,11 +344,10 @@ def interpret_description(action_id:int, params_list:list[int], stat_description
                 print(stat_description)
                 print(params_list)
 
-
     return FormatedParams()
 
 def format_droprates(en_monsters_data, scraped_droprates):
-    formated_params = FormatedParams  
+    formated_params = FormatedParams()
     droprates = {"fr": {}, "en": {}}
     en_monsters_dict = {str(monster.get('monster_id')): monster for monster in en_monsters_data}
 
@@ -419,13 +452,21 @@ def format_json(filename):
                                     "stats": {
                                         "display": {
                                             "fr": formated_params.fr,
-                                            "en": formated_params.en  
+                                            "en": formated_params.en,  
                                         },
+                                        "stat_string_desc": {
+                                              "fr": formated_params.stat_string_fr,
+                                              "en": formated_params.stat_string_en
+                                        },
+                                        "stat_string_value": formated_params.stat_string_value,
                                         "property": formated_params.property,
-                                        "values": formated_params.values,
+                                        "value": formated_params.value,
+                                        
                                     }
                                 }
                             }
+                            if formated_params.random_element != 0:
+                                modified_effect_entry["effect"]["stats"]["random_element"] = formated_params.random_element
                             new_item_format["equipEffects"].append(modified_effect_entry)
                 new_items.append(new_item_format)
 
