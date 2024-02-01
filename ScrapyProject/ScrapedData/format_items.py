@@ -123,7 +123,7 @@ class FormatedParams:
     fr:str = ''
     en:str = ''
     property:int = 0
-    values:list[int] | int = []
+    values:int = 0
     job_id:Optional[int]
     droprates:Optional[dict]
 
@@ -140,7 +140,7 @@ def starts_with_hyphen(s):
     return bool(pattern.match(s))
 
 
-def check_return_values(params_list:list[int]) -> list[int] | int:
+def check_return_values(params_list:list[int]) -> int:
     if len(params_list) >= 3 and params_list[2] is not None: 
         return int(params_list[0]) + (int(params_list[1]) * 50)
     else:
@@ -154,8 +154,10 @@ def format_flat_stat_gain(action_id:int, params_list:list[int], stat_description
     formated_params.property = action_id
     for lang_key, lang_description in stat_description.items():
         if lang_key in ['fr', 'en'] and isinstance(lang_description, str):
+            print(lang_description)
             updated_description = re.sub(r'\[#1\]', str(values), lang_description)
             updated_description = element_pattern.sub(lambda match: replace_element(match, lang_key), updated_description)
+            print(updated_description)
             setattr(formated_params, lang_key, updated_description)
     return formated_params
 
@@ -242,6 +244,7 @@ def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams
     # subject to crash
     formated_params = FormatedParams()
     values = check_return_values(params_list)
+    print(values)
     formated_params.values = values
     formated_params.property = action_id
     fourth_param:int = int(params_list[4])
@@ -256,18 +259,17 @@ def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams
         }
     }
     if fourth_param in {120, 121}: 
-        armor_type = "Armure donnée" if fourth_param == 120 else "Armure reçue"
         if params_list[2] is not None:
             formated_params.values = int(params_list[0]) + int(params_list[1]) * 50
         else:
             formated_params.values = int(params_list[0])
 
         if action_id == 40:
-            formated_params.fr = f'-{formated_params.values}{strings[120]["fr"]}'
-            formated_params.en = f'-{formated_params.values}{strings[120]["en"]}'
+            formated_params.fr = f'-{formated_params.values}{strings[fourth_param]["fr"]}'
+            formated_params.en = f'-{formated_params.values}{strings[fourth_param]["en"]}'
         else:
-            formated_params.fr = f'{formated_params.values}{strings[120]["fr"]}'
-            formated_params.en = f'{formated_params.values}{strings[120]["en"]}'
+            formated_params.fr = f'{formated_params.values}{strings[fourth_param]["fr"]}'
+            formated_params.en = f'{formated_params.values}{strings[fourth_param]["en"]}'
     return formated_params
     
 gain_flat_ids = [20, 26, 31, 41, 71, 80, 82, 83, 84, 85, 120, 122, 123, 124, 125, 149, 160, 161, 162, 166, 168, 171, 173, 175, 177, 180, 184, 191, 988, 1052, 1053, 1055, 150, 875, 56, 57, 90, 96, 97, 98, 100, 130, 132, 172, 174, 176, 181, 192, 876, 1056, 1059, 1060, 1061, 1062, 1063, 979]
