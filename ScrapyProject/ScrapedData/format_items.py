@@ -154,10 +154,8 @@ def format_flat_stat_gain(action_id:int, params_list:list[int], stat_description
     formated_params.property = action_id
     for lang_key, lang_description in stat_description.items():
         if lang_key in ['fr', 'en'] and isinstance(lang_description, str):
-            print(lang_description)
             updated_description = re.sub(r'\[#1\]', str(values), lang_description)
             updated_description = element_pattern.sub(lambda match: replace_element(match, lang_key), updated_description)
-            print(updated_description)
             setattr(formated_params, lang_key, updated_description)
     return formated_params
 
@@ -244,7 +242,6 @@ def format_custom_charac(action_id:int, params_list:list[int]) -> FormatedParams
     # subject to crash
     formated_params = FormatedParams()
     values = check_return_values(params_list)
-    print(values)
     formated_params.values = values
     formated_params.property = action_id
     fourth_param:int = int(params_list[4])
