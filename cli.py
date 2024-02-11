@@ -5,6 +5,7 @@ from ScrapyProject.spiders.items_data import ItemDataSpider
 from ScrapyProject.spiders.monsters_ids_spider import MonstersIdsSpider
 from ScrapyProject.spiders.monsters_data_spider import MonstersDataSpider
 from ScrapyProject.spiders.test_spider import TestScrapSpider
+from ScrapyProject.spiders.ressources_ids_spider import RessourcesIdsSpider
 
 from ScrapyProject.Scripts import run_tests
 import sys
@@ -44,8 +45,8 @@ SPIDERS = {
     'items_data': ItemDataSpider,
     'monsters_ids': MonstersIdsSpider,
     'monsters_data': MonstersDataSpider,
+    'ressources_ids': RessourcesIdsSpider,
     'tests': TestScrapSpider,
-
 }
 
 @click.group()
