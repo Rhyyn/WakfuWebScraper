@@ -5,7 +5,6 @@ __pycache__/
 
 # Scrapy
 .scrapy/
-scrapy.cfg
 
 # Virtual environment
 venv/
@@ -45,3 +44,4 @@ ipython_config.py
 
 
 **/.vscode/
+/.conda
