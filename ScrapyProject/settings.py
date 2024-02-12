@@ -11,8 +11,8 @@ BOT_NAME = "ScrapyProject"
 
 SPIDER_MODULES = ["ScrapyProject.spiders"]
 NEWSPIDER_MODULE = "ScrapyProject.spiders"
-LOG_LEVEL = 'INFO' #DEBUG
-LOG_FORMAT = '%(asctime)s [%(levelname)s] %(message)s'
+LOG_LEVEL = "INFO"  # DEBUG
+LOG_FORMAT = "%(asctime)s [%(levelname)s] %(message)s"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = "ScrapyProject (+http://www.yourdomain.com)"
@@ -54,7 +54,7 @@ DOWNLOAD_DELAY = 3
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
     "ScrapyProject.middlewares.RotateUserAgentMiddleware": 543,  # 400
-    'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
+    "scrapy.downloadermiddlewares.useragent.UserAgentMiddleware": None,
 }
 
 USER_AGENT_LIST = [

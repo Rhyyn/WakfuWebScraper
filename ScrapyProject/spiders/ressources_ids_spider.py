@@ -1,53 +1,43 @@
 import scrapy
-import json
 import os
+import json
+import re
+
+# does not include page 1 for some reason
+
 
 class RessourcesIdsSpider(scrapy.Spider):
-    """
-    -INFO-
-    Spider to retrieve all resources from the game.
-    -------
-    -USAGE-
-    python -m cli crawl ressources_ids
-    -------
-    -OUTPUT-
-    ressources_ids.json
-    --------
-    """
     name = "ressources_ids"
-    allowed_domains = ["wakfu.com"]
-    start_urls = ['https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources?page={}']
-
-    def __init__(self, name=None, **kwargs):
-        super().__init__(name=name, **kwargs)
-        self.items = []
+    base_url = "https://www.wakfu.com/fr/mmorpg/encyclopedie/ressources?page={}"
+    items = []
 
     def start_requests(self):
-        # Start from page 1
-        yield scrapy.Request(url=self.start_urls[0].format(1), callback=self.parse)
+        # Generate start URLs for 80 pages
+        start_urls = [self.base_url.format(page) for page in range(1, 81)]
+
+        for url in start_urls:
+            yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        # Extract href from the second td in each tr
-        for tr in response.css('tbody tr'):
-            href = tr.css('td:nth-child(2) span a::attr(href)').get()
-            # Extract the monster ID from the URL
-            ressource_id = int(href.rsplit('/', 1)[-1].split('-', 1)[0])
-            print(ressource_id)
-            self.logger.info(ressource_id)
-            self.items.append(ressource_id)
-
-        # Calculate the next page number
-        current_page = int(response.url.split('=')[-1])
-        next_page = current_page + 1
-
-        # Follow the link to the next page if not exceeding the total number of pages (34)
-        if next_page <= 2: # 81
-            yield response.follow(self.start_urls[0].format(next_page), callback=self.parse)
+        print("Parsing page: ", response.url)
+        # Extracting href links, corresponding names, levels, and rarities
+        for row in response.css("table tbody tr"):
+            link = row.css("td:nth-child(2) span.ak-linker a")
+            name = link.css("::text").get()
+            href = link.attrib["href"]
+            resource_id = href.split("/")[-1].split("-")[0]
+            self.items.append(resource_id)
+        yield {"page": response.url, "resources": self.items}
 
     def closed(self, reason):
-        file_path = os.path.join(os.path.dirname(os.path.realpath(
-            __file__)), '..', 'ScrapedData', 'ScrapedFiles', 'ScrapedRessources', 'ressources_ids.json')
-        # save the scraped data
-        with open(file_path, 'w', encoding='utf-8') as file:
-            json.dump(self.items, file, ensure_ascii=False,
-                      indent=2)  # type: ignore
+        file_path = os.path.join(
+            os.path.dirname(os.path.realpath(__file__)),
+            "..",
+            "ScrapedData",
+            "ScrapedFiles",
+            "ScrapedRessources",
+            "ressources_ids.json",
+        )
+        # Save the scraped data
+        with open(file_path, "w", encoding="utf-8") as file:
+            json.dump(self.items, file, ensure_ascii=False, indent=2)
